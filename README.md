@@ -41,7 +41,6 @@
 
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
-- [notroj/cadaver](https://github.com/notroj/cadaver) - Command-line WebDAV client
 - [JoeDog/siege](https://github.com/JoeDog/siege) - Siege is an http load tester and benchmarking utility
 - [mean00/avidemux2](https://github.com/mean00/avidemux2) - Avidemux2, simple video editor
 - [dericed/american-archive-kaldi](https://github.com/dericed/american-archive-kaldi) - This repo houses open-source models for Kaldi speech-to-text software that have been trained on public media content.
@@ -105,7 +104,6 @@
 - [ColorlabMD/DPX_Metadata_Editor](https://github.com/ColorlabMD/DPX_Metadata_Editor) - View, Edit and Modify DPX file headers
 - [bfidatadigipres/bfidatadigipres.github.io](https://github.com/bfidatadigipres/bfidatadigipres.github.io) - 
 - [bfi-prog-notes/bfi-prog-notes.github.io](https://github.com/bfi-prog-notes/bfi-prog-notes.github.io) - 
-- [bfidatadigipres/bfi_universal_viewer](https://github.com/bfidatadigipres/bfi_universal_viewer) - 
 - [KBNLresearch/iromlab](https://github.com/KBNLresearch/iromlab) - Loader software for automated imaging of optical media with Nimbie disc robot
 - [paulduchesne/intermurnau-d3](https://github.com/paulduchesne/intermurnau-d3) - D3 data visualisation of Intermurnau project.
 - [IIIF-Commons/biiif-cli](https://github.com/IIIF-Commons/biiif-cli) - A CLI to Build Static IIIF Collections
@@ -255,6 +253,7 @@
 
 ## Python 
 
+- [alphasecio/llama-index](https://github.com/alphasecio/llama-index) - A simple Streamlit web app for using LlamaIndex, an interface to connect LLM’s with external data.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [qurator-spk/dinglehopper](https://github.com/qurator-spk/dinglehopper) - An OCR evaluation tool
@@ -279,7 +278,7 @@
 - [fcakyon/craft-text-detector](https://github.com/fcakyon/craft-text-detector) - Packaged, Pytorch-based, easy to use, cross-platform version of the CRAFT text detector
 - [kadirnar/whisper-plus](https://github.com/kadirnar/whisper-plus) - WhisperPlus: Advancing Speech-to-Text Processing 🚀
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
-- [Yuliang-Liu/MultimodalOCR](https://github.com/Yuliang-Liu/MultimodalOCR) - On the Hidden Mystery of OCR in Large Multimodal Models (Evaluation Pipeline)
+- [Yuliang-Liu/MultimodalOCR](https://github.com/Yuliang-Liu/MultimodalOCR) - On the Hidden Mystery of OCR in Large Multimodal Models (OCRBench)
 - [SALT-NLP/LLaVAR](https://github.com/SALT-NLP/LLaVAR) - Code/Data for the paper: "LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding"
 - [mapluisch/LLaVA-CLI-with-multiple-images](https://github.com/mapluisch/LLaVA-CLI-with-multiple-images) - LLaVA inference with multiple images which get concatenated pre-inference.
 - [LLaVA-VL/LLaVA-Interactive-Demo](https://github.com/LLaVA-VL/LLaVA-Interactive-Demo) - LLaVA-Interactive-Demo
