@@ -183,7 +183,6 @@
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
-- [notroj/cadaver](https://github.com/notroj/cadaver) - Command-line WebDAV client
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [mifi/ezshare](https://github.com/mifi/ezshare) - Easily share files, folders and clipboard over LAN - Like Google Drive but without internet
@@ -474,7 +473,7 @@
 - [Vishnunkumar/craft_hw_ocr](https://github.com/Vishnunkumar/craft_hw_ocr) - Recognition of handwritten text using CRAFT text detection and TrOCR
 - [kadirnar/whisper-plus](https://github.com/kadirnar/whisper-plus) - WhisperPlus: Advancing Speech-to-Text Processing 🚀
 - [hrishioa/wishful-search](https://github.com/hrishioa/wishful-search) - Natural language search for complex JSON arrays, with AI Quickstart.
-- [Yuliang-Liu/MultimodalOCR](https://github.com/Yuliang-Liu/MultimodalOCR) - On the Hidden Mystery of OCR in Large Multimodal Models (Evaluation Pipeline)
+- [Yuliang-Liu/MultimodalOCR](https://github.com/Yuliang-Liu/MultimodalOCR) - On the Hidden Mystery of OCR in Large Multimodal Models (OCRBench)
 - [LLaVA-VL/LLaVA-Interactive-Demo](https://github.com/LLaVA-VL/LLaVA-Interactive-Demo) - LLaVA-Interactive-Demo
 - [coolwanglu/pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 - [ise-uiuc/magicoder](https://github.com/ise-uiuc/magicoder) - Magicoder: Source Code Is All You Need
@@ -622,7 +621,6 @@
 - [EIDR-ID/php](https://github.com/EIDR-ID/php) - EIDR applications and source code examples written in PHP.
 - [EIDR-ID/python](https://github.com/EIDR-ID/python) - EIDR applications and source code examples written in Python.
 - [digirati-co-uk/bfi-discovery](https://github.com/digirati-co-uk/bfi-discovery) - Prototyping, discovery and documentation for the BFI viewer project.
-- [bfidatadigipres/bfi_universal_viewer](https://github.com/bfidatadigipres/bfi_universal_viewer) - 
 - [KBNLresearch/iromlab](https://github.com/KBNLresearch/iromlab) - Loader software for automated imaging of optical media with Nimbie disc robot
 - [iiif-prezi/iiif-prezi](https://github.com/iiif-prezi/iiif-prezi) - IIIF Presentation API implementation in Python
 - [paulduchesne/intermurnau](https://github.com/paulduchesne/intermurnau) - Linked Open Data project concerning the work of F W Murnau.
@@ -704,6 +702,7 @@
 
 ## python 
 
+- [alphasecio/llama-index](https://github.com/alphasecio/llama-index) - A simple Streamlit web app for using LlamaIndex, an interface to connect LLM’s with external data.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [fcakyon/craft-text-detector](https://github.com/fcakyon/craft-text-detector) - Packaged, Pytorch-based, easy to use, cross-platform version of the CRAFT text detector
