@@ -84,7 +84,7 @@
 
 ## Go 
 
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [hillu/local-log4j-vuln-scanner](https://github.com/hillu/local-log4j-vuln-scanner) - Simple local scanner for vulnerable log4j instances
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
@@ -253,6 +253,7 @@
 
 ## Python 
 
+- [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Teaching LLMs memory management for unbounded context 📚🦙
 - [bertramlyons/DPXdpxDPX](https://github.com/bertramlyons/DPXdpxDPX) - DPX header editing gizmo
 - [da-z/mlx-ui](https://github.com/da-z/mlx-ui) - A hackish frontend for mlx-lm using streamlit.
 - [alphasecio/llama-index](https://github.com/alphasecio/llama-index) - A simple Streamlit web app for using LlamaIndex, an interface to connect LLM’s with external data.
@@ -308,7 +309,7 @@
 - [pipinstallyp/minigpt4-batch](https://github.com/pipinstallyp/minigpt4-batch) - Use miniGPT-4 batch to generate captions for a lot of images! You should be able to create the best captions you always wanted!
 - [theovercomer8/captionr](https://github.com/theovercomer8/captionr) - GIT/BLIP/CLIP Caption tool
 - [simonw/blip-caption](https://github.com/simonw/blip-caption) - Generate captions for images with Salesforce BLIP
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & command-line tool to gather text on the Web: web crawling/scraping, extraction of text, metadata, comments
 - [IBM/zshot](https://github.com/IBM/zshot) - Zero and Few shot named entity & relationships recognition
 - [facebookresearch/GENRE](https://github.com/facebookresearch/GENRE) - Autoregressive Entity Retrieval
