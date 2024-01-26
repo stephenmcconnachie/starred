@@ -258,7 +258,7 @@
 - [video-db/StreamRAG](https://github.com/video-db/StreamRAG) - Video Search and Streaming Agent 🕵️‍♂️
 - [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Teaching LLMs memory management for unbounded context 📚🦙
 - [bertramlyons/DPXdpxDPX](https://github.com/bertramlyons/DPXdpxDPX) - DPX header editing gizmo
-- [da-z/mlx-ui](https://github.com/da-z/mlx-ui) - A hackish frontend for mlx-lm using streamlit.
+- [da-z/mlx-ui](https://github.com/da-z/mlx-ui) - A hackish frontend for mlx-lm using Streamlit.
 - [alphasecio/llama-index](https://github.com/alphasecio/llama-index) - A simple Streamlit web app for using LlamaIndex, an interface to connect LLM’s with external data.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
