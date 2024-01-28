@@ -254,6 +254,8 @@
 
 ## Python 
 
+- [Peter-obi/Video_summarization_mlx](https://github.com/Peter-obi/Video_summarization_mlx) - 
+- [bclavie/RAGatouille](https://github.com/bclavie/RAGatouille) - 
 - [taketwo/llm-ollama](https://github.com/taketwo/llm-ollama) - LLM plugin providing access to local Ollama models using HTTP API
 - [vegaluisjose/mlx-rag](https://github.com/vegaluisjose/mlx-rag) - Explore a simple example of utilizing MLX for RAG application running locally on your Apple Silicon device.
 - [video-db/StreamRAG](https://github.com/video-db/StreamRAG) - Video Search and Streaming Agent 🕵️‍♂️
@@ -454,6 +456,7 @@
 
 ## Swift 
 
+- [deployradiant/pajama](https://github.com/deployradiant/pajama) - A UI for Ollama on Mac
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [vincentneo/LosslessSwitcher](https://github.com/vincentneo/LosslessSwitcher) - Automated Apple Music Lossless Sample Rate Switching for Audio Devices on Macs.
 
@@ -463,6 +466,7 @@
 
 ## TypeScript 
 
+- [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
 - [Nutlope/pdftochat](https://github.com/Nutlope/pdftochat) - Chat with your PDFs with AI
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
