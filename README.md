@@ -39,7 +39,6 @@
 
 ## C 
 
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [JoeDog/siege](https://github.com/JoeDog/siege) - Siege is an http load tester and benchmarking utility
 - [mean00/avidemux2](https://github.com/mean00/avidemux2) - Avidemux2, simple video editor
@@ -64,6 +63,7 @@
 
 - [aarnphm/whispercpp](https://github.com/aarnphm/whispercpp) - Pybind11 bindings for Whisper.cpp
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [shundhammer/qdirstat](https://github.com/shundhammer/qdirstat) - QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
 - [3ximus/md5-collisions](https://github.com/3ximus/md5-collisions) - MD5 collision testing
@@ -178,6 +178,7 @@
 
 ## Jupyter Notebook 
 
+- [aigeek0x0/rag-with-langchain-colbert-and-ragatouille](https://github.com/aigeek0x0/rag-with-langchain-colbert-and-ragatouille) - Build a Streamlit Chatbot using Langchain, ColBERT, Ragatouille, and ChromaDB
 - [rohan-paul/LLM-FineTuning-Large-Language-Models](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models) - LLM (Large Language Model) FineTuning
 - [snexus/llm-search](https://github.com/snexus/llm-search) - Querying local documents, powered by LLM
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
@@ -466,6 +467,7 @@
 
 ## TypeScript 
 
+- [wsxiaoys/bobtail.dev](https://github.com/wsxiaoys/bobtail.dev) - Poor man's phind.com/perplexity.ai
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
 - [Nutlope/pdftochat](https://github.com/Nutlope/pdftochat) - Chat with your PDFs with AI
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
