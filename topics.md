@@ -460,6 +460,8 @@
 
 ## others 
 
+- [wsxiaoys/bobtail.dev](https://github.com/wsxiaoys/bobtail.dev) - Poor man's phind.com/perplexity.ai
+- [aigeek0x0/rag-with-langchain-colbert-and-ragatouille](https://github.com/aigeek0x0/rag-with-langchain-colbert-and-ragatouille) - Build a Streamlit Chatbot using Langchain, ColBERT, Ragatouille, and ChromaDB
 - [Peter-obi/Video_summarization_mlx](https://github.com/Peter-obi/Video_summarization_mlx) - 
 - [bclavie/RAGatouille](https://github.com/bclavie/RAGatouille) - 
 - [taketwo/llm-ollama](https://github.com/taketwo/llm-ollama) - LLM plugin providing access to local Ollama models using HTTP API
