@@ -209,6 +209,7 @@
 
 ## Others 
 
+- [archivematica/Issues](https://github.com/archivematica/Issues) - Issues repository for the Archivematica project
 - [LvanWissen/starred](https://github.com/LvanWissen/starred) - 
 - [AI4LAM/awesome-ai4lam](https://github.com/AI4LAM/awesome-ai4lam) - A list of awesome AI in libraries, archives, and museum collections from around the world 🕶️
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
@@ -251,6 +252,7 @@
 
 ## Python 
 
+- [artefactual/automation-tools](https://github.com/artefactual/automation-tools) - Tools to aid automation of Archivematica and AtoM.
 - [allenai/OLMo](https://github.com/allenai/OLMo) - Modeling, training, eval, and inference code for OLMo
 - [argmaxinc/whisperkittools](https://github.com/argmaxinc/whisperkittools) - Python tools for WhisperKit: Model conversion, optimization and evaluation
 - [instillai/extract-audio-from-video-gpu](https://github.com/instillai/extract-audio-from-video-gpu) - Extracting audio from video using GPU-accelerated FFMPEG
