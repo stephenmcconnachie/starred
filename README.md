@@ -451,6 +451,7 @@
 
 ## Shell 
 
+- [mhasan49/ubuntu-setup](https://github.com/mhasan49/ubuntu-setup) - 
 - [artefactual/archivematica-docs](https://github.com/artefactual/archivematica-docs) - Archivematica documentation
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [dericed/dpxderiver](https://github.com/dericed/dpxderiver) - shell script for converting DPX+wav input to specific outputs of DNxHD, lossless h264 at 4:2:2 YUV 10 bit, and a streamable h264
