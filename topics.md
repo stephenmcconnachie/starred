@@ -469,6 +469,7 @@
 
 ## others 
 
+- [mhasan49/ubuntu-setup](https://github.com/mhasan49/ubuntu-setup) - 
 - [run-llama/llama_parse](https://github.com/run-llama/llama_parse) - Parse files for optimal RAG
 - [artefactual/automation-tools](https://github.com/artefactual/automation-tools) - Tools to aid automation of Archivematica and AtoM.
 - [archivematica/Issues](https://github.com/archivematica/Issues) - Issues repository for the Archivematica project
