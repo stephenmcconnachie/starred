@@ -141,7 +141,6 @@
 - [transitive-bullshit/ffmpeg-extract-frames](https://github.com/transitive-bullshit/ffmpeg-extract-frames) - Extracts frames from a video using ffmpeg.
 - [transitive-bullshit/ffmpeg-generate-video-preview](https://github.com/transitive-bullshit/ffmpeg-generate-video-preview) - Generates an attractive image strip or GIF preview from a video.
 - [mifi/ezshare](https://github.com/mifi/ezshare) - Easily share files, folders and clipboard over LAN - Like Google Drive but without internet
-- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [cookpete/react-player](https://github.com/cookpete/react-player) - A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
 - [samvera-labs/ramp](https://github.com/samvera-labs/ramp) - Interactive, IIIF powered audio/video media player React components library. Styleguidist Docs: https://samvera-labs.github.io/ramp/
 - [digirati-co-uk/canvas-panel](https://github.com/digirati-co-uk/canvas-panel) - Prototype covering the specification of Canvas Panel, and supporting components for composing bespoke IIIF viewers and lightweight experiences, conforming to the IIIF Presentation 3 specification.
@@ -490,6 +489,7 @@
 - [fromsmash/smash-downloader-js](https://github.com/fromsmash/smash-downloader-js) - Official JavaScript library to download transfers using the Smash API & SDK 🚀
 - [karolkozer/planby](https://github.com/karolkozer/planby) - 
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
+- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [digirati-co-uk/iiif-manifest-editor](https://github.com/digirati-co-uk/iiif-manifest-editor) - Create new IIIF Manifests. Modify existing manifests. Tell stories with IIIF.
 - [IIIF-Commons/parser](https://github.com/IIIF-Commons/parser) - IIIF Presentation 2 + 3 parser
