@@ -59,6 +59,7 @@
 - [opencv](#opencv)
 - [opengl](#opengl)
 - [others](#others)
+- [php](#php)
 - [postgresql](#postgresql)
 - [programming](#programming)
 - [python](#python)
@@ -728,6 +729,10 @@
 - [exponential-decay/pronom-archive-and-skeleton-test-suite](https://github.com/exponential-decay/pronom-archive-and-skeleton-test-suite) - Release repository for The Skeleton Test Suite. Contains an Archive of PRONOM, and skeleton files for testing DROID from The National Archives, UK.
 - [kieranjol/IFIscripts](https://github.com/kieranjol/IFIscripts) - Detailed documentation is available here: http://ifiscripts.readthedocs.io/en/latest/index.html
 
+## php 
+
+- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
+
 ## postgresql 
 
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
@@ -833,11 +838,13 @@
 
 ## security 
 
+- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [hillu/local-log4j-vuln-scanner](https://github.com/hillu/local-log4j-vuln-scanner) - Simple local scanner for vulnerable log4j instances
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 
 ## self-hosted 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - ChatGPT-Style WebUI for Ollama (Formerly Ollama WebUI)
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
