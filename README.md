@@ -26,6 +26,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [Tcl](#tcl)
 - [TypeScript](#typescript)
@@ -239,6 +240,7 @@
 
 ## PHP 
 
+- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [exponential-decay/the-format-registry](https://github.com/exponential-decay/the-format-registry) - A mirror of the PRONOM file format registry in Linked Open Data format. The Format Registry is a linked (open) data file format repository. The work is the result of a four-day hack during November 20
 
 ## Pascal 
@@ -464,6 +466,10 @@
 - [eddycolloton/INPT](https://github.com/eddycolloton/INPT) - These shell scripts are intended to automate several steps frequently performed by media conservators at the Hirshhorn Museum and Sculpture Garden (HMSG).
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [antespi/s3md5](https://github.com/antespi/s3md5) - Bash script to calculate Etag/S3 MD5 sum for very big files uploaded using multipart S3 API
+
+## Svelte 
+
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - ChatGPT-Style WebUI for Ollama (Formerly Ollama WebUI)
 
 ## Swift 
 
