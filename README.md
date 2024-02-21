@@ -127,7 +127,7 @@
 
 ## JavaScript 
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs, and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application!
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application!
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [britishlibrary/peripleo-lanc](https://github.com/britishlibrary/peripleo-lanc) - 
 - [eslawski/react-iiif-viewer](https://github.com/eslawski/react-iiif-viewer) - A React component for displaying high resolution IIIF images with deep zooming capabilities on mobile and desktop.
