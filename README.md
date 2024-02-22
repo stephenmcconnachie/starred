@@ -25,6 +25,7 @@
 - [R](#r)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [SCSS](#scss)
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [Swift](#swift)
@@ -57,6 +58,7 @@
 
 ## C++ 
 
+- [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
 - [RWKV/rwkv.cpp](https://github.com/RWKV/rwkv.cpp) - INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model
 - [aarnphm/whispercpp](https://github.com/aarnphm/whispercpp) - Pybind11 bindings for Whisper.cpp
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
@@ -127,6 +129,7 @@
 
 ## JavaScript 
 
+- [marco-bertelli/medium-rag-frontend](https://github.com/marco-bertelli/medium-rag-frontend) - Rag Chatbot React And Tyepscript base boilerplate
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application!
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [britishlibrary/peripleo-lanc](https://github.com/britishlibrary/peripleo-lanc) - 
@@ -211,7 +214,6 @@
 
 - [archivematica/Issues](https://github.com/archivematica/Issues) - Issues repository for the Archivematica project
 - [LvanWissen/starred](https://github.com/LvanWissen/starred) - 
-- [AI4LAM/awesome-ai4lam](https://github.com/AI4LAM/awesome-ai4lam) - A list of awesome AI in libraries, archives, and museum collections from around the world 🕶️
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [1mrat/gpt-stats](https://github.com/1mrat/gpt-stats) - Stats for Custom Chat GPTs not created by OpenAI
 - [travistangvh/ChatGPT-Data-Science-Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) - A repository of 60 useful data science prompts for ChatGPT
@@ -452,6 +454,10 @@
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [acdha/mountstatus](https://github.com/acdha/mountstatus) - MountStatusMonitor: paranoid monitor for POSIX filesystem mounts (Linux, OS X, FreeBSD)
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
+
+## SCSS 
+
+- [AI4LAM/awesome-ai4lam](https://github.com/AI4LAM/awesome-ai4lam) - A list of awesome AI in libraries, archives, and museum collections from around the world 🕶️
 
 ## Shell 
 
