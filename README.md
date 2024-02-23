@@ -83,7 +83,7 @@
 
 ## Go 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [hillu/local-log4j-vuln-scanner](https://github.com/hillu/local-log4j-vuln-scanner) - Simple local scanner for vulnerable log4j instances
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
@@ -476,7 +476,7 @@
 
 ## Svelte 
 
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - ChatGPT-Style WebUI for LLMs (Formerly Ollama WebUI)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 
 ## Swift 
 
