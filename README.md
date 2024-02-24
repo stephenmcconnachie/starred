@@ -490,6 +490,7 @@
 
 ## TypeScript 
 
+- [da-z/llamazing](https://github.com/da-z/llamazing) - A simple Web / UI / App / Frontend to Ollama.
 - [run-llama/sec-insights](https://github.com/run-llama/sec-insights) - A real world full-stack application using LlamaIndex
 - [wsxiaoys/bobtail.dev](https://github.com/wsxiaoys/bobtail.dev) - Poor man's phind.com/perplexity.ai
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
