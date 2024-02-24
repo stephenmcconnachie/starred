@@ -402,6 +402,7 @@
 
 ## macos 
 
+- [da-z/llamazing](https://github.com/da-z/llamazing) - A simple Web / UI / App / Frontend to Ollama.
 - [deployradiant/pajama](https://github.com/deployradiant/pajama) - A UI for Ollama on Mac
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [fcakyon/craft-text-detector](https://github.com/fcakyon/craft-text-detector) - Packaged, Pytorch-based, easy to use, cross-platform version of the CRAFT text detector
@@ -922,6 +923,7 @@
 
 ## web 
 
+- [da-z/llamazing](https://github.com/da-z/llamazing) - A simple Web / UI / App / Frontend to Ollama.
 - [karolkozer/planby](https://github.com/karolkozer/planby) - 
 
 ## web-components 
