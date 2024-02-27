@@ -101,6 +101,7 @@
 
 ## ai 
 
+- [video-db/PromptClip](https://github.com/video-db/PromptClip) - Instantly create video clips from LLM prompts
 - [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants using function calling
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
 - [da-z/mlx-ui](https://github.com/da-z/mlx-ui) - A simple UI / Web / Frontend for MLX mlx-lm using Streamlit.
