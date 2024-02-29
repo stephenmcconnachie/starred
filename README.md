@@ -304,7 +304,7 @@
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [Yuliang-Liu/MultimodalOCR](https://github.com/Yuliang-Liu/MultimodalOCR) - On the Hidden Mystery of OCR in Large Multimodal Models (OCRBench)
 - [SALT-NLP/LLaVAR](https://github.com/SALT-NLP/LLaVAR) - Code/Data for the paper: "LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding"
-- [mapluisch/LLaVA-CLI-with-multiple-images](https://github.com/mapluisch/LLaVA-CLI-with-multiple-images) - LLaVA inference with multiple images which get concatenated pre-inference.
+- [mapluisch/LLaVA-CLI-with-multiple-images](https://github.com/mapluisch/LLaVA-CLI-with-multiple-images) - LLaVA inference with multiple images at once for cross-image analysis.
 - [LLaVA-VL/LLaVA-Interactive-Demo](https://github.com/LLaVA-VL/LLaVA-Interactive-Demo) - LLaVA-Interactive-Demo
 - [ise-uiuc/magicoder](https://github.com/ise-uiuc/magicoder) - Magicoder: Source Code Is All You Need
 - [stanford-oval/WikiChat](https://github.com/stanford-oval/WikiChat) - WikiChat stops the hallucination of large language models by retrieving data from Wikipedia.
