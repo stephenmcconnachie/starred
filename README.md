@@ -179,6 +179,7 @@
 
 ## Jupyter Notebook 
 
+- [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
 - [video-db/PromptClip](https://github.com/video-db/PromptClip) - Instantly create video clips from LLM prompts
 - [brevdev/notebooks](https://github.com/brevdev/notebooks) - 
 - [aigeek0x0/rag-with-langchain-colbert-and-ragatouille](https://github.com/aigeek0x0/rag-with-langchain-colbert-and-ragatouille) - Build a Streamlit Chatbot using Langchain, ColBERT, Ragatouille, and ChromaDB
@@ -259,6 +260,7 @@
 
 ## Python 
 
+- [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [qnguyen3/chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx) - Chat with your data natively on Apple Silicon using MLX Framework.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [keirf/greaseweazle](https://github.com/keirf/greaseweazle) - Tools for accessing a floppy drive at the raw flux level
