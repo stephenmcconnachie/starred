@@ -486,6 +486,7 @@
 
 ## others 
 
+- [WGBH-MLA/transcript-editor](https://github.com/WGBH-MLA/transcript-editor) - Web-based tool for correcting speech-to-text generated  transcripts.
 - [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
 - [qnguyen3/chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx) - Chat with your data natively on Apple Silicon using MLX Framework.
 - [brevdev/notebooks](https://github.com/brevdev/notebooks) - 
