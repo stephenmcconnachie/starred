@@ -179,6 +179,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
 - [video-db/PromptClip](https://github.com/video-db/PromptClip) - Instantly create video clips from LLM prompts
 - [brevdev/notebooks](https://github.com/brevdev/notebooks) - 
@@ -260,6 +261,7 @@
 
 ## Python 
 
+- [diicellman/dspy-rag-fastapi](https://github.com/diicellman/dspy-rag-fastapi) - FastAPI wrapper around DSPy
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [qnguyen3/chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx) - Chat with your data natively on Apple Silicon using MLX Framework.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
@@ -488,6 +490,7 @@
 
 ## Swift 
 
+- [PreternaturalAI/mlx-swift-chat](https://github.com/PreternaturalAI/mlx-swift-chat) - A multi-platform SwiftUI frontend for running local LLMs with Apple's MLX framework.
 - [deployradiant/pajama](https://github.com/deployradiant/pajama) - A UI for Ollama on Mac
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [vincentneo/LosslessSwitcher](https://github.com/vincentneo/LosslessSwitcher) - Automated Apple Music Lossless Sample Rate Switching for Audio Devices on Macs.
