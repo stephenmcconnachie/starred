@@ -262,6 +262,7 @@
 
 ## Python 
 
+- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [HumanSignal/label-studio-ml-backend](https://github.com/HumanSignal/label-studio-ml-backend) - Configs and boilerplates for Label Studio's Machine Learning backend
 - [katanaml/sparrow](https://github.com/katanaml/sparrow) - Data extraction with ML and LLM
 - [diicellman/dspy-rag-fastapi](https://github.com/diicellman/dspy-rag-fastapi) - FastAPI wrapper around DSPy
