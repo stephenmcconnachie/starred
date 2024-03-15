@@ -523,6 +523,7 @@
 
 ## others 
 
+- [mustafaaljadery/mlxserver](https://github.com/mustafaaljadery/mlxserver) - Start a server from the MLX library.
 - [HumanSignal/label-studio-ml-backend](https://github.com/HumanSignal/label-studio-ml-backend) - Configs and boilerplates for Label Studio's Machine Learning backend
 - [diicellman/dspy-rag-fastapi](https://github.com/diicellman/dspy-rag-fastapi) - FastAPI wrapper around DSPy
 - [WGBH-MLA/transcript-editor](https://github.com/WGBH-MLA/transcript-editor) - Web-based tool for correcting speech-to-text generated  transcripts.
