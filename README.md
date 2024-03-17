@@ -219,6 +219,7 @@
 
 ## Others 
 
+- [watson/awesome-computer-history](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore
 - [archivematica/Issues](https://github.com/archivematica/Issues) - Issues repository for the Archivematica project
 - [LvanWissen/starred](https://github.com/LvanWissen/starred) - 
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
