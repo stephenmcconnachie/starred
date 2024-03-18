@@ -9,6 +9,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [Cython](#cython)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
 - [HTML](#html)
@@ -77,6 +78,10 @@
 
 - [aravindputrevu/app-search-flask-app](https://github.com/aravindputrevu/app-search-flask-app) - This is an example of a Python Flask app with Elasticsearch/ Elastic App Search with respective Python Clients
 - [IIIF/cookbook-recipes](https://github.com/IIIF/cookbook-recipes) - For working on the recipes
+
+## Cython 
+
+- [explosion/thinc-apple-ops](https://github.com/explosion/thinc-apple-ops) - 🍏 Make Thinc faster on macOS by calling into Apple's native Accelerate library
 
 ## Dockerfile 
 
@@ -263,6 +268,8 @@
 
 ## Python 
 
+- [explosion/spacy-huggingface-pipelines](https://github.com/explosion/spacy-huggingface-pipelines) - 💥 Use Hugging Face text and token classification pipelines directly in spaCy
+- [explosion/spacy-transformers](https://github.com/explosion/spacy-transformers) - 🛸 Use pretrained transformers like BERT, XLNet and GPT-2 in spaCy
 - [NousResearch/Hermes-Function-Calling](https://github.com/NousResearch/Hermes-Function-Calling) - 
 - [mustafaaljadery/mlxserver](https://github.com/mustafaaljadery/mlxserver) - Start a server from the MLX library.
 - [explosion/spacy-llm](https://github.com/explosion/spacy-llm) - 🦙 Integrating LLMs into structured NLP pipelines
