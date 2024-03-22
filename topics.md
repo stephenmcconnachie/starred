@@ -538,6 +538,7 @@
 
 ## others 
 
+- [yandexdataschool/nlp_course](https://github.com/yandexdataschool/nlp_course) - YSDA course in Natural Language Processing
 - [explosion/spacy-curated-transformers](https://github.com/explosion/spacy-curated-transformers) - spaCy entry points for Curated Transformers
 - [explosion/thinc-apple-ops](https://github.com/explosion/thinc-apple-ops) - 🍏 Make Thinc faster on macOS by calling into Apple's native Accelerate library
 - [explosion/spacy-huggingface-pipelines](https://github.com/explosion/spacy-huggingface-pipelines) - 💥 Use Hugging Face text and token classification pipelines directly in spaCy
