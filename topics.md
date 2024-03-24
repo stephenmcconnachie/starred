@@ -255,6 +255,8 @@
 
 ## deep-learning 
 
+- [izuna385/Wikia-and-Wikipedia-EL-Dataset-Creator](https://github.com/izuna385/Wikia-and-Wikipedia-EL-Dataset-Creator) - You can create datasets from Wikia/Wikipedia that can be used for entity recognition and Entity Linking. Dumps for ja-wiki and VTuber-wiki are available!
+- [mindee/doctr](https://github.com/mindee/doctr) - docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning.
 - [IBM/zshot](https://github.com/IBM/zshot) - Zero and Few shot named entity & relationships recognition
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
@@ -414,6 +416,7 @@
 
 ## machine-learning 
 
+- [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [explosion/spacy-stanza](https://github.com/explosion/spacy-stanza) - 💥 Use the latest Stanza (StanfordNLP) research models directly in spaCy
 - [explosion/spacy-transformers](https://github.com/explosion/spacy-transformers) - 🛸 Use pretrained transformers like BERT, XLNet and GPT-2 in spaCy
 - [explosion/spacy-llm](https://github.com/explosion/spacy-llm) - 🦙 Integrating LLMs into structured NLP pipelines
@@ -424,7 +427,6 @@
 - [AI4LAM/awesome-ai4lam](https://github.com/AI4LAM/awesome-ai4lam) - A list of awesome AI in libraries, archives, and museum collections from around the world 🕶️
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-- [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [kermitt2/grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
 - [kermitt2/entity-fishing](https://github.com/kermitt2/entity-fishing) - A machine learning tool for fishing entities
@@ -460,6 +462,8 @@
 
 ## natural-language-processing 
 
+- [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
+- [izuna385/Wikia-and-Wikipedia-EL-Dataset-Creator](https://github.com/izuna385/Wikia-and-Wikipedia-EL-Dataset-Creator) - You can create datasets from Wikia/Wikipedia that can be used for entity recognition and Entity Linking. Dumps for ja-wiki and VTuber-wiki are available!
 - [explosion/spacy-stanza](https://github.com/explosion/spacy-stanza) - 💥 Use the latest Stanza (StanfordNLP) research models directly in spaCy
 - [explosion/spacy-transformers](https://github.com/explosion/spacy-transformers) - 🛸 Use pretrained transformers like BERT, XLNet and GPT-2 in spaCy
 - [explosion/spacy-llm](https://github.com/explosion/spacy-llm) - 🦙 Integrating LLMs into structured NLP pipelines
@@ -467,7 +471,6 @@
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 - [AI4LAM/awesome-ai4lam](https://github.com/AI4LAM/awesome-ai4lam) - A list of awesome AI in libraries, archives, and museum collections from around the world 🕶️
 - [stanford-oval/WikiChat](https://github.com/stanford-oval/WikiChat) - WikiChat stops the hallucination of large language models by retrieving data from Wikipedia.
-- [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [Lucaterre/spacyfishing](https://github.com/Lucaterre/spacyfishing) - A spaCy wrapper of Entity-Fishing (component) for named entity disambiguation and linking on Wikidata
 - [davidberenstein1957/classy-classification](https://github.com/davidberenstein1957/classy-classification) - This repository contains an easy and intuitive approach to few-shot classification using sentence-transformers or spaCy models, or zero-shot classification with Huggingface.
 - [davidberenstein1957/concise-concepts](https://github.com/davidberenstein1957/concise-concepts) - This repository contains an easy and intuitive approach to few-shot NER using most similar expansion over spaCy embeddings. Now with entity scoring.
@@ -486,6 +489,7 @@
 
 ## nlp 
 
+- [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [explosion/spacy-stanza](https://github.com/explosion/spacy-stanza) - 💥 Use the latest Stanza (StanfordNLP) research models directly in spaCy
 - [explosion/curated-transformers](https://github.com/explosion/curated-transformers) - 🤖 A PyTorch library of curated Transformer models and their composable components
 - [explosion/spacy-transformers](https://github.com/explosion/spacy-transformers) - 🛸 Use pretrained transformers like BERT, XLNet and GPT-2 in spaCy
@@ -496,7 +500,6 @@
 - [stanford-oval/WikiChat](https://github.com/stanford-oval/WikiChat) - WikiChat stops the hallucination of large language models by retrieving data from Wikipedia.
 - [clovaai/donut](https://github.com/clovaai/donut) - Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & command-line tool to gather text on the Web: web crawling/scraping, extraction of text, metadata, comments
-- [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [kermitt2/delft](https://github.com/kermitt2/delft) - a Deep Learning Framework for Text
 - [Lucaterre/spacyfishing](https://github.com/Lucaterre/spacyfishing) - A spaCy wrapper of Entity-Fishing (component) for named entity disambiguation and linking on Wikidata
 - [davidberenstein1957/classy-classification](https://github.com/davidberenstein1957/classy-classification) - This repository contains an easy and intuitive approach to few-shot classification using sentence-transformers or spaCy models, or zero-shot classification with Huggingface.
@@ -538,6 +541,8 @@
 
 ## others 
 
+- [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
+- [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
 - [facebookresearch/BELA](https://github.com/facebookresearch/BELA) - Bi-encoder entity linking architecture
 - [yandexdataschool/nlp_course](https://github.com/yandexdataschool/nlp_course) - YSDA course in Natural Language Processing
 - [explosion/spacy-curated-transformers](https://github.com/explosion/spacy-curated-transformers) - spaCy entry points for Curated Transformers
@@ -585,7 +590,6 @@
 - [Macuyiko/royal-navy-ship-identification](https://github.com/Macuyiko/royal-navy-ship-identification) - This repository contains the source code accompanying the paper "Explainable Deep Learning to Classify Royal Navy Ships"
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [Vaibhavs10/how-to-whisper](https://github.com/Vaibhavs10/how-to-whisper) - 
-- [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
 - [Vaibhavs10/on-device-llm-playground](https://github.com/Vaibhavs10/on-device-llm-playground) - A repo with scripts to test and play around with Facebook's recent llama models! 🤗
 - [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a framework for generative AI
 - [impira/docquery](https://github.com/impira/docquery) - An easy way to extract information from documents
@@ -872,6 +876,8 @@
 
 ## pytorch 
 
+- [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
+- [mindee/doctr](https://github.com/mindee/doctr) - docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning.
 - [explosion/curated-transformers](https://github.com/explosion/curated-transformers) - 🤖 A PyTorch library of curated Transformer models and their composable components
 - [explosion/spacy-transformers](https://github.com/explosion/spacy-transformers) - 🛸 Use pretrained transformers like BERT, XLNet and GPT-2 in spaCy
 - [IBM/zshot](https://github.com/IBM/zshot) - Zero and Few shot named entity & relationships recognition
@@ -881,7 +887,6 @@
 - [NielsRogge/Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials) - This repository contains demos I made with the Transformers library by HuggingFace.
 - [fcakyon/craft-text-detector](https://github.com/fcakyon/craft-text-detector) - Packaged, Pytorch-based, easy to use, cross-platform version of the CRAFT text detector
 - [mapluisch/LLaVA-CLI-with-multiple-images](https://github.com/mapluisch/LLaVA-CLI-with-multiple-images) - LLaVA inference with multiple images at once for cross-image analysis.
-- [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [SapienzaNLP/extend](https://github.com/SapienzaNLP/extend) - Entity Disambiguation as text extraction (ACL 2022)
 
 ## qt 
