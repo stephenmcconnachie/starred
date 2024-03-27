@@ -116,7 +116,7 @@
 - [krzemienski/awesome-video](https://github.com/krzemienski/awesome-video) - A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
 - [kba/hocrjs](https://github.com/kba/hocrjs) - Working with hOCR in Javascript
 - [algorythmik/python-hocr](https://github.com/algorythmik/python-hocr) - HOCR parsing
-- [DigitalPebble/storm-crawler](https://github.com/DigitalPebble/storm-crawler) - A scalable, mature and versatile web crawler based on Apache Storm
+- [DigitalPebbleTemp/storm-crawler](https://github.com/DigitalPebbleTemp/storm-crawler) - A scalable, mature and versatile web crawler based on Apache Storm
 - [archival-IIIF/archival-iiif.github.io](https://github.com/archival-IIIF/archival-iiif.github.io) - Website
 
 ## Java 
@@ -272,6 +272,7 @@
 
 ## Python 
 
+- [cohere-ai/BinaryVectorDB](https://github.com/cohere-ai/BinaryVectorDB) - Efficient vector database for hundred millions of embeddings.
 - [hirmeos/entity-fishing-client-python](https://github.com/hirmeos/entity-fishing-client-python) - Repository hosting the common code for the entity-fishing clients
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [izuna385/Wikia-and-Wikipedia-EL-Dataset-Creator](https://github.com/izuna385/Wikia-and-Wikipedia-EL-Dataset-Creator) - You can create datasets from Wikia/Wikipedia that can be used for entity recognition and Entity Linking. Dumps for ja-wiki and VTuber-wiki are available!
