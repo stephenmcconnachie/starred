@@ -116,7 +116,7 @@
 - [krzemienski/awesome-video](https://github.com/krzemienski/awesome-video) - A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
 - [kba/hocrjs](https://github.com/kba/hocrjs) - Working with hOCR in Javascript
 - [algorythmik/python-hocr](https://github.com/algorythmik/python-hocr) - HOCR parsing
-- [DigitalPebbleTemp/storm-crawler](https://github.com/DigitalPebbleTemp/storm-crawler) - A scalable, mature and versatile web crawler based on Apache Storm
+- [apache/incubator-stormcrawler](https://github.com/apache/incubator-stormcrawler) - A scalable, mature and versatile web crawler based on Apache Storm
 - [archival-IIIF/archival-iiif.github.io](https://github.com/archival-IIIF/archival-iiif.github.io) - Website
 
 ## Java 
@@ -136,7 +136,6 @@
 
 ## JavaScript 
 
-- [hrishioa/lumentis](https://github.com/hrishioa/lumentis) - AI powered one-click comprehensive docs from transcripts and text.
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [fchollet/ARC](https://github.com/fchollet/ARC) - The Abstraction and Reasoning Corpus
 - [marco-bertelli/medium-rag-frontend](https://github.com/marco-bertelli/medium-rag-frontend) - Rag Chatbot React And Tyepscript base boilerplate
@@ -187,6 +186,7 @@
 
 ## Jupyter Notebook 
 
+- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [LearnToCode180/Entity-Fishing-Tutorial](https://github.com/LearnToCode180/Entity-Fishing-Tutorial) - Entity Linking of text mentions with Wikidata entries using a tool called Entity Fishing.
 - [yandexdataschool/nlp_course](https://github.com/yandexdataschool/nlp_course) - YSDA course in Natural Language Processing
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
@@ -321,7 +321,7 @@
 - [rsommerfeld/trocr](https://github.com/rsommerfeld/trocr) - Powerful handwritten text recognition. A simple-to-use, unofficial implementation of the paper "TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models".
 - [facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind) - ImageBind One Embedding Space to Bind Them All
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
-- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR and line detection in 90+ languages
+- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, and line detection in 90+ languages
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
 - [riccardomusmeci/mlx-llm](https://github.com/riccardomusmeci/mlx-llm) - LLM applications running on Apple Silicon thanks to mlx from Apple
@@ -530,6 +530,7 @@
 
 ## TypeScript 
 
+- [hrishioa/lumentis](https://github.com/hrishioa/lumentis) - AI powered one-click comprehensive docs from transcripts and text.
 - [da-z/llamazing](https://github.com/da-z/llamazing) - A simple Web / UI / App / Frontend to Ollama.
 - [run-llama/sec-insights](https://github.com/run-llama/sec-insights) - A real world full-stack application using LlamaIndex
 - [wsxiaoys/bobtail.dev](https://github.com/wsxiaoys/bobtail.dev) - Poor man's phind.com/perplexity.ai
