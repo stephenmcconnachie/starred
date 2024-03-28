@@ -369,7 +369,7 @@
 ## java 
 
 - [DSpace/DSpace](https://github.com/DSpace/DSpace) - (Official) The DSpace digital asset management system that powers your Institutional Repository
-- [DigitalPebbleTemp/storm-crawler](https://github.com/DigitalPebbleTemp/storm-crawler) - A scalable, mature and versatile web crawler based on Apache Storm
+- [apache/incubator-stormcrawler](https://github.com/apache/incubator-stormcrawler) - A scalable, mature and versatile web crawler based on Apache Storm
 
 ## javascript 
 
@@ -542,6 +542,7 @@
 
 ## others 
 
+- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [cohere-ai/BinaryVectorDB](https://github.com/cohere-ai/BinaryVectorDB) - Efficient vector database for hundred millions of embeddings.
 - [kermitt2/grisp](https://github.com/kermitt2/grisp) - Knowledge Base stuff
 - [hrishioa/lumentis](https://github.com/hrishioa/lumentis) - AI powered one-click comprehensive docs from transcripts and text.
@@ -587,7 +588,7 @@
 - [facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind) - ImageBind One Embedding Space to Bind Them All
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application with a built-in LLM!
 - [snexus/llm-search](https://github.com/snexus/llm-search) - Querying local documents, powered by LLM
-- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR and line detection in 90+ languages
+- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, and line detection in 90+ languages
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
 - [riccardomusmeci/mlx-llm](https://github.com/riccardomusmeci/mlx-llm) - LLM applications running on Apple Silicon thanks to mlx from Apple
