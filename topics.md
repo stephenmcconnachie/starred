@@ -542,6 +542,7 @@
 
 ## others 
 
+- [simonw/tools](https://github.com/simonw/tools) - Assorted tools
 - [weaviate/recipes](https://github.com/weaviate/recipes) - This repository shares end-to-end notebooks on how to use various features and integrations with Weaviate at the core!
 - [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [cohere-ai/BinaryVectorDB](https://github.com/cohere-ai/BinaryVectorDB) - Efficient vector database for hundred millions of embeddings.
