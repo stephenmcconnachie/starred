@@ -187,6 +187,7 @@
 
 ## Jupyter Notebook 
 
+- [google-research/vision_transformer](https://github.com/google-research/vision_transformer) - 
 - [weaviate/recipes](https://github.com/weaviate/recipes) - This repository shares end-to-end notebooks on how to use various features and integrations with Weaviate at the core!
 - [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [LearnToCode180/Entity-Fishing-Tutorial](https://github.com/LearnToCode180/Entity-Fishing-Tutorial) - Entity Linking of text mentions with Wikidata entries using a tool called Entity Fishing.
@@ -206,7 +207,7 @@
 - [NielsRogge/Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials) - This repository contains demos I made with the Transformers library by HuggingFace.
 - [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence
 - [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Join our Discord: https://aka.ms/autogen-dc
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap
 - [run-llama/llama-hub](https://github.com/run-llama/llama-hub) - A library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
 - [sroecker/LLM_AppDev-HandsOn](https://github.com/sroecker/LLM_AppDev-HandsOn) - Repository and hands-on workshop on how to develop applications with local LLMs
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
@@ -274,6 +275,10 @@
 
 ## Python 
 
+- [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNet-V3/V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, 
+- [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
+- [zhongyy/Face-Transformer](https://github.com/zhongyy/Face-Transformer) - Face Transformer for Recognition
+- [anguyen8/face-vit](https://github.com/anguyen8/face-vit) - 
 - [cohere-ai/BinaryVectorDB](https://github.com/cohere-ai/BinaryVectorDB) - Efficient vector database for hundred millions of embeddings.
 - [hirmeos/entity-fishing-client-python](https://github.com/hirmeos/entity-fishing-client-python) - Repository hosting the common code for the entity-fishing clients
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
