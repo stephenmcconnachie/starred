@@ -275,6 +275,8 @@
 
 ## Python 
 
+- [simonw/click-app](https://github.com/simonw/click-app) - Cookiecutter template for creating new Click command-line tools
+- [simonw/files-to-prompt](https://github.com/simonw/files-to-prompt) - Concatenate a directory full of files into a single prompt for use with LLMs
 - [theirstory/gliner-spacy](https://github.com/theirstory/gliner-spacy) - A spaCy wrapper for GliNER
 - [urchade/GLiNER](https://github.com/urchade/GLiNER) - Generalist and Lightweight Model for Named Entity Recognition (Extract any entity types from texts) @ NAACL 24
 - [yoheinakajima/mindgraph](https://github.com/yoheinakajima/mindgraph) - proof of concept prototype for generating and querying against an ever-expanding knowledge graph with ai
