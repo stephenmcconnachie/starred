@@ -137,6 +137,7 @@
 
 ## JavaScript 
 
+- [datasette/datasette-extract](https://github.com/datasette/datasette-extract) - Import unstructured data (text and images) into structured tables
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [fchollet/ARC](https://github.com/fchollet/ARC) - The Abstraction and Reasoning Corpus
 - [marco-bertelli/medium-rag-frontend](https://github.com/marco-bertelli/medium-rag-frontend) - Rag Chatbot React And Tyepscript base boilerplate
@@ -275,6 +276,8 @@
 
 ## Python 
 
+- [katanaml/sparrow](https://github.com/katanaml/sparrow) - Data processing with ML and LLM
+- [apple/ml-mobileclip](https://github.com/apple/ml-mobileclip) - This repository contains the official implementation of the research paper, "MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training" CVPR 2024
 - [simonw/click-app](https://github.com/simonw/click-app) - Cookiecutter template for creating new Click command-line tools
 - [simonw/files-to-prompt](https://github.com/simonw/files-to-prompt) - Concatenate a directory full of files into a single prompt for use with LLMs
 - [theirstory/gliner-spacy](https://github.com/theirstory/gliner-spacy) - A spaCy wrapper for GliNER
@@ -307,7 +310,6 @@
 - [IBM/zshot](https://github.com/IBM/zshot) - Zero and Few shot named entity & relationships recognition
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [HumanSignal/label-studio-ml-backend](https://github.com/HumanSignal/label-studio-ml-backend) - Configs and boilerplates for Label Studio's Machine Learning backend
-- [katanaml/sparrow](https://github.com/katanaml/sparrow) - Data processing with ML and LLM
 - [diicellman/dspy-rag-fastapi](https://github.com/diicellman/dspy-rag-fastapi) - FastAPI wrapper around DSPy
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [qnguyen3/chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx) - Chat with your data natively on Apple Silicon using MLX Framework.
