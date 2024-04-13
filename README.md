@@ -141,7 +141,7 @@
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [fchollet/ARC](https://github.com/fchollet/ARC) - The Abstraction and Reasoning Corpus
 - [marco-bertelli/medium-rag-frontend](https://github.com/marco-bertelli/medium-rag-frontend) - Rag Chatbot React And Tyepscript base boilerplate
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application with a built-in LLM!
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI application, tool suite, and API for RAG & Agents for Docker & Desktop.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [britishlibrary/peripleo-lanc](https://github.com/britishlibrary/peripleo-lanc) - 
 - [eslawski/react-iiif-viewer](https://github.com/eslawski/react-iiif-viewer) - A React component for displaying high resolution IIIF images with deep zooming capabilities on mobile and desktop.
@@ -537,6 +537,7 @@
 
 ## Swift 
 
+- [AugustDev/enchanted](https://github.com/AugustDev/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 - [PreternaturalAI/mlx-swift-chat](https://github.com/PreternaturalAI/mlx-swift-chat) - A multi-platform SwiftUI frontend for running local LLMs with Apple's MLX framework.
 - [deployradiant/pajama](https://github.com/deployradiant/pajama) - A UI for Ollama on Mac
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
