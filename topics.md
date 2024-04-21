@@ -385,6 +385,7 @@
 
 ## ios 
 
+- [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) - Swift native on-device speech recognition with Whisper for Apple Silicon
 - [AugustDev/enchanted](https://github.com/AugustDev/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 - [PreternaturalAI/mlx-swift-chat](https://github.com/PreternaturalAI/mlx-swift-chat) - A multi-platform SwiftUI frontend for running local LLMs with Apple's MLX framework.
 
@@ -464,6 +465,7 @@
 
 ## macos 
 
+- [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) - Swift native on-device speech recognition with Whisper for Apple Silicon
 - [PreternaturalAI/mlx-swift-chat](https://github.com/PreternaturalAI/mlx-swift-chat) - A multi-platform SwiftUI frontend for running local LLMs with Apple's MLX framework.
 - [da-z/llamazing](https://github.com/da-z/llamazing) - A simple Web / UI / App / Frontend to Ollama.
 - [deployradiant/pajama](https://github.com/deployradiant/pajama) - A UI for Ollama on Mac
@@ -575,6 +577,8 @@
 
 ## others 
 
+- [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - 
+- [hrishioa/tough-llm-tests](https://github.com/hrishioa/tough-llm-tests) - Some tough questions to test new models.
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [timpaul/form-extractor-prototype](https://github.com/timpaul/form-extractor-prototype) - 
 - [mshumer/ai-journalist](https://github.com/mshumer/ai-journalist) - 
@@ -1041,6 +1045,7 @@
 
 ## swift 
 
+- [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) - Swift native on-device speech recognition with Whisper for Apple Silicon
 - [AugustDev/enchanted](https://github.com/AugustDev/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 
 ## swiftui 
