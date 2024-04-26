@@ -584,7 +584,7 @@
 - [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for running Vision LLMs locally on your Mac using MLX.
 - [hrishioa/tough-llm-tests](https://github.com/hrishioa/tough-llm-tests) - Some tough questions to test new models.
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
-- [timpaul/form-extractor-prototype](https://github.com/timpaul/form-extractor-prototype) - 
+- [timpaul/form-extractor-prototype](https://github.com/timpaul/form-extractor-prototype) - A prototype of a tool that generates web forms from document forms
 - [mshumer/ai-journalist](https://github.com/mshumer/ai-journalist) - 
 - [armbues/SiLLM](https://github.com/armbues/SiLLM) - SiLLM simplifies the process of training and running Large Language Models (LLMs) on Apple Silicon by leveraging the MLX framework.
 - [stanford-futuredata/ColBERT](https://github.com/stanford-futuredata/ColBERT) - ColBERT: state-of-the-art neural search (SIGIR'20, TACL'21, NeurIPS'21, NAACL'22, CIKM'22, ACL'23, EMNLP'23)
