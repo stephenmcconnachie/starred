@@ -194,7 +194,7 @@
 - [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [mshumer/ai-journalist](https://github.com/mshumer/ai-journalist) - 
-- [MikeChan-HK/Gemini-agent-example](https://github.com/MikeChan-HK/Gemini-agent-example) - An examples code to make langchain agents without openai API key (Google Gemini), Completely free unlimited and open source, run it yourself on website.
+- [MikeChan-HK/Gemini-agent-example](https://github.com/MikeChan-HK/Gemini-agent-example) - An examples code to make langchain agents without openai API key (Google Gemini), Completely free unlimited and open source, run it yourself on website. Ready to support ollama....
 - [Jl16ExA/Surya-OCR-Hardware-Benchmarking](https://github.com/Jl16ExA/Surya-OCR-Hardware-Benchmarking) - Surya-OCR-Hardware-Benchmarking is a repository dedicated to evaluating and analyzing the performance of the Surya OCR model across different hardware configurations. It provides tools and scripts for
 - [nateraw/openai-vision-api-for-videos](https://github.com/nateraw/openai-vision-api-for-videos) - Extract information, summarize, ask questions, and search videos using OpenAI's Vision API 🚀🎦
 - [poloclub/unitable](https://github.com/poloclub/unitable) - UniTable: Towards a Unified Table Foundation Model
