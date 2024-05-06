@@ -112,6 +112,7 @@
 
 ## ai 
 
+- [dosco/llm-client](https://github.com/dosco/llm-client) - LLMClient - JS/TS Use prompt signatures, Agents, Reasoning, Function calling, RAG and more. Based on the Stanford DSP Paper
 - [embedchain/embedchain](https://github.com/embedchain/embedchain) - Personalizing LLM Responses
 - [IBM/zshot](https://github.com/IBM/zshot) - Zero and Few shot named entity & relationships recognition
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
@@ -409,6 +410,7 @@
 
 ## javascript 
 
+- [dosco/llm-client](https://github.com/dosco/llm-client) - LLMClient - JS/TS Use prompt signatures, Agents, Reasoning, Function calling, RAG and more. Based on the Stanford DSP Paper
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [clappr/clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
@@ -564,6 +566,7 @@
 
 ## nodejs 
 
+- [dosco/llm-client](https://github.com/dosco/llm-client) - LLMClient - JS/TS Use prompt signatures, Agents, Reasoning, Function calling, RAG and more. Based on the Stanford DSP Paper
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [ProjectMirador/mirador-desktop](https://github.com/ProjectMirador/mirador-desktop) - A desktop wrapper for Mirador and its environment, allowing use of local images.
 - [IIIF-Commons/biiif-cli](https://github.com/IIIF-Commons/biiif-cli) - A CLI to Build Static IIIF Collections
@@ -1094,6 +1097,7 @@
 
 ## typescript 
 
+- [dosco/llm-client](https://github.com/dosco/llm-client) - LLMClient - JS/TS Use prompt signatures, Agents, Reasoning, Function calling, RAG and more. Based on the Stanford DSP Paper
 - [Dhravya/supermemory](https://github.com/Dhravya/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
