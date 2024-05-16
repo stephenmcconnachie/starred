@@ -637,6 +637,7 @@
 
 ## others 
 
+- [internetarchive/Zeno](https://github.com/internetarchive/Zeno) - State-of-the-art web crawler 🔱
 - [HyperGAI/HPT](https://github.com/HyperGAI/HPT) - HPT - Open Multimodal LLMs from HyperGAI
 - [alexfazio/crewAI-quickstart](https://github.com/alexfazio/crewAI-quickstart) - Simplified and tested examples of CrewAI implementations
 - [Sh4yy/personal-ai](https://github.com/Sh4yy/personal-ai) - 
