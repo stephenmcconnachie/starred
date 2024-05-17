@@ -323,7 +323,7 @@
 - [yoheinakajima/instagraph](https://github.com/yoheinakajima/instagraph) - Converts text input or URL into knowledge graph and displays
 - [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
 - [mustafaaljadery/lightning-whisper-mlx](https://github.com/mustafaaljadery/lightning-whisper-mlx) - An extremely fast implementation of whisper optimized for Apple Silicon using MLX.
-- [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNet-V3/V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, 
+- [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT)
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
 - [zhongyy/Face-Transformer](https://github.com/zhongyy/Face-Transformer) - Face Transformer for Recognition
 - [anguyen8/face-vit](https://github.com/anguyen8/face-vit) - 
