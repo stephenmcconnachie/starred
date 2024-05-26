@@ -59,6 +59,7 @@
 
 ## C++ 
 
+- [intel/neural-speed](https://github.com/intel/neural-speed) - An innovative library for efficient LLM inference via low-bit quantization
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
 - [RWKV/rwkv.cpp](https://github.com/RWKV/rwkv.cpp) - INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model
 - [aarnphm/whispercpp](https://github.com/aarnphm/whispercpp) - Pybind11 bindings for Whisper.cpp
