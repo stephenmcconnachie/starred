@@ -638,6 +638,7 @@
 
 ## others 
 
+- [intel/neural-speed](https://github.com/intel/neural-speed) - An innovative library for efficient LLM inference via low-bit quantization
 - [CatalogueLegacies/antconc.github.io](https://github.com/CatalogueLegacies/antconc.github.io) - Computational Analysis of Catalogue Data
 - [internetarchive/Zeno](https://github.com/internetarchive/Zeno) - State-of-the-art web crawler 🔱
 - [HyperGAI/HPT](https://github.com/HyperGAI/HPT) - HPT - Open Multimodal LLMs from HyperGAI
