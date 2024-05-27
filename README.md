@@ -195,6 +195,7 @@
 
 ## Jupyter Notebook 
 
+- [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [alexfazio/crewAI-quickstart](https://github.com/alexfazio/crewAI-quickstart) - Simplified and tested examples of CrewAI implementations
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - A collection of guides and examples for the Gemini API.
 - [collabora/WhisperSpeech](https://github.com/collabora/WhisperSpeech) - An Open Source text-to-speech system built by inverting Whisper.
