@@ -294,13 +294,17 @@
 
 ## Python 
 
+- [THUDM/CogVLM2](https://github.com/THUDM/CogVLM2) - GPT4V-level open-source multi-modal model based on Llama3-8B
+- [kadirnar/whisper-plus](https://github.com/kadirnar/whisper-plus) - WhisperPlus: Faster, Smarter, and More Capable 🚀
+- [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
+- [JaesungHuh/SimpleDiarization](https://github.com/JaesungHuh/SimpleDiarization) - Simple Diarization model
 - [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
 - [HyperGAI/HPT](https://github.com/HyperGAI/HPT) - HPT - Open Multimodal LLMs from HyperGAI
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 - [Maximilian-Winter/llama-cpp-agent](https://github.com/Maximilian-Winter/llama-cpp-agent) - The llama-cpp-agent framework is a tool designed for easy interaction with Large Language Models (LLMs). Allowing users to chat with LLM models, execute structured function calls and get structured ou
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
 - [OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - [CVPR2024 Highlight][VideoChatGPT] ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS.
-- [InternLM/xtuner](https://github.com/InternLM/xtuner) - An efficient, flexible and full-featured toolkit for fine-tuning large models (InternLM2, Llama3, Phi3, Qwen, Mistral, ...)
+- [InternLM/xtuner](https://github.com/InternLM/xtuner) - An efficient, flexible and full-featured toolkit for fine-tuning LLM (InternLM2, Llama3, Phi3, Qwen, Mistral, ...)
 - [BAAI-DCAI/Bunny](https://github.com/BAAI-DCAI/Bunny) - A family of lightweight multimodal models.
 - [magic-research/PLLaVA](https://github.com/magic-research/PLLaVA) - Official repository for the paper PLLaVA
 - [embedchain/embedchain](https://github.com/embedchain/embedchain) - Personalizing LLM Responses
@@ -393,7 +397,6 @@
 - [simonw/llm-mistral](https://github.com/simonw/llm-mistral) - LLM plugin providing access to Mistral models using the Mistral API
 - [Vishnunkumar/craft_hw_ocr](https://github.com/Vishnunkumar/craft_hw_ocr) - Recognition of handwritten text using CRAFT text detection and TrOCR
 - [fcakyon/craft-text-detector](https://github.com/fcakyon/craft-text-detector) - Packaged, Pytorch-based, easy to use, cross-platform version of the CRAFT text detector
-- [kadirnar/whisper-plus](https://github.com/kadirnar/whisper-plus) - WhisperPlus: Faster, Smarter, and More Capable 🚀
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [Yuliang-Liu/MultimodalOCR](https://github.com/Yuliang-Liu/MultimodalOCR) - On the Hidden Mystery of OCR in Large Multimodal Models (OCRBench)
 - [SALT-NLP/LLaVAR](https://github.com/SALT-NLP/LLaVAR) - Code/Data for the paper: "LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding"
@@ -411,7 +414,6 @@
 - [ochen1/insanely-fast-whisper-cli](https://github.com/ochen1/insanely-fast-whisper-cli) - The fastest Whisper optimization for automatic speech recognition as a command-line interface ⚡️
 - [m-bain/CondensedMovies-chall](https://github.com/m-bain/CondensedMovies-chall) - Condensed Movies Challenge 2021
 - [m-bain/frozen-in-time](https://github.com/m-bain/frozen-in-time) - Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval [ICCV'21]
-- [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [simonw/webvtt-to-json](https://github.com/simonw/webvtt-to-json) - Convert WebVTT to JSON, optionally removing duplicate lines
 - [glut23/webvtt-py](https://github.com/glut23/webvtt-py) - Read, write and segment WebVTT caption files in Python.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
