@@ -101,6 +101,7 @@
 
 ## HTML 
 
+- [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [CatalogueLegacies/antconc.github.io](https://github.com/CatalogueLegacies/antconc.github.io) - Computational Analysis of Catalogue Data
 - [logankilpatrick/gemini-api-quickstart](https://github.com/logankilpatrick/gemini-api-quickstart) - Get up and running in under 5 minutes with the Google AI Gemini API (in Python)
 - [simonw/tools](https://github.com/simonw/tools) - Assorted tools
@@ -294,6 +295,8 @@
 
 ## Python 
 
+- [huggingface/datatrove](https://github.com/huggingface/datatrove) - Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.
+- [huggingface/optimum-nvidia](https://github.com/huggingface/optimum-nvidia) - 
 - [mustafaaljadery/llama3v](https://github.com/mustafaaljadery/llama3v) - A SOTA vision model built on top of llama3 8B.
 - [THUDM/CogVLM2](https://github.com/THUDM/CogVLM2) - GPT4V-level open-source multi-modal model based on Llama3-8B
 - [kadirnar/whisper-plus](https://github.com/kadirnar/whisper-plus) - WhisperPlus: Faster, Smarter, and More Capable 🚀
