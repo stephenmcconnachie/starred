@@ -421,7 +421,7 @@
 - [m-bain/CondensedMovies-chall](https://github.com/m-bain/CondensedMovies-chall) - Condensed Movies Challenge 2021
 - [m-bain/frozen-in-time](https://github.com/m-bain/frozen-in-time) - Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval [ICCV'21]
 - [simonw/webvtt-to-json](https://github.com/simonw/webvtt-to-json) - Convert WebVTT to JSON, optionally removing duplicate lines
-- [glut23/webvtt-py](https://github.com/glut23/webvtt-py) - Read, write and segment WebVTT caption files in Python.
+- [glut23/webvtt-py](https://github.com/glut23/webvtt-py) - Read, write, convert and segment WebVTT caption files in Python.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [facebookresearch/nougat](https://github.com/facebookresearch/nougat) - Implementation of Nougat Neural Optical Understanding for Academic Documents
 - [clovaai/donut](https://github.com/clovaai/donut) - Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022
