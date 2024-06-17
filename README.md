@@ -295,6 +295,7 @@
 
 ## Python 
 
+- [JSCU-NL/COATHANGER](https://github.com/JSCU-NL/COATHANGER) - IOCs and detection script for COATHANGER malware
 - [Doriandarko/gemini-ui-to-code](https://github.com/Doriandarko/gemini-ui-to-code) - A Streamlit application to generate code from images
 - [BradyFU/Video-MME](https://github.com/BradyFU/Video-MME) - ✨✨Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
