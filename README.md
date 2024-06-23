@@ -296,6 +296,7 @@
 
 ## Python 
 
+- [akashmjn/tinydiarize](https://github.com/akashmjn/tinydiarize) - Minimal extension of OpenAI's Whisper adding speaker diarization with special tokens
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
 - [JSCU-NL/COATHANGER](https://github.com/JSCU-NL/COATHANGER) - IOCs and detection script for COATHANGER malware
