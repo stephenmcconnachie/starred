@@ -748,7 +748,7 @@
 - [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 - [impira/docquery](https://github.com/impira/docquery) - An easy way to extract information from documents
 - [philschmid/document-ai-transformers](https://github.com/philschmid/document-ai-transformers) - 
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models with support for multiple inference backends.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
 - [simonw/llm-mistral](https://github.com/simonw/llm-mistral) - LLM plugin providing access to Mistral models using the Mistral API
 - [Vishnunkumar/craft_hw_ocr](https://github.com/Vishnunkumar/craft_hw_ocr) - Recognition of handwritten text using CRAFT text detection and TrOCR
 - [hrishioa/wishful-search](https://github.com/hrishioa/wishful-search) - Natural language search for complex JSON arrays, with AI Quickstart.
