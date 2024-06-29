@@ -70,6 +70,7 @@
 - [opencv](#opencv)
 - [opengl](#opengl)
 - [others](#others)
+- [parsing](#parsing)
 - [php](#php)
 - [postgresql](#postgresql)
 - [programming](#programming)
@@ -721,7 +722,6 @@
 - [google/gemma.cpp](https://github.com/google/gemma.cpp) - lightweight, standalone C++ inference engine for Google's Gemma models.
 - [keirf/greaseweazle](https://github.com/keirf/greaseweazle) - Tools for accessing a floppy drive at the raw flux level
 - [mhasan49/package-manager](https://github.com/mhasan49/package-manager) - Installer script tailored for Debian/Ubuntu systems to installs necessary packages.
-- [run-llama/llama_parse](https://github.com/run-llama/llama_parse) - Parse files for optimal RAG
 - [artefactual/automation-tools](https://github.com/artefactual/automation-tools) - Tools to aid automation of Archivematica and AtoM.
 - [archivematica/Issues](https://github.com/archivematica/Issues) - Issues repository for the Archivematica project
 - [run-llama/sec-insights](https://github.com/run-llama/sec-insights) - A real world full-stack application using LlamaIndex
@@ -970,6 +970,10 @@
 - [MediaArea/RAWcooked](https://github.com/MediaArea/RAWcooked) - Encodes RAW audio-visual data into the Matroska container (MKV), using the video codec FFV1 for the image and audio codec FLAC for the sound.
 - [exponential-decay/pronom-archive-and-skeleton-test-suite](https://github.com/exponential-decay/pronom-archive-and-skeleton-test-suite) - Release repository for The Skeleton Test Suite. Contains an Archive of PRONOM, and skeleton files for testing DROID from The National Archives, UK.
 - [kieranjol/IFIscripts](https://github.com/kieranjol/IFIscripts) - Detailed documentation is available here: http://ifiscripts.readthedocs.io/en/latest/index.html
+
+## parsing 
+
+- [run-llama/llama_parse](https://github.com/run-llama/llama_parse) - Parse files for optimal RAG
 
 ## php 
 
