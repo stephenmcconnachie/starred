@@ -169,7 +169,6 @@
 - [samvera-labs/ramp](https://github.com/samvera-labs/ramp) - Interactive, IIIF powered audio/video media player React components library. Styleguidist Docs: https://samvera-labs.github.io/ramp/
 - [digirati-co-uk/canvas-panel](https://github.com/digirati-co-uk/canvas-panel) - Prototype covering the specification of Canvas Panel, and supporting components for composing bespoke IIIF viewers and lightweight experiences, conforming to the IIIF Presentation 3 specification.
 - [digirati-co-uk/timeliner](https://github.com/digirati-co-uk/timeliner) - IIIF Timeliner
-- [muxinc/media-chrome](https://github.com/muxinc/media-chrome) - Custom elements (web components) for making audio and video player controls that look great in your website or app.
 - [amnh-sciviz/collectionscope](https://github.com/amnh-sciviz/collectionscope) - 
 - [elastic/app-search-reference-ui-react](https://github.com/elastic/app-search-reference-ui-react) - A generic UI for use with any App Search Engine
 - [art-institute-of-chicago/aic-mirador-ui](https://github.com/art-institute-of-chicago/aic-mirador-ui) - A Mirador plugin for UI customizations
@@ -254,6 +253,7 @@
 
 - [arpitingle/gpu-alpha](https://github.com/arpitingle/gpu-alpha) - 
 - [BradyFU/Video-MME](https://github.com/BradyFU/Video-MME) - ✨✨Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis
+- [RManLuo/Awesome-LLM-KG](https://github.com/RManLuo/Awesome-LLM-KG) - Awesome papers about unifying LLMs and KGs
 - [hrishioa/tough-llm-tests](https://github.com/hrishioa/tough-llm-tests) - Some tough questions to test new models.
 - [watson/awesome-computer-history](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore
 - [archivematica/Issues](https://github.com/archivematica/Issues) - Issues repository for the Archivematica project
@@ -634,6 +634,7 @@
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [digirati-co-uk/iiif-manifest-editor](https://github.com/digirati-co-uk/iiif-manifest-editor) - Create new IIIF Manifests. Modify existing manifests. Tell stories with IIIF.
 - [IIIF-Commons/parser](https://github.com/IIIF-Commons/parser) - IIIF Presentation 2 + 3 parser
+- [muxinc/media-chrome](https://github.com/muxinc/media-chrome) - Custom elements (web components) for making audio and video player controls that look great in your website or app.
 - [gTile/gTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome.
 - [archival-IIIF/test-server](https://github.com/archival-IIIF/test-server) - 
 - [archival-IIIF/demo](https://github.com/archival-IIIF/demo) - 
