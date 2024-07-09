@@ -420,7 +420,7 @@
 - [LLaVA-VL/LLaVA-Interactive-Demo](https://github.com/LLaVA-VL/LLaVA-Interactive-Demo) - LLaVA-Interactive-Demo
 - [ise-uiuc/magicoder](https://github.com/ise-uiuc/magicoder) - Magicoder: Source Code Is All You Need
 - [stanford-oval/WikiChat](https://github.com/stanford-oval/WikiChat) - WikiChat stops the hallucination of large language models by retrieving data from Wikipedia.
-- [OpenAccess-AI-Collective/axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) - Go ahead and axolotl questions
+- [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
 - [simonw/llm-llama-cpp](https://github.com/simonw/llm-llama-cpp) - LLM plugin for running models using llama.cpp
 - [ablwr/lc-sdf-data-exploration](https://github.com/ablwr/lc-sdf-data-exploration) - 
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
@@ -448,7 +448,7 @@
 - [yiminglin-ai/imdb-clean](https://github.com/yiminglin-ai/imdb-clean) - A cleaned version of IMDB-WIKI dataset for facial age estimation.
 - [divya21raj/Actor-Recognition-In-Movies](https://github.com/divya21raj/Actor-Recognition-In-Movies) - Recognizing actors in a movie clip or image, using OpenCV, DeepLearning and Python.
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
-- [kermitt2/delft](https://github.com/kermitt2/delft) - a Deep Learning Framework for Text
+- [kermitt2/delft](https://github.com/kermitt2/delft) - a Deep Learning Framework for Text https://delft.readthedocs.io/
 - [Lucaterre/spacyfishing](https://github.com/Lucaterre/spacyfishing) - A spaCy wrapper of Entity-Fishing (component) for named entity disambiguation and linking on Wikidata
 - [davidberenstein1957/spacy-dbpedia-spotlight](https://github.com/davidberenstein1957/spacy-dbpedia-spotlight) - A spaCy wrapper for DBpedia Spotlight
 - [davidberenstein1957/classy-classification](https://github.com/davidberenstein1957/classy-classification) - This repository contains an easy and intuitive approach to few-shot classification using sentence-transformers or spaCy models, or zero-shot classification with Huggingface.
