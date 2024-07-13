@@ -323,7 +323,7 @@
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - An efficient, flexible and full-featured toolkit for fine-tuning LLM (InternLM2, Llama3, Phi3, Qwen, Mistral, ...)
 - [BAAI-DCAI/Bunny](https://github.com/BAAI-DCAI/Bunny) - A family of lightweight multimodal models.
 - [magic-research/PLLaVA](https://github.com/magic-research/PLLaVA) - Official repository for the paper PLLaVA
-- [embedchain/embedchain](https://github.com/embedchain/embedchain) - Memory for AI agents
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Long-term memory for LLMs
 - [artefactual-labs/amclient](https://github.com/artefactual-labs/amclient) - Archivematica API client module
 - [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua) - To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.
 - [thunlp/LLaVA-UHD](https://github.com/thunlp/LLaVA-UHD) - LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images
@@ -595,7 +595,7 @@
 ## Swift 
 
 - [freedmand/textra](https://github.com/freedmand/textra) - A command-line application to convert images, PDFs, and audio files to text using Apple's APIs
-- [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) - On-device Inference of Whisper Speech Recognition Models for Apple Silicon
+- [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) - On-device Speech Recognition for Apple Silicon
 - [AugustDev/enchanted](https://github.com/AugustDev/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 - [preternatural-explore/mlx-swift-chat](https://github.com/preternatural-explore/mlx-swift-chat) - A multi-platform SwiftUI frontend for running local LLMs with Apple's MLX framework.
 - [deployradiant/pajama](https://github.com/deployradiant/pajama) - A UI for Ollama on Mac
