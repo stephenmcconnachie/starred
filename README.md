@@ -441,7 +441,7 @@
 - [theovercomer8/captionr](https://github.com/theovercomer8/captionr) - GIT/BLIP/CLIP Caption tool
 - [simonw/blip-caption](https://github.com/simonw/blip-caption) - Generate captions for images with Salesforce BLIP
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
-- [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & command-line tool to gather text on the Web: Crawling & scraping, content extraction, metadata. TXT, Markdown, CSV & XML output.
+- [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 - [facebookresearch/GENRE](https://github.com/facebookresearch/GENRE) - Autoregressive Entity Retrieval
 - [facebookresearch/BLINK](https://github.com/facebookresearch/BLINK) - Entity Linker solution
 - [kuo77122/deep-face-detector](https://github.com/kuo77122/deep-face-detector) - 
