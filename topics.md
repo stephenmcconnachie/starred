@@ -22,11 +22,13 @@
 - [cli](#cli)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
+- [cybersecurity](#cybersecurity)
 - [data-science](#data-science)
 - [data-visualization](#data-visualization)
 - [database](#database)
 - [deep-learning](#deep-learning)
 - [devops](#devops)
+- [discord](#discord)
 - [docker](#docker)
 - [documentation](#documentation)
 - [education](#education)
@@ -150,6 +152,7 @@
 
 ## automation 
 
+- [Shuffle/Shuffle](https://github.com/Shuffle/Shuffle) - Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [vincentneo/LosslessSwitcher](https://github.com/vincentneo/LosslessSwitcher) - Automated Apple Music Lossless Sample Rate Switching for Audio Devices on Macs.
@@ -268,6 +271,10 @@
 - [clovaai/donut](https://github.com/clovaai/donut) - Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022
 - [imdeepmind/hocrox](https://github.com/imdeepmind/hocrox) - Hocrox: An image preprocessing and augmentation library with Keras like interface.
 
+## cybersecurity 
+
+- [Shuffle/Shuffle](https://github.com/Shuffle/Shuffle) - Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.
+
 ## data-science 
 
 - [explosion/spacy-stanza](https://github.com/explosion/spacy-stanza) - 💥 Use the latest Stanza (StanfordNLP) research models directly in spaCy
@@ -309,6 +316,10 @@
 
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
+
+## discord 
+
+- [Shuffle/Shuffle](https://github.com/Shuffle/Shuffle) - Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.
 
 ## docker 
 
@@ -380,6 +391,7 @@
 
 ## hacktoberfest 
 
+- [Shuffle/Shuffle](https://github.com/Shuffle/Shuffle) - Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [fcakyon/craft-text-detector](https://github.com/fcakyon/craft-text-detector) - Packaged, Pytorch-based, easy to use, cross-platform version of the CRAFT text detector
@@ -1098,6 +1110,7 @@
 
 ## security 
 
+- [Shuffle/Shuffle](https://github.com/Shuffle/Shuffle) - Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [hillu/local-log4j-vuln-scanner](https://github.com/hillu/local-log4j-vuln-scanner) - Simple local scanner for vulnerable log4j instances
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
