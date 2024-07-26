@@ -300,6 +300,7 @@
 
 ## Python 
 
+- [meta-llama/llama-agentic-system](https://github.com/meta-llama/llama-agentic-system) - Agentic components of the Llama Stack APIs
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [ACMILabs/collection-chat](https://github.com/ACMILabs/collection-chat) - Uses LangChain and GPT-4 to chat with the ACMI Public API collection.
 - [X-PLUG/mPLUG-Owl](https://github.com/X-PLUG/mPLUG-Owl) - mPLUG-Owl & mPLUG-Owl2: Modularized Multimodal Large Language Model
