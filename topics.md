@@ -23,6 +23,7 @@
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
 - [cybersecurity](#cybersecurity)
+- [data-analysis](#data-analysis)
 - [data-science](#data-science)
 - [data-visualization](#data-visualization)
 - [database](#database)
@@ -274,6 +275,10 @@
 ## cybersecurity 
 
 - [Shuffle/Shuffle](https://github.com/Shuffle/Shuffle) - Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.
+
+## data-analysis 
+
+- [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 
 ## data-science 
 
@@ -984,6 +989,7 @@
 
 ## parsing 
 
+- [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [run-llama/llama_parse](https://github.com/run-llama/llama_parse) - Parse files for optimal RAG
 
 ## php 
