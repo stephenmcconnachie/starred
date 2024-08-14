@@ -308,7 +308,7 @@
 - [meta-llama/llama-agentic-system](https://github.com/meta-llama/llama-agentic-system) - Agentic components of the Llama Stack APIs
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [ACMILabs/collection-chat](https://github.com/ACMILabs/collection-chat) - Uses LangChain and GPT-4 to chat with the ACMI Public API collection.
-- [X-PLUG/mPLUG-Owl](https://github.com/X-PLUG/mPLUG-Owl) - mPLUG-Owl & mPLUG-Owl2: Modularized Multimodal Large Language Model
+- [X-PLUG/mPLUG-Owl](https://github.com/X-PLUG/mPLUG-Owl) - mPLUG-Owl: The Powerful Multi-modal Large Language Model  Family
 - [X-PLUG/mPLUG-DocOwl](https://github.com/X-PLUG/mPLUG-DocOwl) - mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding
 - [akashmjn/tinydiarize](https://github.com/akashmjn/tinydiarize) - Minimal extension of OpenAI's Whisper adding speaker diarization with special tokens
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
