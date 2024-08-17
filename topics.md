@@ -686,7 +686,7 @@
 - [CatalogueLegacies/antconc.github.io](https://github.com/CatalogueLegacies/antconc.github.io) - Computational Analysis of Catalogue Data
 - [internetarchive/Zeno](https://github.com/internetarchive/Zeno) - State-of-the-art web crawler 🔱
 - [HyperGAI/HPT](https://github.com/HyperGAI/HPT) - HPT - Open Multimodal LLMs from HyperGAI
-- [alexfazio/crewAI-quickstart](https://github.com/alexfazio/crewAI-quickstart) - A collection of notebooks and recipes showcasing fun and effective ways to use CrewAI's agentic workflow implementations and tools.
+- [alexfazio/crewAI-quickstart](https://github.com/alexfazio/crewAI-quickstart) - A collection of notebooks, cookbooks, and recipes showcasing fun and effective ways to use CrewAI's agentic workflow implementations and tools.
 - [Sh4yy/personal-ai](https://github.com/Sh4yy/personal-ai) - 
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API.
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models
