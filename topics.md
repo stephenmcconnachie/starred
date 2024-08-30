@@ -679,6 +679,7 @@
 
 ## others 
 
+- [nypublicradio/transcript-editor](https://github.com/nypublicradio/transcript-editor) - Web-based tool for correcting speech-to-text generated  transcripts.
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone
 - [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
