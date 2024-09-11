@@ -76,6 +76,7 @@
 
 ## CSS 
 
+- [logankilpatrick/gemini-api-quickstart](https://github.com/logankilpatrick/gemini-api-quickstart) - Get up and running in under 5 minutes with the Google AI Gemini API (in Python)
 - [timpaul/form-extractor-prototype](https://github.com/timpaul/form-extractor-prototype) - A prototype of a tool that generates web forms from document forms
 - [aravindputrevu/app-search-flask-app](https://github.com/aravindputrevu/app-search-flask-app) - This is an example of a Python Flask app with Elasticsearch/ Elastic App Search with respective Python Clients
 - [IIIF/cookbook-recipes](https://github.com/IIIF/cookbook-recipes) - For working on the recipes
@@ -103,7 +104,6 @@
 
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [CatalogueLegacies/antconc.github.io](https://github.com/CatalogueLegacies/antconc.github.io) - Computational Analysis of Catalogue Data
-- [logankilpatrick/gemini-api-quickstart](https://github.com/logankilpatrick/gemini-api-quickstart) - Get up and running in under 5 minutes with the Google AI Gemini API (in Python)
 - [simonw/tools](https://github.com/simonw/tools) - Assorted tools
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
 - [pdf2htmlEX/pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
