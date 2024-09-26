@@ -92,7 +92,7 @@
 ## Go 
 
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [hillu/local-log4j-vuln-scanner](https://github.com/hillu/local-log4j-vuln-scanner) - Simple local scanner for vulnerable log4j instances
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
@@ -118,7 +118,6 @@
 - [bfidatadigipres/bfidatadigipres.github.io](https://github.com/bfidatadigipres/bfidatadigipres.github.io) - 
 - [bfi-prog-notes/bfi-prog-notes.github.io](https://github.com/bfi-prog-notes/bfi-prog-notes.github.io) - 
 - [KBNLresearch/iromlab](https://github.com/KBNLresearch/iromlab) - Loader software for automated imaging of optical media with Nimbie disc robot
-- [paulduchesne/intermurnau-d3](https://github.com/paulduchesne/intermurnau-d3) - D3 data visualisation of Intermurnau project.
 - [IIIF-Commons/biiif-cli](https://github.com/IIIF-Commons/biiif-cli) - A CLI to Build Static IIIF Collections
 - [TheScienceMuseum/collection-chrome-extension](https://github.com/TheScienceMuseum/collection-chrome-extension) - Museum in a Tab: A Chrome Browser extension showing objects from the Science Museum Group Collection
 - [krzemienski/awesome-video](https://github.com/krzemienski/awesome-video) - A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
@@ -239,7 +238,6 @@
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸
-- [paulduchesne/wikipedia-filmcredits](https://github.com/paulduchesne/wikipedia-filmcredits) - Extract film cast and character names from Wikipedia for ingest into Wikidata.
 - [paulduchesne/en15907-rdf](https://github.com/paulduchesne/en15907-rdf) - Representation of European standard 15907:2010 as LOD ontology.
 - [paulduchesne/intermurnau](https://github.com/paulduchesne/intermurnau) - Linked Open Data project concerning the work of F W Murnau.
 - [GLAM-Workbench/facial-detection](https://github.com/GLAM-Workbench/facial-detection) - 
@@ -497,9 +495,7 @@
 - [CarnegieHall/quality-control](https://github.com/CarnegieHall/quality-control) - Carnegie Hall Archives maintains a series of small, portable scripts to expedite batch processes for quality control on our Digital Collections.
 - [FilmColors/VIAN](https://github.com/FilmColors/VIAN) - 
 - [simonw/s3-ocr](https://github.com/simonw/s3-ocr) - Tools for running OCR against files stored in S3
-- [paulduchesne/ffmpeg-concat](https://github.com/paulduchesne/ffmpeg-concat) - Concatenate batches of video files using FFmpeg.
 - [paulduchesne/acmi-wikidata](https://github.com/paulduchesne/acmi-wikidata) - Entity matching between ACMI works and Wikidata.
-- [paulduchesne/filmography-matching](https://github.com/paulduchesne/filmography-matching) - Creator matching between filmographic datasets.
 - [paulduchesne/australian-filmography](https://github.com/paulduchesne/australian-filmography) - Interactive filmography built using Wikidata and d3.js
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [bfidatadigipres/transcoding](https://github.com/bfidatadigipres/transcoding) - Open source automated transcoding scripts used at the BFI National Archive
@@ -603,7 +599,7 @@
 
 ## Svelte 
 
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for AI (Formerly Ollama WebUI)
 
 ## Swift 
 
