@@ -903,9 +903,7 @@
 - [kaltura/nginx-vod-module](https://github.com/kaltura/nginx-vod-module) - NGINX-based MP4 Repackager
 - [avalonmediasystem/avalon](https://github.com/avalonmediasystem/avalon) - Avalon Media System – Samvera Application
 - [nationalarchives/tdr-dev-documentation](https://github.com/nationalarchives/tdr-dev-documentation) - Documentation for developers for the TDR project
-- [paulduchesne/acmi-wikidata](https://github.com/paulduchesne/acmi-wikidata) - Entity matching between ACMI works and Wikidata.
 - [paulduchesne/australian-filmography](https://github.com/paulduchesne/australian-filmography) - Interactive filmography built using Wikidata and d3.js
-- [paulduchesne/en15907-rdf](https://github.com/paulduchesne/en15907-rdf) - Representation of European standard 15907:2010 as LOD ontology.
 - [bfidatadigipres/transcoding](https://github.com/bfidatadigipres/transcoding) - Open source automated transcoding scripts used at the BFI National Archive
 - [iiif-prezi/iiif-prezi3](https://github.com/iiif-prezi/iiif-prezi3) - IIIF Presentation API 3 Python Library
 - [digirati-co-uk/iiif-manifest-editor](https://github.com/digirati-co-uk/iiif-manifest-editor) - Create new IIIF Manifests. Modify existing manifests. Tell stories with IIIF.
@@ -947,7 +945,6 @@
 - [IIIF/prezi-2-to-3](https://github.com/IIIF/prezi-2-to-3) - Libraries to upgrade Presentation API v2 to v3 automatically
 - [art-institute-of-chicago/aic-mirador-ui](https://github.com/art-institute-of-chicago/aic-mirador-ui) - A Mirador plugin for UI customizations
 - [tomcrane/bbctextav](https://github.com/tomcrane/bbctextav) - 
-- [paulduchesne/tangible-film-ontology](https://github.com/paulduchesne/tangible-film-ontology) - Speculative ontology for film archives.
 - [glenrobson/SimpleAnnotationServer](https://github.com/glenrobson/SimpleAnnotationServer) - A simple IIIF and Mirador compatible Annotation Server
 - [atomotic/iiif-annotation-studio](https://github.com/atomotic/iiif-annotation-studio) - Mirador IIIF Viewer packaged as a desktop app with an embedded annotation endpoint
 - [o19s/pdf-discovery-demo](https://github.com/o19s/pdf-discovery-demo) - Demonstration of searching PDF document with Solr, Tika, and Tesseract
@@ -963,7 +960,6 @@
 - [digirati-co-uk/bfi-discovery](https://github.com/digirati-co-uk/bfi-discovery) - Prototyping, discovery and documentation for the BFI viewer project.
 - [KBNLresearch/iromlab](https://github.com/KBNLresearch/iromlab) - Loader software for automated imaging of optical media with Nimbie disc robot
 - [iiif-prezi/iiif-prezi](https://github.com/iiif-prezi/iiif-prezi) - IIIF Presentation API implementation in Python
-- [paulduchesne/intermurnau](https://github.com/paulduchesne/intermurnau) - Linked Open Data project concerning the work of F W Murnau.
 - [3ximus/md5-collisions](https://github.com/3ximus/md5-collisions) - MD5 collision testing
 - [corkami/collisions](https://github.com/corkami/collisions) - Hash collisions and exploitations
 - [cs-afm/Check-Sammy](https://github.com/cs-afm/Check-Sammy) - Python GUI for calculating and monitoring md5 checksums
