@@ -238,8 +238,6 @@
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸
-- [paulduchesne/en15907-rdf](https://github.com/paulduchesne/en15907-rdf) - Representation of European standard 15907:2010 as LOD ontology.
-- [paulduchesne/intermurnau](https://github.com/paulduchesne/intermurnau) - Linked Open Data project concerning the work of F W Murnau.
 - [GLAM-Workbench/facial-detection](https://github.com/GLAM-Workbench/facial-detection) - 
 - [shawngraham/Identifying-Similar-Images-with-TensorFlow-notebooks](https://github.com/shawngraham/Identifying-Similar-Images-with-TensorFlow-notebooks) - 
 - [cpietsch/vikus-viewer-script](https://github.com/cpietsch/vikus-viewer-script) - Scripts to generate sprite sheets and textures for VIKUS Viewer
@@ -276,7 +274,6 @@
 - [IIIF/iiif-av](https://github.com/IIIF/iiif-av) - The International Image Interoperability Framework (IIIF) Audio/Visual (A/V) Technical Specification Group aims to extend to A/V the benefits of interoperability and the growing ecosystem of clients a
 - [keshavbhatt/WonderWall-Packaging](https://github.com/keshavbhatt/WonderWall-Packaging) - Wonderwall Wallpaper manager, releases for Linux and Windows 10
 - [usnationalarchives/digital-preservation](https://github.com/usnationalarchives/digital-preservation) - NARA digital preservation file format risk analysis and preservation plans
-- [paulduchesne/tangible-film-ontology](https://github.com/paulduchesne/tangible-film-ontology) - Speculative ontology for film archives.
 - [EIDR-ID/php](https://github.com/EIDR-ID/php) - EIDR applications and source code examples written in PHP.
 - [EIDR-ID/python](https://github.com/EIDR-ID/python) - EIDR applications and source code examples written in Python.
 - [ProjectMirador/mirador-awesome](https://github.com/ProjectMirador/mirador-awesome) - An awesome list for Mirador's projects and plugins.
@@ -495,7 +492,6 @@
 - [CarnegieHall/quality-control](https://github.com/CarnegieHall/quality-control) - Carnegie Hall Archives maintains a series of small, portable scripts to expedite batch processes for quality control on our Digital Collections.
 - [FilmColors/VIAN](https://github.com/FilmColors/VIAN) - 
 - [simonw/s3-ocr](https://github.com/simonw/s3-ocr) - Tools for running OCR against files stored in S3
-- [paulduchesne/acmi-wikidata](https://github.com/paulduchesne/acmi-wikidata) - Entity matching between ACMI works and Wikidata.
 - [paulduchesne/australian-filmography](https://github.com/paulduchesne/australian-filmography) - Interactive filmography built using Wikidata and d3.js
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [bfidatadigipres/transcoding](https://github.com/bfidatadigipres/transcoding) - Open source automated transcoding scripts used at the BFI National Archive
