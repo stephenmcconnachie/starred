@@ -124,7 +124,6 @@
 - [krzemienski/awesome-video](https://github.com/krzemienski/awesome-video) - A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
 - [kba/hocrjs](https://github.com/kba/hocrjs) - Working with hOCR in Javascript
 - [algorythmik/python-hocr](https://github.com/algorythmik/python-hocr) - HOCR parsing
-- [apache/incubator-stormcrawler](https://github.com/apache/incubator-stormcrawler) - A scalable, mature and versatile web crawler based on Apache Storm
 - [archival-IIIF/archival-iiif.github.io](https://github.com/archival-IIIF/archival-iiif.github.io) - Website
 
 ## Haskell 
@@ -146,6 +145,7 @@
 - [Georgetown-University-Libraries/File-Analyzer](https://github.com/Georgetown-University-Libraries/File-Analyzer) - A Data Parsing/Data Manipulation Tool Supporting Digitization Projects and Other Data Analysis Projects
 - [atduskgreg/opencv-processing](https://github.com/atduskgreg/opencv-processing) - OpenCV for Processing. A creative coding computer vision library based on the official OpenCV Java API
 - [archivist-liz/jhove](https://github.com/archivist-liz/jhove) - File validation and characterisation.
+- [apache/incubator-stormcrawler](https://github.com/apache/incubator-stormcrawler) - A scalable, mature and versatile web crawler based on Apache Storm
 
 ## JavaScript 
 
@@ -606,7 +606,7 @@
 
 ## Svelte 
 
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for AI (Formerly Ollama WebUI)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## Swift 
 
