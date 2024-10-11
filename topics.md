@@ -690,7 +690,7 @@
 - [ax-llm/ax](https://github.com/ax-llm/ax) - The unofficial DSPy framework. Build LLM powered Agents and "Agentic workflows" based on the Stanford DSP paper.
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - Generative AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, cod
 - [nateraw/openai-vision-api-for-videos](https://github.com/nateraw/openai-vision-api-for-videos) - Extract information, summarize, ask questions, and search videos using OpenAI's Vision API 🚀🎦
-- [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
+- [instructor-ai/instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
 - [explosion/spacy-transformers](https://github.com/explosion/spacy-transformers) - 🛸 Use pretrained transformers like BERT, XLNet and GPT-2 in spaCy
 - [explosion/spacy-llm](https://github.com/explosion/spacy-llm) - 🦙 Integrating LLMs into structured NLP pipelines
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
@@ -1074,7 +1074,7 @@
 - [logankilpatrick/gemini-api-quickstart](https://github.com/logankilpatrick/gemini-api-quickstart) - Get up and running in under 5 minutes with the Google AI Gemini API (in Python)
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
 - [nateraw/openai-vision-api-for-videos](https://github.com/nateraw/openai-vision-api-for-videos) - Extract information, summarize, ask questions, and search videos using OpenAI's Vision API 🚀🎦
-- [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
+- [instructor-ai/instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
 - [weaviate/recipes](https://github.com/weaviate/recipes) - This repository shares end-to-end notebooks on how to use various Weaviate features and integrations!
 - [hirmeos/entity-fishing-client-python](https://github.com/hirmeos/entity-fishing-client-python) - Repository hosting the common code for the entity-fishing clients
 - [explosion/weasel](https://github.com/explosion/weasel) - 🦦 weasel: A small and easy workflow system
