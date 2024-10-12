@@ -752,7 +752,7 @@
 - [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
 - [magic-research/PLLaVA](https://github.com/magic-research/PLLaVA) - Official repository for the paper PLLaVA
 - [run-llama/create-llama](https://github.com/run-llama/create-llama) - The easiest way to get started with LlamaIndex
-- [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua) - To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.
+- [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua) - [EMNLP'23, ACL'24] To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.
 - [thunlp/LLaVA-UHD](https://github.com/thunlp/LLaVA-UHD) - LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images
 - [hrishioa/tough-llm-tests](https://github.com/hrishioa/tough-llm-tests) - Some tough questions to test new models.
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
