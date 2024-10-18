@@ -309,6 +309,8 @@
 
 ## Python 
 
+- [gsu-library/whisper-scribe](https://github.com/gsu-library/whisper-scribe) - An audio/video transcriber with diarization and transcription editing.
+- [JosefAlbers/whisper-turbo-mlx](https://github.com/JosefAlbers/whisper-turbo-mlx) - Blazing fast whisper turbo for ASR (speech-to-text) tasks
 - [tenable/pyTenable](https://github.com/tenable/pyTenable) - Python Library for interfacing into Tenable's platform APIs
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [revdotcom/reverb](https://github.com/revdotcom/reverb) - Open source inference code for Rev's model
@@ -505,7 +507,7 @@
 - [CarnegieHall/quality-control](https://github.com/CarnegieHall/quality-control) - Carnegie Hall Archives maintains a series of small, portable scripts to expedite batch processes for quality control on our Digital Collections.
 - [FilmColors/VIAN](https://github.com/FilmColors/VIAN) - 
 - [simonw/s3-ocr](https://github.com/simonw/s3-ocr) - Tools for running OCR against files stored in S3
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [bfidatadigipres/transcoding](https://github.com/bfidatadigipres/transcoding) - Open source automated transcoding scripts used at the BFI National Archive
 - [iiif-prezi/iiif-prezi3](https://github.com/iiif-prezi/iiif-prezi3) - IIIF Presentation API 3 Python Library
 - [carevealed/md5tool](https://github.com/carevealed/md5tool) - Python script to generate or check md5 checksums recursively for files in a directory tree.
