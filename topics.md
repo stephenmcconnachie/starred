@@ -432,6 +432,7 @@
 - [appbaseio/reactivesearch](https://github.com/appbaseio/reactivesearch) - Search UI components for React and Vue
 - [davidberenstein1957/classy-classification](https://github.com/davidberenstein1957/classy-classification) - This repository contains an easy and intuitive approach to few-shot classification using sentence-transformers or spaCy models, or zero-shot classification with Huggingface.
 - [davidberenstein1957/concise-concepts](https://github.com/davidberenstein1957/concise-concepts) - This repository contains an easy and intuitive approach to few-shot NER using most similar expansion over spaCy embeddings. Now with entity scoring.
+- [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [IIIF-Commons/parser](https://github.com/IIIF-Commons/parser) - IIIF Presentation 2 + 3 parser
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
