@@ -655,6 +655,7 @@
 - [hrishioa/wishful-search](https://github.com/hrishioa/wishful-search) - Natural language search for complex JSON arrays, with AI Quickstart.
 - [fromsmash/smash-downloader-js](https://github.com/fromsmash/smash-downloader-js) - Official JavaScript library to download transfers using the Smash API & SDK 🚀
 - [karolkozer/planby](https://github.com/karolkozer/planby) - 
+- [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 - [mifi/ezshare](https://github.com/mifi/ezshare) - Easily share files, folders and clipboard over LAN - Like Google Drive but without internet
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
