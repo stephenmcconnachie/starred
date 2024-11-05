@@ -314,13 +314,13 @@
 
 ## Python 
 
-- [DS4SD/docling](https://github.com/DS4SD/docling) - Get your docs ready for gen AI
+- [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [ServerlessLLM/ServerlessLLM](https://github.com/ServerlessLLM/ServerlessLLM) - Serverless LLM Serving for Everyone.
 - [ucbepic/docetl](https://github.com/ucbepic/docetl) - A system for agentic LLM-powered data processing and ETL
 - [usefulsensors/moonshine](https://github.com/usefulsensors/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
-- [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt-4o-mini
+- [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - PDF to Markdown with vision models
 - [gsu-library/whisper-scribe](https://github.com/gsu-library/whisper-scribe) - An audio/video transcriber with diarization and transcription editing.
 - [JosefAlbers/whisper-turbo-mlx](https://github.com/JosefAlbers/whisper-turbo-mlx) - Blazing fast whisper turbo for ASR (speech-to-text) tasks
 - [tenable/pyTenable](https://github.com/tenable/pyTenable) - Python Library for interfacing into Tenable's platform APIs
