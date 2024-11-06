@@ -372,7 +372,7 @@
 - [arun-art06/trocr-large](https://github.com/arun-art06/trocr-large) - Learn how to effortlessly convert handwritten text into editable digital text using the power of the Microsoft/Trocr-Large-Handwritten model from Hugging Face. With the help of Gradio, a user-friendly
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
-- [katanaml/sparrow](https://github.com/katanaml/sparrow) - Data processing with ML and LLM
+- [katanaml/sparrow](https://github.com/katanaml/sparrow) - Data processing with ML, LLM and Vision LLM
 - [apple/ml-mobileclip](https://github.com/apple/ml-mobileclip) - This repository contains the official implementation of the research paper, "MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training" CVPR 2024
 - [simonw/click-app](https://github.com/simonw/click-app) - Cookiecutter template for creating new Click command-line tools
 - [simonw/files-to-prompt](https://github.com/simonw/files-to-prompt) - Concatenate a directory full of files into a single prompt for use with LLMs
