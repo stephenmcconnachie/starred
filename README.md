@@ -28,6 +28,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [Scala](#scala)
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [Swift](#swift)
@@ -314,6 +315,10 @@
 
 ## Python 
 
+- [NatLibFi/Annif](https://github.com/NatLibFi/Annif) - Annif is a multi-algorithm automated subject indexing tool for libraries, archives and museums.
+- [chartbeat-labs/textacy](https://github.com/chartbeat-labs/textacy) - NLP, before and after spaCy
+- [boudinfl/pke](https://github.com/boudinfl/pke) - Python Keyphrase Extraction module
+- [LIAAD/yake](https://github.com/LIAAD/yake) - Single-document unsupervised keyword extraction
 - [DS4SD/docling](https://github.com/DS4SD/docling) - Get your documents ready for gen AI
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [ServerlessLLM/ServerlessLLM](https://github.com/ServerlessLLM/ServerlessLLM) - Serverless LLM Serving for Everyone.
@@ -514,7 +519,6 @@
 - [KenjiTakahashi/mpdecimate_trim](https://github.com/KenjiTakahashi/mpdecimate_trim) - trim video clips based on mpdecimate output, keep audio synced
 - [nielstenboom/recurring-content-detector](https://github.com/nielstenboom/recurring-content-detector) - Unsupervised detection of opening / closing credits, recaps, and previews in video files 🎥🍿🎬
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
-- [LIAAD/yake](https://github.com/LIAAD/yake) - Single-document unsupervised keyword extraction
 - [artefactual/archivematica](https://github.com/artefactual/archivematica) - Free and open-source digital preservation system designed to maintain standards-based, long-term access to collections of digital objects.
 - [CarnegieHall/quality-control](https://github.com/CarnegieHall/quality-control) - Carnegie Hall Archives maintains a series of small, portable scripts to expedite batch processes for quality control on our Digital Collections.
 - [FilmColors/VIAN](https://github.com/FilmColors/VIAN) - 
@@ -573,7 +577,6 @@
 - [Digital-Preservation-Finland/file-scraper](https://github.com/Digital-Preservation-Finland/file-scraper) - File detector, metadata collector and well-formedness checker tool
 - [Digital-Preservation-Finland/ffmpeg-python](https://github.com/Digital-Preservation-Finland/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
 - [Digital-Preservation-Finland/dpx-validator](https://github.com/Digital-Preservation-Finland/dpx-validator) - DPX file format validator
-- [NatLibFi/Annif](https://github.com/NatLibFi/Annif) - Annif is a multi-algorithm automated subject indexing tool for libraries, archives and museums.
 - [tw4l/brunnhilde](https://github.com/tw4l/brunnhilde) - Siegfried-based characterization tool for directories and disk images
 - [Ymagis/ClairMeta](https://github.com/Ymagis/ClairMeta) - Clairmeta is a python package for Digital Cinema Package (DCP) probing and checking.
 - [kieranjol/IFIscripts](https://github.com/kieranjol/IFIscripts) - Detailed documentation is available here: http://ifiscripts.readthedocs.io/en/latest/index.html
@@ -602,6 +605,10 @@
 ## SCSS 
 
 - [AI4LAM/awesome-ai4lam](https://github.com/AI4LAM/awesome-ai4lam) - A list of awesome AI in libraries, archives, and museum collections from around the world 🕶️
+
+## Scala 
+
+- [JohnSnowLabs/spark-nlp](https://github.com/JohnSnowLabs/spark-nlp) - State of the Art Natural Language Processing
 
 ## Shell 
 
