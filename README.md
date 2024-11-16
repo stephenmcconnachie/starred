@@ -244,7 +244,6 @@
 - [NielsRogge/Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials) - This repository contains demos I made with the Transformers library by HuggingFace.
 - [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence
 - [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [run-llama/llama-hub](https://github.com/run-llama/llama-hub) - A library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
 - [sroecker/LLM_AppDev-HandsOn](https://github.com/sroecker/LLM_AppDev-HandsOn) - Repository and hands-on workshop on how to develop applications with local LLMs
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
@@ -315,6 +314,7 @@
 
 ## Python 
 
+- [DAI-Lab/RivaGAN](https://github.com/DAI-Lab/RivaGAN) - Robust video watermarking with non-differentiable adversaries.
 - [NatLibFi/Annif](https://github.com/NatLibFi/Annif) - Annif is a multi-algorithm automated subject indexing tool for libraries, archives and museums.
 - [chartbeat-labs/textacy](https://github.com/chartbeat-labs/textacy) - NLP, before and after spaCy
 - [boudinfl/pke](https://github.com/boudinfl/pke) - Python Keyphrase Extraction module
@@ -466,6 +466,7 @@
 - [AudiovisualMetadataPlatform/whisper](https://github.com/AudiovisualMetadataPlatform/whisper) - Wrapper for the Whisper Text-to-speech tool
 - [AudiovisualMetadataPlatform/amp_bootstrap](https://github.com/AudiovisualMetadataPlatform/amp_bootstrap) - AMP system managment
 - [run-llama/rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [ochen1/insanely-fast-whisper-cli](https://github.com/ochen1/insanely-fast-whisper-cli) - The fastest Whisper optimization for automatic speech recognition as a command-line interface ⚡️
 - [m-bain/CondensedMovies-chall](https://github.com/m-bain/CondensedMovies-chall) - Condensed Movies Challenge 2021
 - [m-bain/frozen-in-time](https://github.com/m-bain/frozen-in-time) - Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval [ICCV'21]
@@ -646,6 +647,7 @@
 
 ## TypeScript 
 
+- [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
