@@ -372,7 +372,7 @@
 - [artefactual-labs/amclient](https://github.com/artefactual-labs/amclient) - Archivematica API client module
 - [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua) - [EMNLP'23, ACL'24] To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.
 - [thunlp/LLaVA-UHD](https://github.com/thunlp/LLaVA-UHD) - LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images
-- [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for running Vision LLMs locally on your Mac using MLX.
+- [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [armbues/SiLLM](https://github.com/armbues/SiLLM) - SiLLM simplifies the process of training and running Large Language Models (LLMs) on Apple Silicon by leveraging the MLX framework.
 - [stanford-futuredata/ColBERT](https://github.com/stanford-futuredata/ColBERT) - ColBERT: state-of-the-art neural search (SIGIR'20, TACL'21, NeurIPS'21, NAACL'22, CIKM'22, ACL'23, EMNLP'23)
