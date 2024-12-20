@@ -246,7 +246,7 @@
 - [SALT-NLP/LLaVAR](https://github.com/SALT-NLP/LLaVAR) - Code/Data for the paper: "LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding"
 - [stanford-oval/WikiChat](https://github.com/stanford-oval/WikiChat) - WikiChat is an improved RAG. It stops the hallucination of large language models by retrieving data from a corpus.
 - [run-llama/rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 (PyPi: autogen-agentchat)
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 
 ## chatgpt 
 
@@ -265,7 +265,7 @@
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/
 - [SALT-NLP/LLaVAR](https://github.com/SALT-NLP/LLaVAR) - Code/Data for the paper: "LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding"
 - [run-llama/rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 (PyPi: autogen-agentchat)
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [1mrat/gpt-stats](https://github.com/1mrat/gpt-stats) - Stats for Custom Chat GPTs not created by OpenAI
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 
@@ -800,7 +800,7 @@
 ## others 
 
 - [jhuckaby/performa-satellite](https://github.com/jhuckaby/performa-satellite) - Remote data collector for Performa.
-- [eyelevelai/groundx-on-prem](https://github.com/eyelevelai/groundx-on-prem) - 
+- [eyelevelai/groundx-on-prem](https://github.com/eyelevelai/groundx-on-prem) - A Kubernetes deployable instance of GroundX  for document parsing, storage, and search.
 - [edsu/whisper-transcript](https://github.com/edsu/whisper-transcript) - A Lit web-component for viewing a Whisper JSON transcript file
 - [LIAAD/yake](https://github.com/LIAAD/yake) - Single-document unsupervised keyword extraction
 - [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
@@ -847,7 +847,7 @@
 - [magic-research/PLLaVA](https://github.com/magic-research/PLLaVA) - Official repository for the paper PLLaVA
 - [run-llama/create-llama](https://github.com/run-llama/create-llama) - The easiest way to get started with LlamaIndex
 - [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua) - [EMNLP'23, ACL'24] To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.
-- [thunlp/LLaVA-UHD](https://github.com/thunlp/LLaVA-UHD) - LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images
+- [thunlp/LLaVA-UHD](https://github.com/thunlp/LLaVA-UHD) - LLaVA-UHD v2: an MLLM Integrating High-Resolution Feature Pyramid via Hierarchical Window Transformer
 - [hrishioa/tough-llm-tests](https://github.com/hrishioa/tough-llm-tests) - Some tough questions to test new models.
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [timpaul/form-extractor-prototype](https://github.com/timpaul/form-extractor-prototype) - A prototype of a tool that generates web forms from document forms
@@ -1159,6 +1159,7 @@
 
 ## python 
 
+- [slhck/ffmpeg-normalize](https://github.com/slhck/ffmpeg-normalize) - Audio Normalization for Python/ffmpeg
 - [NatLibFi/Annif](https://github.com/NatLibFi/Annif) - Annif is a multi-algorithm automated subject indexing tool for libraries, archives and museums.
 - [chartbeat-labs/textacy](https://github.com/chartbeat-labs/textacy) - NLP, before and after spaCy
 - [boudinfl/pke](https://github.com/boudinfl/pke) - Python Keyphrase Extraction module
