@@ -799,6 +799,7 @@
 
 ## others 
 
+- [uscdr-mediapres/sous-chef](https://github.com/uscdr-mediapres/sous-chef) - An easy-to-use application that encodes DPX sequences into MKV video streams, primarily for archival storage
 - [jhuckaby/performa-satellite](https://github.com/jhuckaby/performa-satellite) - Remote data collector for Performa.
 - [eyelevelai/groundx-on-prem](https://github.com/eyelevelai/groundx-on-prem) - A Kubernetes deployable instance of GroundX  for document parsing, storage, and search.
 - [edsu/whisper-transcript](https://github.com/edsu/whisper-transcript) - A Lit web-component for viewing a Whisper JSON transcript file
