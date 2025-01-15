@@ -216,7 +216,7 @@
 ## Jupyter Notebook 
 
 - [huggingface/smol-course](https://github.com/huggingface/smol-course) - A course on aligning smol models.
-- [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a 
+- [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
 - [merveenoyan/siglip](https://github.com/merveenoyan/siglip) - Projects based on SigLIP (Zhai et. al, 2023) and Hugging Face transformers integration 🤗
 - [deepfates/memery](https://github.com/deepfates/memery) - Search over large image datasets with natural language and computer vision!
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
@@ -323,6 +323,9 @@
 
 ## Python 
 
+- [AV-EFI/efi-conv](https://github.com/AV-EFI/efi-conv) - Home for converter scripts developed as part of the AVefi project.
+- [AV-EFI/av-efi-schema](https://github.com/AV-EFI/av-efi-schema) - 
+- [AV-EFI/sdk-adlib-exporter](https://github.com/AV-EFI/sdk-adlib-exporter) - Code used at Stiftung Deutsche Kinemathek to register AVefi compliant PIDs for collections on record in their local Adlib database
 - [ictnlp/LLaVA-Mini](https://github.com/ictnlp/LLaVA-Mini) - LLaVA-Mini is a unified large multimodal model (LMM) that can support the understanding of images, high-resolution images, and videos in an efficient manner.
 - [CatchTheTornado/text-extract-api](https://github.com/CatchTheTornado/text-extract-api) - Document (PDF, Word, PPTX ...) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSO
 - [nationalarchives/dp-research-googletransferPOC](https://github.com/nationalarchives/dp-research-googletransferPOC) - POC scripts to test potential transfer processes for material to TNA stored in Google Drive
