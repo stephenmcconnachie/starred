@@ -126,6 +126,7 @@
 - [website](#website)
 - [windows](#windows)
 - [xml](#xml)
+- [zig](#zig)
 
 ## 3d 
 
@@ -1457,6 +1458,10 @@
 ## xml 
 
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+
+## zig 
+
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - The open-source browser made for headless usage
 
 
 ## License
