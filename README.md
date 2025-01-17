@@ -36,6 +36,7 @@
 - [TypeScript](#typescript)
 - [Vue](#vue)
 - [XSLT](#xslt)
+- [Zig](#zig)
 
 ## C 
 
@@ -718,6 +719,10 @@
 
 - [preservica/automated-preservation-recommendations](https://github.com/preservica/automated-preservation-recommendations) - This repository contains a Wiki of information related to recommendation preservation actions in support of Preservica Automated-Preservation functionality, as well as some basic tools for working wit
 - [dericed/xsl4metadata](https://github.com/dericed/xsl4metadata) - various xsl to do this or that
+
+## Zig 
+
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - The open-source browser made for headless usage
 
 
 ## License
