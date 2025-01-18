@@ -198,7 +198,6 @@
 - [o19s/pdf-discovery-demo](https://github.com/o19s/pdf-discovery-demo) - Demonstration of searching PDF document with Solr, Tika, and Tesseract
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [EIDR-ID/reshuffle-prod-runtime](https://github.com/EIDR-ID/reshuffle-prod-runtime) - Reshuffle Enterprise Production-Only (no studio sync) Runtime Environment
-- [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [greenstick/interactor](https://github.com/greenstick/interactor) - Front-End Code for Tracking Interactions and Conversions on Websites.
 - [phivk/nonlinearvideo](https://github.com/phivk/nonlinearvideo) - Non-Linear Video in HTML5 Workshop
 - [cpietsch/vikus-viewer](https://github.com/cpietsch/vikus-viewer) - Explore cultural collections along time, texture and themes
@@ -704,6 +703,7 @@
 - [IIIF-Commons/parser](https://github.com/IIIF-Commons/parser) - IIIF Presentation 2 + 3 parser
 - [muxinc/media-chrome](https://github.com/muxinc/media-chrome) - Custom elements (web components) for making audio and video player controls that look great in your website or app.
 - [gTile/gTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome.
+- [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [archival-IIIF/test-server](https://github.com/archival-IIIF/test-server) - 
 - [archival-IIIF/demo](https://github.com/archival-IIIF/demo) - 
 - [SocialGouv/archifiltre-docs](https://github.com/SocialGouv/archifiltre-docs) - Visualisez et améliorez vos arborescences de fichiers !
