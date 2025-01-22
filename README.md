@@ -724,7 +724,7 @@
 
 ## Zig 
 
-- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - The open-source browser made for headless usage
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 
 
 ## License
