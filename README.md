@@ -323,6 +323,7 @@
 
 ## Python 
 
+- [lowerquality/gentle](https://github.com/lowerquality/gentle) - gentle forced aligner
 - [AV-EFI/efi-conv](https://github.com/AV-EFI/efi-conv) - Home for converter scripts developed as part of the AVefi project.
 - [AV-EFI/av-efi-schema](https://github.com/AV-EFI/av-efi-schema) - 
 - [AV-EFI/sdk-adlib-exporter](https://github.com/AV-EFI/sdk-adlib-exporter) - Code used at Stiftung Deutsche Kinemathek to register AVefi compliant PIDs for collections on record in their local Adlib database
