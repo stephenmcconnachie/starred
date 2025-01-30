@@ -215,6 +215,7 @@
 
 ## Jupyter Notebook 
 
+- [AI4LAM/fastai4GLAMS](https://github.com/AI4LAM/fastai4GLAMS) - A study group for v4 of the fastai introduction to deep learning course with a focus on applications in GLAM settings
 - [huggingface/smol-course](https://github.com/huggingface/smol-course) - A course on aligning smol models.
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
 - [merveenoyan/siglip](https://github.com/merveenoyan/siglip) - Projects based on SigLIP (Zhai et. al, 2023) and Hugging Face transformers integration 🤗
@@ -274,6 +275,8 @@
 
 ## Others 
 
+- [AI4LAM/full-stack-deep-learning-4-glams](https://github.com/AI4LAM/full-stack-deep-learning-4-glams) - A study group for the Full Stack Deep Learning Course with a focus on using ML in GLAM settings
+- [AI4LAM/TeachingAndLearning](https://github.com/AI4LAM/TeachingAndLearning) - A repository to organize materials from the AI4LAM Teach and Learning Working Group
 - [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
 - [meta-llama/llama-stack-apps](https://github.com/meta-llama/llama-stack-apps) - Agentic components of the Llama Stack APIs
 - [arpitingle/gpu-alpha](https://github.com/arpitingle/gpu-alpha) - High Quality Resources on GPU Programming/Architecture
@@ -388,7 +391,7 @@
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - An efficient, flexible and full-featured toolkit for fine-tuning LLM (InternLM2, Llama3, Phi3, Qwen, Mistral, ...)
 - [BAAI-DCAI/Bunny](https://github.com/BAAI-DCAI/Bunny) - A family of lightweight multimodal models.
 - [magic-research/PLLaVA](https://github.com/magic-research/PLLaVA) - Official repository for the paper PLLaVA
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for AI Agents
 - [artefactual-labs/amclient](https://github.com/artefactual-labs/amclient) - Archivematica API client module
 - [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua) - [EMNLP'23, ACL'24] To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.
 - [thunlp/LLaVA-UHD](https://github.com/thunlp/LLaVA-UHD) - LLaVA-UHD v2: an MLLM Integrating High-Resolution Feature Pyramid via Hierarchical Window Transformer
