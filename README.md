@@ -218,6 +218,14 @@
 
 ## Jupyter Notebook 
 
+- [wjbmattingly/keyword-spacy](https://github.com/wjbmattingly/keyword-spacy) - Keyword spaCy is a spaCy pipeline component for extracting keywords from text using cosine similarity.
+- [wjbmattingly/spacy-whisper](https://github.com/wjbmattingly/spacy-whisper) - A spaCy pipeline designed to work with whisper outputs.
+- [wjbmattingly/spcay-aligner](https://github.com/wjbmattingly/spcay-aligner) - A component to identify and align person entities.
+- [wjbmattingly/ocr_python_textbook](https://github.com/wjbmattingly/ocr_python_textbook) - 
+- [wjbmattingly/youtube-florence-table](https://github.com/wjbmattingly/youtube-florence-table) - Table detection with Florence.
+- [wjbmattingly/python_for_dh](https://github.com/wjbmattingly/python_for_dh) - 
+- [wjbmattingly/youtube-spacy-layout](https://github.com/wjbmattingly/youtube-spacy-layout) - A quick tutorial for using spaCy Layout.
+- [DAMO-NLP-SG/VideoLLaMA3](https://github.com/DAMO-NLP-SG/VideoLLaMA3) - Frontier Multimodal Foundation Models for Image and Video Understanding
 - [congruence-engine/catalogues-as-data](https://github.com/congruence-engine/catalogues-as-data) - Repository for the 'Museums online catalogue-as-data' investigation
 - [congruence-engine/retrieval-augmented-generation-with-circulars](https://github.com/congruence-engine/retrieval-augmented-generation-with-circulars) - Repo for code and data related to the CE investigation into creating a searchable repository from digitised GPO circulars
 - [congruence-engine/experimenting-with-optical-character-recognition](https://github.com/congruence-engine/experimenting-with-optical-character-recognition) - Repository on a series of Experimentations with Optical Character Recognition
@@ -338,6 +346,11 @@
 
 ## Python 
 
+- [wjbmattingly/spacy-annoy](https://github.com/wjbmattingly/spacy-annoy) - A package for doing semantic search with spaCy docs.
+- [wjbmattingly/bagpipes-spacy](https://github.com/wjbmattingly/bagpipes-spacy) - Bagpipes spaCy is a collection of custom spaCy pipeline components designed to enhance text processing capabilities.
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+- [wjbmattingly/qwen2-vl-finetune-huggingface](https://github.com/wjbmattingly/qwen2-vl-finetune-huggingface) - This project is a collection of fine-tuning scripts to help researchers fine-tune Qwen 2 VL on HuggingFace datasets.
+- [explosion/spacy-layout](https://github.com/explosion/spacy-layout) - 📚 Process PDFs, Word documents and more with spaCy
 - [congruence-engine/visualizing-oral-history](https://github.com/congruence-engine/visualizing-oral-history) - Repository for the 'Visualizing Oral History' investigation
 - [MaartenGr/KeyBERT](https://github.com/MaartenGr/KeyBERT) - Minimal keyword extraction with BERT
 - [congruence-engine/entity-relationship-extraction](https://github.com/congruence-engine/entity-relationship-extraction) - Repository for code and data related to the CE investigation into extracting structured information from unstructured text
