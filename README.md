@@ -226,6 +226,7 @@
 
 ## Jupyter Notebook 
 
+- [merveenoyan/smol-vision](https://github.com/merveenoyan/smol-vision) - Recipes for shrinking, optimizing, customizing cutting edge vision models. 💜
 - [wjbmattingly/youtube-shakespeare](https://github.com/wjbmattingly/youtube-shakespeare) - 
 - [wjbmattingly/youtube-spacy-ml](https://github.com/wjbmattingly/youtube-spacy-ml) - 
 - [wjbmattingly/keyword-spacy](https://github.com/wjbmattingly/keyword-spacy) - Keyword spaCy is a spaCy pipeline component for extracting keywords from text using cosine similarity.
