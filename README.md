@@ -70,7 +70,7 @@
 - [RWKV/rwkv.cpp](https://github.com/RWKV/rwkv.cpp) - INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model
 - [aarnphm/whispercpp](https://github.com/aarnphm/whispercpp) - Pybind11 bindings for Whisper.cpp
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [shundhammer/qdirstat](https://github.com/shundhammer/qdirstat) - QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
@@ -94,10 +94,14 @@
 
 ## Dockerfile 
 
+- [webtor-io/self-hosted](https://github.com/webtor-io/self-hosted) - Self-hosted version of webtor.io implemented as an all-in-one Docker image
 - [nytimes/nginx-vod-module-docker](https://github.com/nytimes/nginx-vod-module-docker) - Docker image for nginx with Kaltura's VoD module used by The New York Times
 
 ## Go 
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [Low-Stack-Technologies/temp](https://github.com/Low-Stack-Technologies/temp) - A temporary file server with CLI integration
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administratio
 - [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - transparent proxy server for llama.cpp's server to provide automatic model swapping
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
@@ -167,6 +171,7 @@
 
 ## JavaScript 
 
+- [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch & opensearch
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
@@ -226,6 +231,7 @@
 
 ## Jupyter Notebook 
 
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [merveenoyan/smol-vision](https://github.com/merveenoyan/smol-vision) - Recipes for shrinking, optimizing, customizing cutting edge vision models. 💜
 - [wjbmattingly/youtube-shakespeare](https://github.com/wjbmattingly/youtube-shakespeare) - 
 - [wjbmattingly/youtube-spacy-ml](https://github.com/wjbmattingly/youtube-spacy-ml) - 
@@ -356,6 +362,12 @@
 
 ## Python 
 
+- [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald) - 🐵 Preswald is a full-stack platform for building, deploying, and managing interactive data applications. It brings ingestion, storage, transformation, and visualization into a simple SDK, minimizing c
+- [video-db/Director](https://github.com/video-db/Director) - AI video agents framework for next-gen video interactions and workflows.
+- [stacklok/codegate](https://github.com/stacklok/codegate) - CodeGate: CodeGen Privacy and Security
+- [av/harbor](https://github.com/av/harbor) - Effortlessly run LLM backends, APIs, frontends, and services with one command.
+- [CatchTheTornado/text-extract-api](https://github.com/CatchTheTornado/text-extract-api) - Document (PDF, Word, PPTX ...) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSO
+- [imanoop7/Ollama-OCR](https://github.com/imanoop7/Ollama-OCR) - 
 - [epuerta9/deep-research-py](https://github.com/epuerta9/deep-research-py) - save 200 a month and use deep research right in your terminal. - port of https://github.com/dzhng/deep-research but in python
 - [OpenGVLab/InternVideo](https://github.com/OpenGVLab/InternVideo) - [ECCV2024] Video Foundation Models & Data for Multimodal Understanding
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
@@ -386,7 +398,6 @@
 - [AV-EFI/av-efi-schema](https://github.com/AV-EFI/av-efi-schema) - 
 - [AV-EFI/sdk-adlib-exporter](https://github.com/AV-EFI/sdk-adlib-exporter) - Code used at Stiftung Deutsche Kinemathek to register AVefi compliant PIDs for collections on record in their local Adlib database
 - [ictnlp/LLaVA-Mini](https://github.com/ictnlp/LLaVA-Mini) - LLaVA-Mini is a unified large multimodal model (LMM) that can support the understanding of images, high-resolution images, and videos in an efficient manner.
-- [CatchTheTornado/text-extract-api](https://github.com/CatchTheTornado/text-extract-api) - Document (PDF, Word, PPTX ...) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSO
 - [nationalarchives/dp-research-googletransferPOC](https://github.com/nationalarchives/dp-research-googletransferPOC) - POC scripts to test potential transfer processes for material to TNA stored in Google Drive
 - [intuitem/ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community) - CISO Assistant is a one-stop-shop for GRC, covering Risk, AppSec and Audit Management and supporting +70 frameworks worldwide with auto-mapping: NIST CSF, ISO 27001, SOC2, CIS, PCI DSS, NIS2, CMMC, PS
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper
@@ -673,6 +684,7 @@
 
 ## Rust 
 
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision model based document ingestion
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
@@ -723,6 +735,9 @@
 
 ## TypeScript 
 
+- [twelvelabs-io/tl-jockey](https://github.com/twelvelabs-io/tl-jockey) - Jockey is a conversational video agent.
+- [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
+- [GitHamza0206/simba](https://github.com/GitHamza0206/simba) - Portable KMS (knowledge management system) designed to integrate seamlessly with any Retrieval-Augmented Generation (RAG) system
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
 - [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications.
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
