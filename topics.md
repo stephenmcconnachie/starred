@@ -59,6 +59,7 @@
 - [http](#http)
 - [https](#https)
 - [image-processing](#image-processing)
+- [instagram](#instagram)
 - [ios](#ios)
 - [java](#java)
 - [javascript](#javascript)
@@ -112,6 +113,7 @@
 - [security](#security)
 - [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
+- [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
 - [software](#software)
@@ -126,6 +128,7 @@
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [testing](#testing)
+- [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [vue](#vue)
@@ -259,6 +262,7 @@
 
 ## bash 
 
+- [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 - [av/harbor](https://github.com/av/harbor) - Effortlessly run LLM backends, APIs, frontends, and services with one command.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -276,6 +280,7 @@
 
 ## chatbot 
 
+- [drmingler/smart-llm-loader](https://github.com/drmingler/smart-llm-loader) - smart-llm-loader is a lightweight yet powerful Python package that transforms any document into LLM-ready chunks. Spend less time on preprocessing headaches and more time building what matters. From R
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [X-PLUG/mPLUG-Owl](https://github.com/X-PLUG/mPLUG-Owl) - mPLUG-Owl: The Powerful Multi-modal Large Language Model  Family
@@ -345,6 +350,7 @@
 
 ## computer-vision 
 
+- [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [katanaml/sparrow](https://github.com/katanaml/sparrow) - Data processing with ML, LLM and Vision LLM
 - [merveenoyan/siglip](https://github.com/merveenoyan/siglip) - Projects based on SigLIP (Zhai et. al, 2023) and Hugging Face transformers integration 🤗
 - [deepfates/memery](https://github.com/deepfates/memery) - Search over large image datasets with natural language and computer vision!
@@ -396,6 +402,7 @@
 
 ## deep-learning 
 
+- [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
@@ -426,6 +433,7 @@
 
 ## devops 
 
+- [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 - [healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script) - Run a security scan on your server and identify common gaps. Get your VPS ready for production.
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
@@ -541,6 +549,7 @@
 
 ## hacktoberfest 
 
+- [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ Undetectable, Lightning-Fast, and Adaptive Web Scraping for Python
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
@@ -580,9 +589,14 @@
 
 ## image-processing 
 
+- [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [mapluisch/LLaVA-CLI-with-multiple-images](https://github.com/mapluisch/LLaVA-CLI-with-multiple-images) - LLaVA inference with multiple images at once for cross-image analysis.
 - [imdeepmind/hocrox](https://github.com/imdeepmind/hocrox) - Hocrox: An image preprocessing and augmentation library with Keras like interface.
+
+## instagram 
+
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
 ## ios 
 
@@ -599,6 +613,7 @@
 
 ## javascript 
 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch & opensearch
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
@@ -640,6 +655,7 @@
 
 ## linux 
 
+- [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administratio
 - [healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script) - Run a security scan on your server and identify common gaps. Get your VPS ready for production.
 - [fcakyon/craft-text-detector](https://github.com/fcakyon/craft-text-detector) - Packaged, Pytorch-based, easy to use, cross-platform version of the CRAFT text detector
@@ -651,6 +667,8 @@
 
 ## llm 
 
+- [QuivrHQ/MegaParse](https://github.com/QuivrHQ/MegaParse) - File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
+- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald) - 🐵 Preswald is a full-stack platform for building, deploying, and managing interactive data applications. It brings ingestion, storage, transformation, and visualization into a simple SDK, minimizing c
 - [video-db/Director](https://github.com/video-db/Director) - AI video agents framework for next-gen video interactions and workflows.
@@ -672,7 +690,7 @@
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [alexpinel/Dot](https://github.com/alexpinel/Dot) - Text-To-Speech, RAG, and LLMs. All local!
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
 - [ax-llm/ax](https://github.com/ax-llm/ax) - The unofficial DSPy framework. Build LLM powered Agents and "Agentic workflows" based on the Stanford DSP paper.
 - [Maximilian-Winter/llama-cpp-agent](https://github.com/Maximilian-Winter/llama-cpp-agent) - The llama-cpp-agent framework is a tool designed for easy interaction with Large Language Models (LLMs). Allowing users to chat with LLM models, execute structured function calls and get structured ou
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - An efficient, flexible and full-featured toolkit for fine-tuning LLM (InternLM2, Llama3, Phi3, Qwen, Mistral, ...)
@@ -709,6 +727,7 @@
 
 ## low-code 
 
+- [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -721,6 +740,7 @@
 
 ## machine-learning 
 
+- [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [AI4LAM/TeachingAndLearning](https://github.com/AI4LAM/TeachingAndLearning) - A repository to organize materials from the AI4LAM Teach and Learning Working Group
@@ -765,6 +785,7 @@
 
 ## markdown 
 
+- [drmingler/smart-llm-loader](https://github.com/drmingler/smart-llm-loader) - smart-llm-loader is a lightweight yet powerful Python package that transforms any document into LLM-ready chunks. Spend less time on preprocessing headaches and more time building what matters. From R
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -776,11 +797,13 @@
 
 ## monitoring 
 
+- [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 
 ## music 
 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [karolkozer/planby](https://github.com/karolkozer/planby) - 
 - [ina-foss/inaSpeechSegmenter](https://github.com/ina-foss/inaSpeechSegmenter) - CNN-based audio segmentation toolkit. Allows to detect speech, music, noise and speaker gender. Has been designed for large scale gender equality studies based on speech time per gender.
 
@@ -872,7 +895,7 @@
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
 - [ax-llm/ax](https://github.com/ax-llm/ax) - The unofficial DSPy framework. Build LLM powered Agents and "Agentic workflows" based on the Stanford DSP paper.
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [ProjectMirador/mirador-desktop](https://github.com/ProjectMirador/mirador-desktop) - A desktop wrapper for Mirador and its environment, allowing use of local images.
@@ -899,6 +922,7 @@
 
 ## openai 
 
+- [drmingler/smart-llm-loader](https://github.com/drmingler/smart-llm-loader) - smart-llm-loader is a lightweight yet powerful Python package that transforms any document into LLM-ready chunks. Spend less time on preprocessing headaches and more time building what matters. From R
 - [video-db/Director](https://github.com/video-db/Director) - AI video agents framework for next-gen video interactions and workflows.
 - [stacklok/codegate](https://github.com/stacklok/codegate) - CodeGate: CodeGen Privacy and Security
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
@@ -934,6 +958,11 @@
 
 ## others 
 
+- [patrickloeber/genai-tutorials](https://github.com/patrickloeber/genai-tutorials) - Code examples showing how to use Gemini, Gemma,  Imagen, and more.
+- [MinishLab/semhash](https://github.com/MinishLab/semhash) - Fast Semantic Text Deduplication
+- [tom-doerr/repo_posts](https://github.com/tom-doerr/repo_posts) - 
+- [egoist/sitefetch](https://github.com/egoist/sitefetch) - Fetch an entire site and save it as a text file (to be used with AI models).
+- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-o 2.6: A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone
 - [twelvelabs-io/tl-jockey](https://github.com/twelvelabs-io/tl-jockey) - Jockey is a conversational video agent.
 - [webtor-io/self-hosted](https://github.com/webtor-io/self-hosted) - Self-hosted version of webtor.io implemented as an all-in-one Docker image
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
@@ -981,8 +1010,8 @@
 - [ALucek/QuicKB](https://github.com/ALucek/QuicKB) - Optimize Document Retrieval with Fine-Tuned KnowledgeBases
 - [AI4LAM/full-stack-deep-learning-4-glams](https://github.com/AI4LAM/full-stack-deep-learning-4-glams) - A study group for the Full Stack Deep Learning Course with a focus on using ML in GLAM settings
 - [AI4LAM/fastai4GLAMS](https://github.com/AI4LAM/fastai4GLAMS) - A study group for v4 of the fastai introduction to deep learning course with a focus on applications in GLAM settings
-- [lowerquality/gentle](https://github.com/lowerquality/gentle) - gentle forced aligner
-- [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code) - Roo Code (prev. Roo Cline) is a VS Code plugin that enhances coding with AI-powered automation, multi-model support, and experimental features
+- [strob/gentle](https://github.com/strob/gentle) - gentle forced aligner
+- [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code) - Roo Code (prev. Roo Cline) is an AI-powered autonomous coding agent that lives in your editor.
 - [AV-EFI/efi-conv](https://github.com/AV-EFI/efi-conv) - Home for converter scripts developed as part of the AVefi project.
 - [AV-EFI/av-efi-schema](https://github.com/AV-EFI/av-efi-schema) - 
 - [AV-EFI/sdk-adlib-exporter](https://github.com/AV-EFI/sdk-adlib-exporter) - Code used at Stiftung Deutsche Kinemathek to register AVefi compliant PIDs for collections on record in their local Adlib database
@@ -1009,7 +1038,6 @@
 - [deekshaaneja/Qwen2-VL](https://github.com/deekshaaneja/Qwen2-VL) - 
 - [nypublicradio/transcript-editor](https://github.com/nypublicradio/transcript-editor) - Web-based tool for correcting speech-to-text generated  transcripts.
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-- [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-o 2.6: A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone
 - [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 - [aiola-lab/whisper-medusa](https://github.com/aiola-lab/whisper-medusa) - Whisper with Medusa heads
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
@@ -1357,6 +1385,7 @@
 
 ## python 
 
+- [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald) - 🐵 Preswald is a full-stack platform for building, deploying, and managing interactive data applications. It brings ingestion, storage, transformation, and visualization into a simple SDK, minimizing c
 - [stacklok/codegate](https://github.com/stacklok/codegate) - CodeGate: CodeGen Privacy and Security
@@ -1429,6 +1458,8 @@
 
 ## pytorch 
 
+- [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
+- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
@@ -1490,6 +1521,7 @@
 
 ## rest-api 
 
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [NatLibFi/Annif](https://github.com/NatLibFi/Annif) - Annif is a multi-algorithm automated subject indexing tool for libraries, archives and museums.
 - [DSpace/DSpace](https://github.com/DSpace/DSpace) - (Official) The DSpace digital asset management system that powers your Institutional Repository
@@ -1514,6 +1546,7 @@
 
 ## security 
 
+- [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [stacklok/codegate](https://github.com/stacklok/codegate) - CodeGate: CodeGen Privacy and Security
 - [healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script) - Run a security scan on your server and identify common gaps. Get your VPS ready for production.
@@ -1524,6 +1557,7 @@
 
 ## security-tools 
 
+- [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 - [hillu/local-log4j-vuln-scanner](https://github.com/hillu/local-log4j-vuln-scanner) - Simple local scanner for vulnerable log4j instances
 
 ## self-hosted 
@@ -1541,12 +1575,17 @@
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 
+## server 
+
+- [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
+
 ## serverless 
 
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 
 ## shell 
 
+- [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
@@ -1575,6 +1614,7 @@
 
 ## svelte 
 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 
 ## swift 
@@ -1592,6 +1632,7 @@
 
 ## tensorflow 
 
+- [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [JohnSnowLabs/spark-nlp](https://github.com/JohnSnowLabs/spark-nlp) - State of the Art Natural Language Processing
 - [kuo77122/deep-face-detector](https://github.com/kuo77122/deep-face-detector) - 
@@ -1607,8 +1648,13 @@
 
 - [archival-IIIF/test-server](https://github.com/archival-IIIF/test-server) - 
 
+## twitter 
+
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+
 ## typescript 
 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
@@ -1622,6 +1668,7 @@
 
 ## ubuntu 
 
+- [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 - [healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script) - Run a security scan on your server and identify common gaps. Get your VPS ready for production.
 - [ozmartian/vidcutter](https://github.com/ozmartian/vidcutter) - A modern yet simple multi-platform video cutter and joiner.
 - [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
@@ -1645,6 +1692,7 @@
 
 ## webapp 
 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 
