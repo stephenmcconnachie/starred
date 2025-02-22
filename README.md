@@ -312,6 +312,7 @@
 
 ## Others 
 
+- [meta-llama/llama-stack-apps](https://github.com/meta-llama/llama-stack-apps) - Agentic components of the Llama Stack APIs
 - [tom-doerr/repo_posts](https://github.com/tom-doerr/repo_posts) - 
 - [congruence-engine/experimenting-wikidata](https://github.com/congruence-engine/experimenting-wikidata) - Repository for the "Linking Textile Machine terms via Wikidata" investigation
 - [congruence-engine/transforming-researcher-notes](https://github.com/congruence-engine/transforming-researcher-notes) - 
@@ -319,7 +320,6 @@
 - [AI4LAM/full-stack-deep-learning-4-glams](https://github.com/AI4LAM/full-stack-deep-learning-4-glams) - A study group for the Full Stack Deep Learning Course with a focus on using ML in GLAM settings
 - [AI4LAM/TeachingAndLearning](https://github.com/AI4LAM/TeachingAndLearning) - A repository to organize materials from the AI4LAM Teach and Learning Working Group
 - [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
-- [meta-llama/llama-stack-apps](https://github.com/meta-llama/llama-stack-apps) - Agentic components of the Llama Stack APIs
 - [arpitingle/gpu-alpha](https://github.com/arpitingle/gpu-alpha) - High Quality Resources on GPU Programming/Architecture
 - [BradyFU/Video-MME](https://github.com/BradyFU/Video-MME) - ✨✨Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis
 - [RManLuo/Awesome-LLM-KG](https://github.com/RManLuo/Awesome-LLM-KG) - Awesome papers about unifying LLMs and KGs
