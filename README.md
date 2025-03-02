@@ -175,6 +175,7 @@
 
 ## JavaScript 
 
+- [graphlit/graphlit-mcp-server](https://github.com/graphlit/graphlit-mcp-server) - Model Context Protocol (MCP) Server for Graphlit Platform
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
@@ -372,6 +373,7 @@
 
 ## Python 
 
+- [HazyResearch/minions](https://github.com/HazyResearch/minions) - Big & Small LLMs working together
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 - [peregilk/altwer](https://github.com/peregilk/altwer) - Calculates wer if there are multiple alternative solutions
@@ -763,6 +765,7 @@
 
 ## TypeScript 
 
+- [ajcwebdev/autoshow](https://github.com/ajcwebdev/autoshow) - End-to-end scripting workflow to automatically generate show notes from audio/video transcripts with Whisper.cpp, Ollama, yt-dlp, and Commander.js
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [egoist/sitefetch](https://github.com/egoist/sitefetch) - Fetch an entire site and save it as a text file (to be used with AI models).
