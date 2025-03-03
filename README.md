@@ -105,8 +105,9 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [Low-Stack-Technologies/temp](https://github.com/Low-Stack-Technologies/temp) - A temporary file server with CLI integration
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases, and LLMs within a Linux server.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases and LLMs within a Linux server.
 - [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - transparent proxy server for llama.cpp's server to provide automatic model swapping
+- [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
@@ -327,7 +328,7 @@
 - [AI4LAM/TeachingAndLearning](https://github.com/AI4LAM/TeachingAndLearning) - A repository to organize materials from the AI4LAM Teach and Learning Working Group
 - [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
 - [arpitingle/gpu-alpha](https://github.com/arpitingle/gpu-alpha) - High Quality Resources on GPU Programming/Architecture
-- [BradyFU/Video-MME](https://github.com/BradyFU/Video-MME) - ✨✨Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis
+- [BradyFU/Video-MME](https://github.com/BradyFU/Video-MME) - ✨✨[CVPR 2025] Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis
 - [RManLuo/Awesome-LLM-KG](https://github.com/RManLuo/Awesome-LLM-KG) - Awesome papers about unifying LLMs and KGs
 - [hrishioa/tough-llm-tests](https://github.com/hrishioa/tough-llm-tests) - Some tough questions to test new models.
 - [watson/awesome-computer-history](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore
@@ -360,6 +361,7 @@
 
 ## PHP 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [exponential-decay/the-format-registry](https://github.com/exponential-decay/the-format-registry) - A mirror of the PRONOM file format registry in Linked Open Data format. The Format Registry is a linked (open) data file format repository. The work is the result of a four-day hack during November 20
 
@@ -373,6 +375,7 @@
 
 ## Python 
 
+- [deepbeepmeep/Wan2GP](https://github.com/deepbeepmeep/Wan2GP) - Wan 2.1 for the GPU Poor
 - [HazyResearch/minions](https://github.com/HazyResearch/minions) - Big & Small LLMs working together
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
@@ -390,7 +393,7 @@
 - [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-o 2.6: A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone
 - [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald) - 🐵 Preswald is an open-source Python SDK for turning code into interactive data apps. It makes analytics easy to build, deploy, and share.
 - [video-db/Director](https://github.com/video-db/Director) - AI video agents framework for next-gen video interactions and workflows.
-- [stacklok/codegate](https://github.com/stacklok/codegate) - CodeGate: CodeGen Privacy and Security
+- [stacklok/codegate](https://github.com/stacklok/codegate) - CodeGate: Security, Workspaces and Muxing for AI Applications, coding assistants, and agentic frameworks.
 - [av/harbor](https://github.com/av/harbor) - Effortlessly run LLM backends, APIs, frontends, and services with one command.
 - [CatchTheTornado/text-extract-api](https://github.com/CatchTheTornado/text-extract-api) - Document (PDF, Word, PPTX ...) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSO
 - [imanoop7/Ollama-OCR](https://github.com/imanoop7/Ollama-OCR) - 
@@ -528,7 +531,7 @@
 - [qnguyen3/chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx) - An all-in-one LLMs Chat UI for Apple Silicon Mac using MLX Framework.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [keirf/greaseweazle](https://github.com/keirf/greaseweazle) - Tools for accessing a floppy drive at the raw flux level
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight library for building multi-modal Agents
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build Multimodal AI Agents with memory, knowledge and tools. Simple, fast and model-agnostic.
 - [run-llama/llama_cloud_services](https://github.com/run-llama/llama_cloud_services) - Knowledge Agents and Management in the Cloud
 - [artefactual/automation-tools](https://github.com/artefactual/automation-tools) - Tools to aid automation of Archivematica and AtoM.
 - [allenai/OLMo](https://github.com/allenai/OLMo) - Modeling, training, eval, and inference code for OLMo
@@ -550,7 +553,7 @@
 - [qurator-spk/dinglehopper](https://github.com/qurator-spk/dinglehopper) - An OCR evaluation tool
 - [rsommerfeld/trocr](https://github.com/rsommerfeld/trocr) - Powerful handwritten text recognition. A simple-to-use, unofficial implementation of the paper "TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models".
 - [facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind) - ImageBind One Embedding Space to Bind Them All
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
@@ -828,7 +831,6 @@
 
 ## Vue 
 
-- [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [beeldengeluid/open-images-browser](https://github.com/beeldengeluid/open-images-browser) - MediaScape project researching the utility of Generous Interfaces for audiovisual archives
 
 ## XSLT 
