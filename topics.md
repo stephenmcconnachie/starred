@@ -151,7 +151,7 @@
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-- [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald) - 🐵 Preswald is an open-source Python SDK for turning code into interactive data apps. It makes analytics easy to build, deploy, and share.
+- [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald) - 🐵 Preswald is a framework for building and deploying interactive data apps, internal tools, and dashboards with Python. With one command, you can launch, share, and deploy locally or in the cloud, tur
 - [stacklok/codegate](https://github.com/stacklok/codegate) - CodeGate: Security, Workspaces and Muxing for AI Applications, coding assistants, and agentic frameworks.
 - [av/harbor](https://github.com/av/harbor) - Effortlessly run LLM backends, APIs, frontends, and services with one command.
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
@@ -188,7 +188,7 @@
 ## analytics 
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald) - 🐵 Preswald is an open-source Python SDK for turning code into interactive data apps. It makes analytics easy to build, deploy, and share.
+- [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald) - 🐵 Preswald is a framework for building and deploying interactive data apps, internal tools, and dashboards with Python. With one command, you can launch, share, and deploy locally or in the cloud, tur
 
 ## api 
 
@@ -378,7 +378,7 @@
 
 ## data 
 
-- [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald) - 🐵 Preswald is an open-source Python SDK for turning code into interactive data apps. It makes analytics easy to build, deploy, and share.
+- [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald) - 🐵 Preswald is a framework for building and deploying interactive data apps, internal tools, and dashboards with Python. With one command, you can launch, share, and deploy locally or in the cloud, tur
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library that makes Web Scraping easy again!
 - [ucbepic/docetl](https://github.com/ucbepic/docetl) - A system for agentic LLM-powered data processing and ETL
 
@@ -397,7 +397,7 @@
 
 ## data-visualization 
 
-- [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald) - 🐵 Preswald is an open-source Python SDK for turning code into interactive data apps. It makes analytics easy to build, deploy, and share.
+- [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald) - 🐵 Preswald is a framework for building and deploying interactive data apps, internal tools, and dashboards with Python. With one command, you can launch, share, and deploy locally or in the cloud, tur
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
@@ -683,7 +683,7 @@
 - [QuivrHQ/MegaParse](https://github.com/QuivrHQ/MegaParse) - File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-- [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald) - 🐵 Preswald is an open-source Python SDK for turning code into interactive data apps. It makes analytics easy to build, deploy, and share.
+- [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald) - 🐵 Preswald is a framework for building and deploying interactive data apps, internal tools, and dashboards with Python. With one command, you can launch, share, and deploy locally or in the cloud, tur
 - [video-db/Director](https://github.com/video-db/Director) - AI video agents framework for next-gen video interactions and workflows.
 - [stacklok/codegate](https://github.com/stacklok/codegate) - CodeGate: Security, Workspaces and Muxing for AI Applications, coding assistants, and agentic frameworks.
 - [av/harbor](https://github.com/av/harbor) - Effortlessly run LLM backends, APIs, frontends, and services with one command.
@@ -934,7 +934,7 @@
 
 ## open-source 
 
-- [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald) - 🐵 Preswald is an open-source Python SDK for turning code into interactive data apps. It makes analytics easy to build, deploy, and share.
+- [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald) - 🐵 Preswald is a framework for building and deploying interactive data apps, internal tools, and dashboards with Python. With one command, you can launch, share, and deploy locally or in the cloud, tur
 - [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
@@ -1427,7 +1427,7 @@
 - [adithya-s-k/AI-Engineering.academy](https://github.com/adithya-s-k/AI-Engineering.academy) - Mastering Applied AI, One Concept at a Time
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-- [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald) - 🐵 Preswald is an open-source Python SDK for turning code into interactive data apps. It makes analytics easy to build, deploy, and share.
+- [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald) - 🐵 Preswald is a framework for building and deploying interactive data apps, internal tools, and dashboards with Python. With one command, you can launch, share, and deploy locally or in the cloud, tur
 - [stacklok/codegate](https://github.com/stacklok/codegate) - CodeGate: Security, Workspaces and Muxing for AI Applications, coding assistants, and agentic frameworks.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
