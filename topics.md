@@ -1000,6 +1000,7 @@
 
 ## others 
 
+- [theirstory/fossda](https://github.com/theirstory/fossda) - FOSSDA gallery
 - [sdelements/lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [deepbeepmeep/Wan2GP](https://github.com/deepbeepmeep/Wan2GP) - Wan 2.1 for the GPU Poor
