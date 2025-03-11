@@ -129,6 +129,7 @@
 
 ## HTML 
 
+- [theirstory/fossda](https://github.com/theirstory/fossda) - FOSSDA gallery
 - [IUBLibTech/CompareTranscripts](https://github.com/IUBLibTech/CompareTranscripts) - Tools to compare ASR transcripts with metrics
 - [wjbmattingly/flask-annoy](https://github.com/wjbmattingly/flask-annoy) - 
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
