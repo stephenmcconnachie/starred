@@ -245,6 +245,7 @@
 
 ## Jupyter Notebook 
 
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - 
 - [roboflow/notebooks](https://github.com/roboflow/notebooks) - This repository offers a comprehensive collection of tutorials on state-of-the-art computer vision models and techniques. Explore everything from foundational architectures like ResNet to cutting-edge
 - [adithya-s-k/AI-Engineering.academy](https://github.com/adithya-s-k/AI-Engineering.academy) - Mastering Applied AI, One Concept at a Time
 - [vllm-project/aibrix](https://github.com/vllm-project/aibrix) - Cost-efficient and pluggable Infrastructure components for GenAI inference
@@ -267,7 +268,6 @@
 - [congruence-engine/retrieval-augmented-generation-with-circulars](https://github.com/congruence-engine/retrieval-augmented-generation-with-circulars) - Repo for code and data related to the CE investigation into creating a searchable repository from digitised GPO circulars
 - [congruence-engine/experimenting-with-optical-character-recognition](https://github.com/congruence-engine/experimenting-with-optical-character-recognition) - Repository on a series of Experimentations with Optical Character Recognition
 - [congruence-engine/universal-ner-with-gliner](https://github.com/congruence-engine/universal-ner-with-gliner) - Repository of the "Universal NER with GLiNER" investigation
-- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - 
 - [ALucek/multimodal-rag](https://github.com/ALucek/multimodal-rag) - 
 - [AI4LAM/fastai4GLAMS](https://github.com/AI4LAM/fastai4GLAMS) - A study group for v4 of the fastai introduction to deep learning course with a focus on applications in GLAM settings
 - [huggingface/smol-course](https://github.com/huggingface/smol-course) - A course on aligning smol models.
