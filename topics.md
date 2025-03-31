@@ -1026,6 +1026,9 @@
 
 ## others 
 
+- [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found i
+- [getomni-ai/benchmark](https://github.com/getomni-ai/benchmark) - OCR Benchmark
+- [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - AI Agent Framework For Software Engineers
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in python code.
 - [huggingface/video-dataset-scripts](https://github.com/huggingface/video-dataset-scripts) - Collection of scripts to build small-scale datasets for fine-tuning video generation models.
