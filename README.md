@@ -106,6 +106,8 @@
 
 ## Go 
 
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -128,6 +130,7 @@
 ## HCL 
 
 - [eyelevelai/groundx-on-prem](https://github.com/eyelevelai/groundx-on-prem) - A Kubernetes deployable instance of GroundX  for document parsing, storage, and search.
+- [AdminTurnedDevOps/DevOps-The-Hard-Way-AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS) - This repository contains free labs for setting up an entire workflow and DevOps environment from a real-world perspective in AWS
 
 ## HTML 
 
@@ -684,7 +687,6 @@
 - [KBNLresearch/tapeimgr](https://github.com/KBNLresearch/tapeimgr) - Simple tape imaging and extraction tool
 - [LibraryOfCongress/bagit-python](https://github.com/LibraryOfCongress/bagit-python) - Work with BagIt packages from Python.
 - [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python
-- [AdminTurnedDevOps/DevOps-The-Hard-Way-AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS) - This repository contains free labs for setting up an entire workflow and DevOps environment from a real-world perspective in AWS
 - [mbennett-uoe/whiiif](https://github.com/mbennett-uoe/whiiif) - Simple IIIF Search service for OCRed texts
 - [bfidatadigipres/dpx_encoding](https://github.com/bfidatadigipres/dpx_encoding) - BFI National Archive automated Image Sequence preservation scripts written in Python for use with Media Area RAWcooked and other open source programmes.
 - [bfidatadigipres/title_article_split](https://github.com/bfidatadigipres/title_article_split) - Python script to split multiple language articles from full title.
