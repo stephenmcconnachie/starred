@@ -106,6 +106,7 @@
 
 ## Go 
 
+- [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTo
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models
