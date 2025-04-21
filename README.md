@@ -395,6 +395,7 @@
 
 ## Python 
 
+- [drmingler/docling-api](https://github.com/drmingler/docling-api) - Easily deployable and scalable backend server that efficiently converts various document formats (pdf, docx, pptx, html, images, etc) into Markdown. With support for both CPU and GPU processing, it is
 - [Cobilia/PiEdgeCCTV](https://github.com/Cobilia/PiEdgeCCTV) - PiEdgeCCTV is an edge AI CCTV system for Raspberry Pi using the IMX500 AI Camera
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [neuralmagic/guidellm](https://github.com/neuralmagic/guidellm) - Evaluate and Enhance Your LLM Deployments for Real-World Inference Needs
@@ -479,7 +480,7 @@
 - [tenable/pyTenable](https://github.com/tenable/pyTenable) - Python Library for interfacing into Tenable's platform APIs
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [revdotcom/reverb](https://github.com/revdotcom/reverb) - Open source inference code for Rev's model
-- [microsoft/presidio](https://github.com/microsoft/presidio) - Context aware, pluggable and customizable data protection and de-identification SDK for text, images and structured data.
+- [microsoft/presidio](https://github.com/microsoft/presidio) - An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines.
 - [EdyVision/pii-codex](https://github.com/EdyVision/pii-codex) - A research python package for detecting, categorizing, and assessing the severity of personal identifiable information (PII)
 - [LLaVA-VL/LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT) - 
 - [deekshaaneja/Qwen2-VL](https://github.com/deekshaaneja/Qwen2-VL) - 
@@ -798,6 +799,7 @@
 
 ## TypeScript 
 
+- [ymichael/open-codex](https://github.com/ymichael/open-codex) - Lightweight coding agent that runs in your terminal
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [getomni-ai/benchmark](https://github.com/getomni-ai/benchmark) - OCR Benchmark
