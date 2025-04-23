@@ -63,6 +63,7 @@
 
 ## C++ 
 
+- [PixlOne/logiops](https://github.com/PixlOne/logiops) - An unofficial userspace driver for HID++ Logitech devices
 - [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
 - [yandex/perforator](https://github.com/yandex/perforator) - Perforator is a cluster-wide continuous profiling tool designed for large data centers
 - [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
@@ -395,6 +396,11 @@
 
 ## Python 
 
+- [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
+- [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
+- [ninarao/wer_calc](https://github.com/ninarao/wer_calc) - Python script that performs word error rate (WER) calculation for a set of reference and generated text files and outputs results to csv.
+- [ninarao/WhisperGUI](https://github.com/ninarao/WhisperGUI) - A graphic interface for running Whisper locally, with options to select model, language, and task.
+- [ninarao/webvtt_metadata](https://github.com/ninarao/webvtt_metadata) - Python program that embeds metadata in WebVTT files according to the FADGI Guidelines for Embedding Metadata in WebVTT Files, using a csv template file.
 - [drmingler/docling-api](https://github.com/drmingler/docling-api) - Easily deployable and scalable backend server that efficiently converts various document formats (pdf, docx, pptx, html, images, etc) into Markdown. With support for both CPU and GPU processing, it is
 - [Cobilia/PiEdgeCCTV](https://github.com/Cobilia/PiEdgeCCTV) - PiEdgeCCTV is an edge AI CCTV system for Raspberry Pi using the IMX500 AI Camera
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
@@ -432,7 +438,7 @@
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [roboflow/maestro](https://github.com/roboflow/maestro) - streamline the fine-tuning process for multimodal models: PaliGemma 2, Florence-2, and Qwen2.5-VL
-- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library that makes Web Scraping simple and easy again!
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
 - [wjbmattingly/streamlit_lessons_youtube](https://github.com/wjbmattingly/streamlit_lessons_youtube) - 
 - [wjbmattingly/spacy-annoy](https://github.com/wjbmattingly/spacy-annoy) - A package for doing semantic search with spaCy docs.
 - [wjbmattingly/bagpipes-spacy](https://github.com/wjbmattingly/bagpipes-spacy) - Bagpipes spaCy is a collection of custom spaCy pipeline components designed to enhance text processing capabilities.
