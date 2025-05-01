@@ -1066,6 +1066,7 @@
 
 ## others 
 
+- [QwenLM/Qwen2.5-Omni](https://github.com/QwenLM/Qwen2.5-Omni) - Qwen2.5-Omni is an end-to-end multimodal model by Qwen team at Alibaba Cloud, capable of understanding text, audio, vision, video, and performing real-time speech generation.
 - [olilanz/RooCode-Local-Evaluation](https://github.com/olilanz/RooCode-Local-Evaluation) - Evaluation of Roo Code and locally hosted LLMs
 - [freeman-jiang/beatsync](https://github.com/freeman-jiang/beatsync) - 🔊 High-precision web player for multi-device audio playback and spatial audio.
 - [giejay/Immich-Android-TV](https://github.com/giejay/Immich-Android-TV) - An Android TV app for the self hosted photos and videos backup solution.
@@ -1084,7 +1085,7 @@
 - [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found i
 - [getomni-ai/benchmark](https://github.com/getomni-ai/benchmark) - OCR Benchmark
 - [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
-- [MotiaDev/motia](https://github.com/MotiaDev/motia) - AI Agent Framework For Software Engineers
+- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Unified Backend Framework for APIs, Events and Agents
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in python code.
 - [huggingface/video-dataset-scripts](https://github.com/huggingface/video-dataset-scripts) - Collection of scripts to build small-scale datasets for fine-tuning video generation models.
 - [theirstory/fossda](https://github.com/theirstory/fossda) - FOSSDA gallery
@@ -1694,7 +1695,6 @@
 ## rust 
 
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [bionic-gpt/bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 
 ## scikit-learn 
