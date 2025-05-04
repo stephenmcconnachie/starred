@@ -400,6 +400,7 @@
 
 ## Python 
 
+- [ucbepic/TWIX](https://github.com/ucbepic/TWIX) - TWIX is an open-source data extraction tool that reconstructs structured data from documents at scale, accurately and at low cost, by inferring the shared underlying visual template across documents
 - [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow Tutorial Project: Turns GitHub repo into Easy Tutorial with AI
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
