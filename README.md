@@ -305,7 +305,7 @@
 - [NousResearch/Hermes-Function-Calling](https://github.com/NousResearch/Hermes-Function-Calling) - 
 - [MahmoudAshraf97/whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
 - [video-db/PromptClip](https://github.com/video-db/PromptClip) - Instantly create video clips from LLM prompts
-- [brevdev/notebooks](https://github.com/brevdev/notebooks) - Collection of notebook guides created by the Brev.dev team!
+- [brevdev/launchables](https://github.com/brevdev/launchables) - Collection of notebook guides created by the Brev.dev team!
 - [aigeek0x0/rag-with-langchain-colbert-and-ragatouille](https://github.com/aigeek0x0/rag-with-langchain-colbert-and-ragatouille) - Build a Streamlit Chatbot using Langchain, ColBERT, Ragatouille, and ChromaDB
 - [rohan-paul/LLM-FineTuning-Large-Language-Models](https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models) - LLM (Large Language Model) FineTuning
 - [snexus/llm-search](https://github.com/snexus/llm-search) - Querying local documents, powered by LLM
@@ -401,7 +401,7 @@
 ## Python 
 
 - [ucbepic/TWIX](https://github.com/ucbepic/TWIX) - TWIX is an open-source data extraction tool that reconstructs structured data from documents at scale, accurately and at low cost, by inferring the shared underlying visual template across documents
-- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow Tutorial Project: Turns GitHub repo into Easy Tutorial with AI
+- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 - [ninarao/wer_calc](https://github.com/ninarao/wer_calc) - Python script that performs word error rate (WER) calculation for a set of reference and generated text files and outputs results to csv.
