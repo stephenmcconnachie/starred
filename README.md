@@ -257,6 +257,8 @@
 
 ## Jupyter Notebook 
 
+- [rhymes-ai/Aria](https://github.com/rhymes-ai/Aria) - Codebase for Aria - an Open Multimodal Native MoE
+- [DAMO-NLP-SG/VideoLLaMA3](https://github.com/DAMO-NLP-SG/VideoLLaMA3) - Frontier Multimodal Foundation Models for Image and Video Understanding
 - [QwenLM/Qwen2.5-Omni](https://github.com/QwenLM/Qwen2.5-Omni) - Qwen2.5-Omni is an end-to-end multimodal model by Qwen team at Alibaba Cloud, capable of understanding text, audio, vision, video, and performing real-time speech generation.
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 - [roboflow/notebooks](https://github.com/roboflow/notebooks) - This repository offers a comprehensive collection of tutorials on state-of-the-art computer vision models and techniques. Explore everything from foundational architectures like ResNet to cutting-edge
@@ -276,7 +278,6 @@
 - [wjbmattingly/youtube-florence-table](https://github.com/wjbmattingly/youtube-florence-table) - Table detection with Florence.
 - [wjbmattingly/python_for_dh](https://github.com/wjbmattingly/python_for_dh) - 
 - [wjbmattingly/youtube-spacy-layout](https://github.com/wjbmattingly/youtube-spacy-layout) - A quick tutorial for using spaCy Layout.
-- [DAMO-NLP-SG/VideoLLaMA3](https://github.com/DAMO-NLP-SG/VideoLLaMA3) - Frontier Multimodal Foundation Models for Image and Video Understanding
 - [congruence-engine/catalogues-as-data](https://github.com/congruence-engine/catalogues-as-data) - Repository for the 'Museums online catalogue-as-data' investigation
 - [congruence-engine/retrieval-augmented-generation-with-circulars](https://github.com/congruence-engine/retrieval-augmented-generation-with-circulars) - Repo for code and data related to the CE investigation into creating a searchable repository from digitised GPO circulars
 - [congruence-engine/experimenting-with-optical-character-recognition](https://github.com/congruence-engine/experimenting-with-optical-character-recognition) - Repository on a series of Experimentations with Optical Character Recognition
@@ -331,7 +332,7 @@
 ## Kotlin 
 
 - [giejay/Immich-Android-TV](https://github.com/giejay/Immich-Android-TV) - An Android TV app for the self hosted photos and videos backup solution.
-- [masaic-ai-platform/open-responses](https://github.com/masaic-ai-platform/open-responses) - OpenResponses API empowers developers to leverage the incredible capabilities of various LLM providers through a familiar interface - the OpenAI Responses API structure.
+- [masaic-ai-platform/open-responses](https://github.com/masaic-ai-platform/open-responses) - Open AI platform in your local. Supports Ollama, OpenRouter, Gemini, OpenAI, Deepseek etc.
 - [bfidatadigipres/bfi-iiif-logging](https://github.com/bfidatadigipres/bfi-iiif-logging) - Solution for BFI National archive Universal Viewer deployment, to log users in, track their interactions with the IIIF resources in UV, and output to a log.
 - [digirati-co-uk/bfi-discovery](https://github.com/digirati-co-uk/bfi-discovery) - Prototyping, discovery and documentation for the BFI viewer project.
 
@@ -401,6 +402,11 @@
 
 ## Python 
 
+- [Oryx-mllm/Oryx](https://github.com/Oryx-mllm/Oryx) - [ICLR 2025] MLLM for On-Demand Spatial-Temporal Understanding at Arbitrary Resolution
+- [OpenGVLab/VideoChat-Flash](https://github.com/OpenGVLab/VideoChat-Flash) - VideoChat-Flash: Hierarchical Compression for Long-Context Video Modeling
+- [JUNJIE99/MLVU](https://github.com/JUNJIE99/MLVU) - 🔥🔥MLVU: Multi-task Long Video Understanding Benchmark
+- [SCZwangxiao/video-FlexReduc](https://github.com/SCZwangxiao/video-FlexReduc) - Official implementation of paper AdaReTaKe: Adaptive Redundancy Reduction to Perceive Longer for Video-language Understanding
+- [amazon-science/ReFinED](https://github.com/amazon-science/ReFinED) - ReFinED is an efficient and accurate entity linking (EL) system.
 - [simonw/llm-video-frames](https://github.com/simonw/llm-video-frames) - LLM fragment plugin to turn a video into images of different frames
 - [ucbepic/TWIX](https://github.com/ucbepic/TWIX) - TWIX is an open-source data extraction tool that reconstructs structured data from documents at scale, accurately and at low cost, by inferring the shared underlying visual template across documents
 - [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial
@@ -435,7 +441,7 @@
 - [QuivrHQ/MegaParse](https://github.com/QuivrHQ/MegaParse) - File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-o 2.6: A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone
-- [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald) - Preswald is a framework for building and deploying interactive data apps, internal tools, and dashboards with Python. With one command, you can launch, share, and deploy locally or in the cloud, turni
+- [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald) - Preswald is a static site generator for interactive data apps. Build fast, file-based apps from Python scripts. Each app bundles UI, data, and compute into a local HTML site using a WASM runtime with 
 - [video-db/Director](https://github.com/video-db/Director) - AI video agents framework for next-gen video interactions and workflows.
 - [stacklok/codegate](https://github.com/stacklok/codegate) - CodeGate: Security, Workspaces and Multiplexing for AI Agentic Frameworks
 - [av/harbor](https://github.com/av/harbor) - Effortlessly run LLM backends, APIs, frontends, and services with one command.
