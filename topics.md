@@ -184,7 +184,7 @@
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [logankilpatrick/gemini-api-quickstart](https://github.com/logankilpatrick/gemini-api-quickstart) - Get up and running in under 5 minutes with the Google AI Gemini API (in Python)
 - [ax-llm/ax](https://github.com/ax-llm/ax) - The "official" unofficial DSPy framework. Build LLM powered agents and other workflows, based on the Stanford DSP paper.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https://mem0.ai/research
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
 - [IBM/zshot](https://github.com/IBM/zshot) - Zero and Few shot named entity & relationships recognition
 - [video-db/PromptClip](https://github.com/video-db/PromptClip) - Instantly create video clips from LLM prompts
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -334,7 +334,7 @@
 - [OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - [CVPR2024 Highlight][VideoChatGPT] ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS.
 - [RManLuo/Awesome-LLM-KG](https://github.com/RManLuo/Awesome-LLM-KG) - Awesome papers about unifying LLMs and KGs
 - [BAAI-DCAI/Bunny](https://github.com/BAAI-DCAI/Bunny) - A family of lightweight multimodal models.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https://mem0.ai/research
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, code highlight
 - [nateraw/openai-vision-api-for-videos](https://github.com/nateraw/openai-vision-api-for-videos) - Extract information, summarize, ask questions, and search videos using OpenAI's Vision API 🚀🎦
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
@@ -780,7 +780,7 @@
 - [Maximilian-Winter/llama-cpp-agent](https://github.com/Maximilian-Winter/llama-cpp-agent) - The llama-cpp-agent framework is a tool designed for easy interaction with Large Language Models (LLMs). Allowing users to chat with LLM models, execute structured function calls and get structured ou
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - An efficient, flexible and full-featured toolkit for fine-tuning LLM (InternLM2, Llama3, Phi3, Qwen, Mistral, ...)
 - [RManLuo/Awesome-LLM-KG](https://github.com/RManLuo/Awesome-LLM-KG) - Awesome papers about unifying LLMs and KGs
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https://mem0.ai/research
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
 - [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [armbues/SiLLM](https://github.com/armbues/SiLLM) - SiLLM simplifies the process of training and running Large Language Models (LLMs) on Apple Silicon by leveraging the MLX framework.
@@ -841,7 +841,6 @@
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
 - [merveenoyan/siglip](https://github.com/merveenoyan/siglip) - Projects based on SigLIP (Zhai et. al, 2023) and Hugging Face transformers integration 🤗
 - [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
-- [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [nateraw/openai-vision-api-for-videos](https://github.com/nateraw/openai-vision-api-for-videos) - Extract information, summarize, ask questions, and search videos using OpenAI's Vision API 🚀🎦
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
@@ -885,6 +884,7 @@
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
+- [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 
 ## mongodb 
 
@@ -1049,6 +1049,7 @@
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [ax-llm/ax](https://github.com/ax-llm/ax) - The "official" unofficial DSPy framework. Build LLM powered agents and other workflows, based on the Stanford DSP paper.
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, code highlight
+- [ai-ng/2txt](https://github.com/ai-ng/2txt) - Image to text, fast.
 - [nateraw/openai-vision-api-for-videos](https://github.com/nateraw/openai-vision-api-for-videos) - Extract information, summarize, ask questions, and search videos using OpenAI's Vision API 🚀🎦
 - [567-labs/instructor](https://github.com/567-labs/instructor) - structured outputs for llms
 - [explosion/spacy-transformers](https://github.com/explosion/spacy-transformers) - 🛸 Use pretrained transformers like BERT, XLNet and GPT-2 in spaCy
@@ -1074,6 +1075,7 @@
 
 ## others 
 
+- [mhumphries2323/Archive_Studio](https://github.com/mhumphries2323/Archive_Studio) - Automate archival processing of historical documents with AI
 - [rhymes-ai/Aria](https://github.com/rhymes-ai/Aria) - Codebase for Aria - an Open Multimodal Native MoE
 - [Oryx-mllm/Oryx](https://github.com/Oryx-mllm/Oryx) - [ICLR 2025] MLLM for On-Demand Spatial-Temporal Understanding at Arbitrary Resolution
 - [DAMO-NLP-SG/VideoLLaMA3](https://github.com/DAMO-NLP-SG/VideoLLaMA3) - Frontier Multimodal Foundation Models for Image and Video Understanding
@@ -1578,7 +1580,7 @@
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 - [logankilpatrick/gemini-api-quickstart](https://github.com/logankilpatrick/gemini-api-quickstart) - Get up and running in under 5 minutes with the Google AI Gemini API (in Python)
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https://mem0.ai/research
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
 - [nateraw/openai-vision-api-for-videos](https://github.com/nateraw/openai-vision-api-for-videos) - Extract information, summarize, ask questions, and search videos using OpenAI's Vision API 🚀🎦
 - [567-labs/instructor](https://github.com/567-labs/instructor) - structured outputs for llms
 - [weaviate/recipes](https://github.com/weaviate/recipes) - This repository shares end-to-end notebooks on how to use various Weaviate features and integrations!
