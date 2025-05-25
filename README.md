@@ -403,6 +403,8 @@
 
 ## Python 
 
+- [microsoft/NLWeb](https://github.com/microsoft/NLWeb) - Natural Language Web
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
 - [TengdaHan/AutoAD](https://github.com/TengdaHan/AutoAD) - [CVPR'23 Highlight] AutoAD: Movie Description in Context.
 - [senstella/parakeet-mlx](https://github.com/senstella/parakeet-mlx) - An implementation of the Nvidia's Parakeet models for Apple Silicon using MLX.
@@ -462,7 +464,6 @@
 - [wjbmattingly/streamlit_lessons_youtube](https://github.com/wjbmattingly/streamlit_lessons_youtube) - 
 - [wjbmattingly/spacy-annoy](https://github.com/wjbmattingly/spacy-annoy) - A package for doing semantic search with spaCy docs.
 - [wjbmattingly/bagpipes-spacy](https://github.com/wjbmattingly/bagpipes-spacy) - Bagpipes spaCy is a collection of custom spaCy pipeline components designed to enhance text processing capabilities.
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [wjbmattingly/qwen2-vl-finetune-huggingface](https://github.com/wjbmattingly/qwen2-vl-finetune-huggingface) - This project is a collection of fine-tuning scripts to help researchers fine-tune Qwen 2 VL on HuggingFace datasets.
 - [explosion/spacy-layout](https://github.com/explosion/spacy-layout) - 📚 Process PDFs, Word documents and more with spaCy
 - [congruence-engine/visualizing-oral-history](https://github.com/congruence-engine/visualizing-oral-history) - Repository for the 'Visualizing Oral History' investigation
