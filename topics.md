@@ -1082,6 +1082,8 @@
 
 ## others 
 
+- [Vaibhavs10/experiments-with-mcp](https://github.com/Vaibhavs10/experiments-with-mcp) - 
+- [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel) - 
 - [microsoft/NLWeb](https://github.com/microsoft/NLWeb) - Natural Language Web
 - [TengdaHan/AutoAD](https://github.com/TengdaHan/AutoAD) - [CVPR'23 Highlight] AutoAD: Movie Description in Context.
 - [yunlong10/Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) - 🔥🔥🔥Latest Papers, Codes and Datasets on Vid-LLMs.
