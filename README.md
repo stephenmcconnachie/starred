@@ -405,7 +405,7 @@
 
 ## Python 
 
-- [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel) - 
+- [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel) - Open-source unified multimodal model
 - [microsoft/NLWeb](https://github.com/microsoft/NLWeb) - Natural Language Web
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
