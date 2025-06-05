@@ -42,7 +42,7 @@
 
 ## C 
 
-- [TEN-framework/ten-vad](https://github.com/TEN-framework/ten-vad) - A Low-Latency, Lightweight and High-Performance Streaming VAD
+- [TEN-framework/ten-vad](https://github.com/TEN-framework/ten-vad) - TEN VAD: low-latency high-performance Voice Activity Detector
 - [JoeDog/siege](https://github.com/JoeDog/siege) - Siege is an http load tester and benchmarking utility
 - [mean00/avidemux2](https://github.com/mean00/avidemux2) - Avidemux2, simple video editor
 - [dericed/american-archive-kaldi](https://github.com/dericed/american-archive-kaldi) - This repo houses open-source models for Kaldi speech-to-text software that have been trained on public media content.
