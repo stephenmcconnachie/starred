@@ -59,6 +59,7 @@
 
 ## C# # 
 
+- [microsoft/sbom-tool](https://github.com/microsoft/sbom-tool) - The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.
 - [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
 - [mlichtenberg/hocrimagemapper](https://github.com/mlichtenberg/hocrimagemapper) - Tool for visualizing hOCR output from Tesseract (or other OCR engines that support hOCR).
 
@@ -409,6 +410,7 @@
 
 ## Python 
 
+- [costales/folder-color](https://github.com/costales/folder-color) - Folder Color for Linux file browsers
 - [theirstory/gliner-spacy](https://github.com/theirstory/gliner-spacy) - A spaCy wrapper for GliNER
 - [VectorSpaceLab/Video-XL](https://github.com/VectorSpaceLab/Video-XL) - 🔥🔥First-ever hour scale video understanding models
 - [Tongyi-Zhiwen/QwenLong-L1](https://github.com/Tongyi-Zhiwen/QwenLong-L1) - 
@@ -451,7 +453,7 @@
 - [octotools/octotools](https://github.com/octotools/octotools) - OctoTools: An agentic framework with extensible tools for complex reasoning
 - [AIDC-AI/Ovis](https://github.com/AIDC-AI/Ovis) - A novel Multimodal Large Language Model (MLLM) architecture, designed to structurally align visual and textual embeddings.
 - [ivanfioravanti/lmstudio_hf](https://github.com/ivanfioravanti/lmstudio_hf) - A command-line utility to manage MLX models between your Hugging Face cache and LM Studio.
-- [gpustack/gpustack](https://github.com/gpustack/gpustack) - Manage GPU clusters for running AI models
+- [gpustack/gpustack](https://github.com/gpustack/gpustack) - Simple, scalable AI model deployment on GPU clusters
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [drmingler/smart-llm-loader](https://github.com/drmingler/smart-llm-loader) - smart-llm-loader is a lightweight yet powerful Python package that transforms any document into LLM-ready chunks. Spend less time on preprocessing headaches and more time building what matters. From R
 - [MinishLab/semhash](https://github.com/MinishLab/semhash) - Fast Semantic Text Deduplication & Filtering
@@ -558,7 +560,7 @@
 - [stanford-futuredata/ColBERT](https://github.com/stanford-futuredata/ColBERT) - ColBERT: state-of-the-art neural search (SIGIR'20, TACL'21, NeurIPS'21, NAACL'22, CIKM'22, ACL'23, EMNLP'23)
 - [nateraw/audiocraft](https://github.com/nateraw/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [arun-art06/trocr-large](https://github.com/arun-art06/trocr-large) - Learn how to effortlessly convert handwritten text into editable digital text using the power of the Microsoft/Trocr-Large-Handwritten model from Hugging Face. With the help of Gradio, a user-friendly
-- [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown + JSON quickly with high accuracy
+- [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [datasette/datasette-extract](https://github.com/datasette/datasette-extract) - Import unstructured data (text and images) into structured tables
 - [apple/ml-mobileclip](https://github.com/apple/ml-mobileclip) - This repository contains the official implementation of the research paper, "MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training" CVPR 2024
@@ -620,7 +622,7 @@
 - [facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind) - ImageBind One Embedding Space to Bind Them All
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/
-- [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
+- [datalab-to/surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
 - [riccardomusmeci/mlx-llm](https://github.com/riccardomusmeci/mlx-llm) - Large Language Models (LLMs) applications and tools running on Apple Silicon in real-time with Apple MLX.
@@ -796,6 +798,7 @@
 
 ## Shell 
 
+- [PapirusDevelopmentTeam/papirus-folders](https://github.com/PapirusDevelopmentTeam/papirus-folders) - a script that lets you change the colors of folders in Papirus icon theme
 - [geerlingguy/ansible-for-devops-manuscript](https://github.com/geerlingguy/ansible-for-devops-manuscript) - Ansible for DevOps Manuscript
 - [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 - [Tygrain/bash-ffmpeg-completion](https://github.com/Tygrain/bash-ffmpeg-completion) - 
