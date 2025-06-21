@@ -141,7 +141,6 @@
 
 - [theirstory/hyperaudio-lite-editor](https://github.com/theirstory/hyperaudio-lite-editor) - A lightweight transcript editor for editing and correcting STT generated timed transcripts
 - [theirstory/timedtext-player](https://github.com/theirstory/timedtext-player) - 
-- [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [olilanz/RooCode-Local-Evaluation](https://github.com/olilanz/RooCode-Local-Evaluation) - Evaluation of Roo Code and locally hosted LLMs
 - [emn178/online-tools](https://github.com/emn178/online-tools) - Online tools provides md2, md5, sha1, sha2, sha512, bas64, html encode / decode functions
 - [theirstory/fossda](https://github.com/theirstory/fossda) - FOSSDA gallery
@@ -347,6 +346,7 @@
 
 ## Others 
 
+- [rightsstatements/data-model](https://github.com/rightsstatements/data-model) - rightsstatements.org data model
 - [Vaibhavs10/experiments-with-mcp](https://github.com/Vaibhavs10/experiments-with-mcp) - 
 - [liveseongho/Awesome-Video-Language-Understanding](https://github.com/liveseongho/Awesome-Video-Language-Understanding) - A Survey on video and language understanding.
 - [yunlong10/Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) - 🔥🔥🔥Latest Papers, Codes and Datasets on Vid-LLMs.
@@ -419,6 +419,7 @@
 - [theirstory/gliner-spacy](https://github.com/theirstory/gliner-spacy) - A spaCy wrapper for GliNER
 - [VectorSpaceLab/Video-XL](https://github.com/VectorSpaceLab/Video-XL) - 🔥🔥First-ever hour scale video understanding models
 - [Tongyi-Zhiwen/QwenLong-L1](https://github.com/Tongyi-Zhiwen/QwenLong-L1) - 
+- [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel) - Open-source unified multimodal model
 - [microsoft/NLWeb](https://github.com/microsoft/NLWeb) - Natural Language Web
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
@@ -843,6 +844,7 @@
 
 ## TypeScript 
 
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [freeman-jiang/beatsync](https://github.com/freeman-jiang/beatsync) - 🔊 High-precision web player for multi-device audio playback and spatial audio.
 - [adaline/gateway](https://github.com/adaline/gateway) - The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs.
 - [ymichael/open-codex](https://github.com/ymichael/open-codex) - Lightweight coding agent that runs in your terminal
