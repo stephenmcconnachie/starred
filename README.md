@@ -109,12 +109,12 @@
 
 ## Go 
 
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [rzane/docker2exe](https://github.com/rzane/docker2exe) - Convert a Docker image to an executable
 - [krillinai/KlicStudio](https://github.com/krillinai/KlicStudio) - A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTo
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models
-- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [Low-Stack-Technologies/temp](https://github.com/Low-Stack-Technologies/temp) - A temporary file server with CLI integration
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
@@ -411,6 +411,8 @@
 
 ## Python 
 
+- [huggingface/huggingface-gemma-recipes](https://github.com/huggingface/huggingface-gemma-recipes) - Inference, Fine Tuning and many more recipes with Gemma family of models
+- [microsoft/CLAP](https://github.com/microsoft/CLAP) - Learning audio concepts from natural language supervision
 - [ox-vgg/wise](https://github.com/ox-vgg/wise) - (MIRROR of https://gitlab.com/vgg/wise/wise/) WISE Search Engine (WISE) is a software to visually search a large collection of images, videos and audio.
 - [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit) - The ultimate training toolkit for finetuning diffusion models
 - [google-deepmind/videoprism](https://github.com/google-deepmind/videoprism) - Official repository for "VideoPrism: A Foundational Visual Encoder for Video Understanding" (ICML 2024)
