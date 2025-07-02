@@ -1125,6 +1125,8 @@
 
 ## others 
 
+- [huggingface/huggingface-gemma-recipes](https://github.com/huggingface/huggingface-gemma-recipes) - Inference, Fine Tuning and many more recipes with Gemma family of models
+- [microsoft/CLAP](https://github.com/microsoft/CLAP) - Learning audio concepts from natural language supervision
 - [ox-vgg/wise](https://github.com/ox-vgg/wise) - (MIRROR of https://gitlab.com/vgg/wise/wise/) WISE Search Engine (WISE) is a software to visually search a large collection of images, videos and audio.
 - [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit) - The ultimate training toolkit for finetuning diffusion models
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
