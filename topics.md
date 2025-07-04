@@ -68,6 +68,7 @@
 - [image-processing](#image-processing)
 - [instagram](#instagram)
 - [ios](#ios)
+- [iot](#iot)
 - [java](#java)
 - [javascript](#javascript)
 - [json](#json)
@@ -406,6 +407,7 @@
 
 ## computer-vision 
 
+- [mlfoundations/open_clip](https://github.com/mlfoundations/open_clip) - An open source implementation of CLIP.
 - [roboflow/notebooks](https://github.com/roboflow/notebooks) - A collection of tutorials on state-of-the-art computer vision models and techniques. Explore everything from foundational architectures like ResNet to cutting-edge models like YOLO11, RT-DETR, SAM 2, 
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [katanaml/sparrow](https://github.com/katanaml/sparrow) - Structured data extraction and instruction calling with ML, LLM and Vision LLM
@@ -467,6 +469,7 @@
 
 ## deep-learning 
 
+- [mlfoundations/open_clip](https://github.com/mlfoundations/open_clip) - An open source implementation of CLIP.
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [liveseongho/Awesome-Video-Language-Understanding](https://github.com/liveseongho/Awesome-Video-Language-Understanding) - A Survey on video and language understanding.
 - [roboflow/notebooks](https://github.com/roboflow/notebooks) - A collection of tutorials on state-of-the-art computer vision models and techniques. Explore everything from foundational architectures like ResNet to cutting-edge models like YOLO11, RT-DETR, SAM 2, 
@@ -521,6 +524,7 @@
 
 ## docker 
 
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [speaches-ai/speaches](https://github.com/speaches-ai/speaches) - 
@@ -552,7 +556,6 @@
 
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [SocialGouv/archifiltre-docs](https://github.com/SocialGouv/archifiltre-docs) - Visualisez et améliorez vos arborescences de fichiers !
 
 ## emoji 
@@ -706,6 +709,10 @@
 - [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) - On-device Speech Recognition for Apple Silicon
 - [gluonfield/enchanted](https://github.com/gluonfield/enchanted) - Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
 - [preternatural-explore/mlx-swift-chat](https://github.com/preternatural-explore/mlx-swift-chat) - A multi-platform SwiftUI frontend for running local LLMs with Apple's MLX framework.
+
+## iot 
+
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
 
 ## java 
 
@@ -1125,6 +1132,8 @@
 
 ## others 
 
+- [THUDM/GLM-4.1V-Thinking](https://github.com/THUDM/GLM-4.1V-Thinking) - GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning.
+- [huggingface/large-scale-image-deduplication](https://github.com/huggingface/large-scale-image-deduplication) - 
 - [huggingface/huggingface-gemma-recipes](https://github.com/huggingface/huggingface-gemma-recipes) - Inference, Fine Tuning and many more recipes with Gemma family of models
 - [microsoft/CLAP](https://github.com/microsoft/CLAP) - Learning audio concepts from natural language supervision
 - [ox-vgg/wise](https://github.com/ox-vgg/wise) - (MIRROR of https://gitlab.com/vgg/wise/wise/) WISE Search Engine (WISE) is a software to visually search a large collection of images, videos and audio.
@@ -1714,6 +1723,7 @@
 
 ## pytorch 
 
+- [mlfoundations/open_clip](https://github.com/mlfoundations/open_clip) - An open source implementation of CLIP.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
 - [amazon-science/ReFinED](https://github.com/amazon-science/ReFinED) - ReFinED is an efficient and accurate entity linking (EL) system.
 - [roboflow/notebooks](https://github.com/roboflow/notebooks) - A collection of tutorials on state-of-the-art computer vision models and techniques. Explore everything from foundational architectures like ResNet to cutting-edge models like YOLO11, RT-DETR, SAM 2, 
@@ -1832,6 +1842,7 @@
 
 ## self-hosted 
 
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [av/harbor](https://github.com/av/harbor) - Effortlessly run LLM backends, APIs, frontends, and services with one command.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
