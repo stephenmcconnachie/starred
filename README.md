@@ -142,6 +142,7 @@
 
 - [theirstory/hyperaudio-lite-editor](https://github.com/theirstory/hyperaudio-lite-editor) - A lightweight transcript editor for editing and correcting STT generated timed transcripts
 - [theirstory/timedtext-player](https://github.com/theirstory/timedtext-player) - 
+- [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [olilanz/RooCode-Local-Evaluation](https://github.com/olilanz/RooCode-Local-Evaluation) - Evaluation of Roo Code and locally hosted LLMs
 - [emn178/online-tools](https://github.com/emn178/online-tools) - Online tools provides md2, md5, sha1, sha2, sha512, bas64, html encode / decode functions
 - [theirstory/fossda](https://github.com/theirstory/fossda) - FOSSDA gallery
@@ -431,7 +432,6 @@
 - [theirstory/gliner-spacy](https://github.com/theirstory/gliner-spacy) - A spaCy wrapper for GliNER
 - [VectorSpaceLab/Video-XL](https://github.com/VectorSpaceLab/Video-XL) - 🔥🔥First-ever hour scale video understanding models
 - [Tongyi-Zhiwen/QwenLong-L1](https://github.com/Tongyi-Zhiwen/QwenLong-L1) - 
-- [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel) - Open-source unified multimodal model
 - [microsoft/NLWeb](https://github.com/microsoft/NLWeb) - Natural Language Web
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
