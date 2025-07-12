@@ -198,6 +198,7 @@
 
 ## JavaScript 
 
+- [andrewjohngilbert/DANTE-AD](https://github.com/andrewjohngilbert/DANTE-AD) - 
 - [DumbWareio/DumbAssets](https://github.com/DumbWareio/DumbAssets) - A Stupid Simple Asset Tracker
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [rockbite/localforge](https://github.com/rockbite/localforge) - Local coding agent with neat UI
