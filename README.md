@@ -363,7 +363,7 @@
 - [tom-doerr/repo_posts](https://github.com/tom-doerr/repo_posts) - 
 - [congruence-engine/experimenting-wikidata](https://github.com/congruence-engine/experimenting-wikidata) - Repository for the "Linking Textile Machine terms via Wikidata" investigation
 - [congruence-engine/transforming-researcher-notes](https://github.com/congruence-engine/transforming-researcher-notes) - 
-- [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
+- [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [AI4LAM/full-stack-deep-learning-4-glams](https://github.com/AI4LAM/full-stack-deep-learning-4-glams) - A study group for the Full Stack Deep Learning Course with a focus on using ML in GLAM settings
 - [AI4LAM/TeachingAndLearning](https://github.com/AI4LAM/TeachingAndLearning) - A repository to organize materials from the AI4LAM Teach and Learning Working Group
 - [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
