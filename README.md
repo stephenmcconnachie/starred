@@ -572,7 +572,7 @@
 - [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model
 - [BAAI-DCAI/Bunny](https://github.com/BAAI-DCAI/Bunny) - A family of lightweight multimodal models.
 - [magic-research/PLLaVA](https://github.com/magic-research/PLLaVA) - Official repository for the paper PLLaVA
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [artefactual-labs/amclient](https://github.com/artefactual-labs/amclient) - Archivematica API client module
 - [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua) - [EMNLP'23, ACL'24] To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.
 - [thunlp/LLaVA-UHD](https://github.com/thunlp/LLaVA-UHD) - LLaVA-UHD v2: an MLLM Integrating High-Resolution Semantic Pyramid via Hierarchical Window Transformer
@@ -748,7 +748,7 @@
 - [giacomomarchioro/pyIIIFpres](https://github.com/giacomomarchioro/pyIIIFpres) - Python module for easing the construction of JSON manifests compliant with IIIF API 3.0.
 - [KBNLresearch/tapeimgr](https://github.com/KBNLresearch/tapeimgr) - Simple tape imaging and extraction tool
 - [LibraryOfCongress/bagit-python](https://github.com/LibraryOfCongress/bagit-python) - Work with BagIt packages from Python.
-- [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python
+- [boto/boto3](https://github.com/boto/boto3) - Boto3, an AWS SDK for Python
 - [mbennett-uoe/whiiif](https://github.com/mbennett-uoe/whiiif) - Simple IIIF Search service for OCRed texts
 - [bfidatadigipres/dpx_encoding](https://github.com/bfidatadigipres/dpx_encoding) - BFI National Archive automated Image Sequence preservation scripts written in Python for use with Media Area RAWcooked and other open source programmes.
 - [bfidatadigipres/title_article_split](https://github.com/bfidatadigipres/title_article_split) - Python script to split multiple language articles from full title.
