@@ -419,7 +419,7 @@
 
 - [lacojim/FreeFactoryQT](https://github.com/lacojim/FreeFactoryQT) - Updated version of FreeFactory by James Hines (Lexridge) and Karl Swisher now written in Python3.
 - [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - SSL Certificate Management System (API + UI)
-- [THUDM/GLM-4.1V-Thinking](https://github.com/THUDM/GLM-4.1V-Thinking) - GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning.
+- [zai-org/GLM-4.1V-Thinking](https://github.com/zai-org/GLM-4.1V-Thinking) - GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning.
 - [huggingface/large-scale-image-deduplication](https://github.com/huggingface/large-scale-image-deduplication) - 
 - [mlfoundations/open_clip](https://github.com/mlfoundations/open_clip) - An open source implementation of CLIP.
 - [microsoft/CLAP](https://github.com/microsoft/CLAP) - Learning audio concepts from natural language supervision
@@ -558,7 +558,7 @@
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [huggingface/datatrove](https://github.com/huggingface/datatrove) - Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.
 - [huggingface/optimum-nvidia](https://github.com/huggingface/optimum-nvidia) - 
-- [THUDM/CogVLM2](https://github.com/THUDM/CogVLM2) - GPT4V-level open-source multi-modal model based on Llama3-8B
+- [zai-org/CogVLM2](https://github.com/zai-org/CogVLM2) - GPT4V-level open-source multi-modal model based on Llama3-8B
 - [kadirnar/whisper-plus](https://github.com/kadirnar/whisper-plus) - WhisperPlus: Faster, Smarter, and More Capable 🚀
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [JaesungHuh/SimpleDiarization](https://github.com/JaesungHuh/SimpleDiarization) - Simple diarization model
