@@ -213,7 +213,7 @@
 
 ## analytics 
 
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open Source Cybersecurity Analytics. Monitor, analyze, and protect your digital services from cyberfraud, account threats, and abuse. Get started — free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open Source Platform Security Analytics. Monitor, analyze, and protect your digital services from cyberfraud, account threats, and abuse. Get started — free.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald) - Preswald is a WASM packager for Python-based interactive data apps: bundle full complex data workflows, particularly visualizations, into single files, runnable completely in-browser, using Pyodide, D
 - [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
@@ -776,6 +776,7 @@
 
 ## kubernetes 
 
+- [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
@@ -969,7 +970,7 @@
 
 ## monitoring 
 
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open Source Cybersecurity Analytics. Monitor, analyze, and protect your digital services from cyberfraud, account threats, and abuse. Get started — free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open Source Platform Security Analytics. Monitor, analyze, and protect your digital services from cyberfraud, account threats, and abuse. Get started — free.
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
@@ -1166,7 +1167,7 @@
 - [lacojim/FreeFactoryQT](https://github.com/lacojim/FreeFactoryQT) - Updated version of FreeFactory by James Hines (Lexridge) and Karl Swisher now written in Python3.
 - [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - SSL Certificate Management System (API + UI)
 - [HelloCSV/HelloCSV](https://github.com/HelloCSV/HelloCSV) - https://hellocsv.github.io/HelloCSV/
-- [THUDM/GLM-4.1V-Thinking](https://github.com/THUDM/GLM-4.1V-Thinking) - GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning.
+- [zai-org/GLM-4.1V-Thinking](https://github.com/zai-org/GLM-4.1V-Thinking) - GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning.
 - [huggingface/large-scale-image-deduplication](https://github.com/huggingface/large-scale-image-deduplication) - 
 - [huggingface/huggingface-gemma-recipes](https://github.com/huggingface/huggingface-gemma-recipes) - Inference, Fine Tuning and many more recipes with Gemma family of models
 - [microsoft/CLAP](https://github.com/microsoft/CLAP) - Learning audio concepts from natural language supervision
@@ -1330,7 +1331,7 @@
 - [MME-Benchmarks/Video-MME](https://github.com/MME-Benchmarks/Video-MME) - ✨✨[CVPR 2025] Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis
 - [huggingface/datatrove](https://github.com/huggingface/datatrove) - Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.
 - [huggingface/optimum-nvidia](https://github.com/huggingface/optimum-nvidia) - 
-- [THUDM/CogVLM2](https://github.com/THUDM/CogVLM2) - GPT4V-level open-source multi-modal model based on Llama3-8B
+- [zai-org/CogVLM2](https://github.com/zai-org/CogVLM2) - GPT4V-level open-source multi-modal model based on Llama3-8B
 - [kadirnar/whisper-plus](https://github.com/kadirnar/whisper-plus) - WhisperPlus: Faster, Smarter, and More Capable 🚀
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [JaesungHuh/SimpleDiarization](https://github.com/JaesungHuh/SimpleDiarization) - Simple diarization model
@@ -1859,7 +1860,7 @@
 
 ## security 
 
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open Source Cybersecurity Analytics. Monitor, analyze, and protect your digital services from cyberfraud, account threats, and abuse. Get started — free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open Source Platform Security Analytics. Monitor, analyze, and protect your digital services from cyberfraud, account threats, and abuse. Get started — free.
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -1878,7 +1879,8 @@
 
 ## self-hosted 
 
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open Source Cybersecurity Analytics. Monitor, analyze, and protect your digital services from cyberfraud, account threats, and abuse. Get started — free.
+- [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open Source Platform Security Analytics. Monitor, analyze, and protect your digital services from cyberfraud, account threats, and abuse. Get started — free.
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
