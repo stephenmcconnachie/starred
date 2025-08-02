@@ -342,7 +342,7 @@
 ## Kotlin 
 
 - [giejay/Immich-Android-TV](https://github.com/giejay/Immich-Android-TV) - An Android TV app for the self hosted photos and videos backup solution.
-- [masaic-ai-platform/open-responses](https://github.com/masaic-ai-platform/open-responses) - Open AI platform in your local. Supports Ollama, OpenRouter, Gemini, OpenAI, Deepseek etc.
+- [masaic-ai-platform/AgC](https://github.com/masaic-ai-platform/AgC) - Open AI platform in your local. Supports Ollama, OpenRouter, Gemini, OpenAI, Deepseek etc.
 - [bfidatadigipres/bfi-iiif-logging](https://github.com/bfidatadigipres/bfi-iiif-logging) - Solution for BFI National archive Universal Viewer deployment, to log users in, track their interactions with the IIIF resources in UV, and output to a log.
 - [digirati-co-uk/bfi-discovery](https://github.com/digirati-co-uk/bfi-discovery) - Prototyping, discovery and documentation for the BFI viewer project.
 
@@ -441,7 +441,7 @@
 - [VectorSpaceLab/Video-XL](https://github.com/VectorSpaceLab/Video-XL) - 🔥🔥First-ever hour scale video understanding models
 - [Tongyi-Zhiwen/QwenLong-L1](https://github.com/Tongyi-Zhiwen/QwenLong-L1) - 
 - [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel) - Open-source unified multimodal model
-- [nlweb-ai/NLWeb](https://github.com/nlweb-ai/NLWeb) - Natural Language Web
+- [nlweb-ai/NLWeb](https://github.com/nlweb-ai/NLWeb) - The main repo for NLWeb, implemented in Python.
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
 - [TengdaHan/AutoAD](https://github.com/TengdaHan/AutoAD) - [CVPR'23 Highlight] AutoAD: Movie Description in Context.
