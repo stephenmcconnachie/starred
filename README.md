@@ -419,6 +419,8 @@
 
 ## Python 
 
+- [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+- [opendatalab/OmniDocBench](https://github.com/opendatalab/OmniDocBench) - [CVPR 2025] A Comprehensive Benchmark for Document Parsing and Evaluation
 - [lacojim/FreeFactoryQT](https://github.com/lacojim/FreeFactoryQT) - Updated version of FreeFactory by James Hines (Lexridge) and Karl Swisher now written in Python3.
 - [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - SSL Certificate Management System (API + UI)
 - [zai-org/GLM-4.1V-Thinking](https://github.com/zai-org/GLM-4.1V-Thinking) - GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning.
