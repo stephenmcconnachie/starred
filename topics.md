@@ -31,6 +31,7 @@
 - [coding](#coding)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
+- [cpp](#cpp)
 - [cybersecurity](#cybersecurity)
 - [dart](#dart)
 - [data](#data)
@@ -217,7 +218,7 @@
 
 ## analytics 
 
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open Source Platform Security Analytics. Monitor, analyze, and protect your digital services from cyberfraud, account threats, and abuse. Get started — free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open Source Security Analytics. Understand, monitor, and protect your digital services from cyberfraud, account threats, and abuse. Get started — free.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald) - Preswald is a WASM packager for Python-based interactive data apps: bundle full complex data workflows, particularly visualizations, into single files, runnable completely in-browser, using Pyodide, D
 - [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
@@ -437,6 +438,10 @@
 - [fcakyon/craft-text-detector](https://github.com/fcakyon/craft-text-detector) - Packaged, Pytorch-based, easy to use, cross-platform version of the CRAFT text detector
 - [clovaai/donut](https://github.com/clovaai/donut) - Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022
 - [imdeepmind/hocrox](https://github.com/imdeepmind/hocrox) - Hocrox: An image preprocessing and augmentation library with Keras like interface.
+
+## cpp 
+
+- [Sarthak2143/sakura](https://github.com/Sarthak2143/sakura) - minimal lib for rendering media in terminal
 
 ## cybersecurity 
 
@@ -887,6 +892,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [ise-uiuc/magicoder](https://github.com/ise-uiuc/magicoder) - [ICML'24] Magicoder: Empowering Code Generation with OSS-Instruct
 - [stanford-oval/WikiChat](https://github.com/stanford-oval/WikiChat) - WikiChat is an improved RAG. It stops the hallucination of large language models by retrieving data from a corpus.
+- [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
 - [run-llama/rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
@@ -980,7 +986,7 @@
 
 ## monitoring 
 
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open Source Platform Security Analytics. Monitor, analyze, and protect your digital services from cyberfraud, account threats, and abuse. Get started — free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open Source Security Analytics. Understand, monitor, and protect your digital services from cyberfraud, account threats, and abuse. Get started — free.
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
@@ -1165,6 +1171,7 @@
 
 ## opencv 
 
+- [Sarthak2143/sakura](https://github.com/Sarthak2143/sakura) - minimal lib for rendering media in terminal
 - [divya21raj/Actor-Recognition-In-Movies](https://github.com/divya21raj/Actor-Recognition-In-Movies) - Recognizing actors in a movie clip or image, using OpenCV, DeepLearning and Python.
 - [imdeepmind/hocrox](https://github.com/imdeepmind/hocrox) - Hocrox: An image preprocessing and augmentation library with Keras like interface.
 
@@ -1175,13 +1182,14 @@
 
 ## others 
 
+- [numindai/NuMarkdown](https://github.com/numindai/NuMarkdown) - 
 - [modal-labs/open-batch-transcription](https://github.com/modal-labs/open-batch-transcription) - Transcribing audio files on Modal with open source ASR models is fast, cheap, and easy!
 - [opendatalab/OmniDocBench](https://github.com/opendatalab/OmniDocBench) - [CVPR 2025] A Comprehensive Benchmark for Document Parsing and Evaluation
 - [andrewjohngilbert/DANTE-AD](https://github.com/andrewjohngilbert/DANTE-AD) - 
 - [lacojim/FreeFactoryQT](https://github.com/lacojim/FreeFactoryQT) - Updated version of FreeFactory by James Hines (Lexridge) and Karl Swisher now written in Python3.
 - [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - SSL Certificate Management System (API + UI)
 - [HelloCSV/HelloCSV](https://github.com/HelloCSV/HelloCSV) - https://hellocsv.github.io/HelloCSV/
-- [zai-org/GLM-4.1V-Thinking](https://github.com/zai-org/GLM-4.1V-Thinking) - GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning.
+- [zai-org/GLM-V](https://github.com/zai-org/GLM-V) - GLM-4.1V-Thinking and GLM-4.5V: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning
 - [huggingface/large-scale-image-deduplication](https://github.com/huggingface/large-scale-image-deduplication) - 
 - [huggingface/huggingface-gemma-recipes](https://github.com/huggingface/huggingface-gemma-recipes) - Inference, Fine Tuning and many more recipes with Gemma family of models
 - [microsoft/CLAP](https://github.com/microsoft/CLAP) - Learning audio concepts from natural language supervision
@@ -1207,7 +1215,7 @@
 - [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel) - Open-source unified multimodal model
 - [nlweb-ai/NLWeb](https://github.com/nlweb-ai/NLWeb) - The main repo for NLWeb, implemented in Python.
 - [TengdaHan/AutoAD](https://github.com/TengdaHan/AutoAD) - [CVPR'23 Highlight] AutoAD: Movie Description in Context.
-- [yunlong10/Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) - 🔥🔥🔥Latest Papers, Codes and Datasets on Vid-LLMs.
+- [yunlong10/Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) - 🔥🔥🔥 [TCSVT 2025] Latest Papers, Codes and Datasets on Vid-LLMs.
 - [TEN-framework/ten-vad](https://github.com/TEN-framework/ten-vad) - Voice Activity Detector(VAD) from TEN: low-latency, high-performance and lightweight
 - [senstella/parakeet-mlx](https://github.com/senstella/parakeet-mlx) - An implementation of the Nvidia's Parakeet models for Apple Silicon using MLX.
 - [mhumphries2323/Archive_Studio](https://github.com/mhumphries2323/Archive_Studio) - Automate archival processing of historical documents with AI
@@ -1444,7 +1452,6 @@
 - [Yuliang-Liu/MultimodalOCR](https://github.com/Yuliang-Liu/MultimodalOCR) - On the Hidden Mystery of OCR in Large Multimodal Models (OCRBench)
 - [LLaVA-VL/LLaVA-Interactive-Demo](https://github.com/LLaVA-VL/LLaVA-Interactive-Demo) - LLaVA-Interactive-Demo
 - [coolwanglu/pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
-- [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
 - [simonw/llm-llama-cpp](https://github.com/simonw/llm-llama-cpp) - LLM plugin for running models using llama.cpp
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [ablwr/lc-sdf-data-exploration](https://github.com/ablwr/lc-sdf-data-exploration) - 
@@ -1874,7 +1881,7 @@
 
 ## security 
 
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open Source Platform Security Analytics. Monitor, analyze, and protect your digital services from cyberfraud, account threats, and abuse. Get started — free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open Source Security Analytics. Understand, monitor, and protect your digital services from cyberfraud, account threats, and abuse. Get started — free.
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -1894,7 +1901,7 @@
 ## self-hosted 
 
 - [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open Source Platform Security Analytics. Monitor, analyze, and protect your digital services from cyberfraud, account threats, and abuse. Get started — free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open Source Security Analytics. Understand, monitor, and protect your digital services from cyberfraud, account threats, and abuse. Get started — free.
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
@@ -1981,6 +1988,7 @@
 
 ## terminal 
 
+- [Sarthak2143/sakura](https://github.com/Sarthak2143/sakura) - minimal lib for rendering media in terminal
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [athityakumar/colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
