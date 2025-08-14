@@ -172,7 +172,7 @@
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine that can answer questions over large scale structured and unstructured data.
 - [rockbite/localforge](https://github.com/rockbite/localforge) - Local coding agent with neat UI
 - [adaline/gateway](https://github.com/adaline/gateway) - The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs.
 - [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
@@ -1183,6 +1183,7 @@
 
 ## others 
 
+- [Vaibhavs10/mcp-with-openai-gpt-oss](https://github.com/Vaibhavs10/mcp-with-openai-gpt-oss) - 
 - [numindai/NuMarkdown](https://github.com/numindai/NuMarkdown) - 
 - [modal-labs/open-batch-transcription](https://github.com/modal-labs/open-batch-transcription) - Transcribing audio files on Modal with open source ASR models is fast, cheap, and easy!
 - [opendatalab/OmniDocBench](https://github.com/opendatalab/OmniDocBench) - [CVPR 2025] A Comprehensive Benchmark for Document Parsing and Evaluation
@@ -1263,7 +1264,7 @@
 - [patrickloeber/llm-data-scrapers](https://github.com/patrickloeber/llm-data-scrapers) - A list of useful Open Source tools and scrapers to gather data for LLMs
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) - Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation
-- [meta-llama/llama-stack-apps](https://github.com/meta-llama/llama-stack-apps) - Agentic components of the Llama Stack APIs
+- [llamastack/llama-stack-apps](https://github.com/llamastack/llama-stack-apps) - Agentic components of the Llama Stack APIs
 - [ivanfioravanti/lmstudio_hf](https://github.com/ivanfioravanti/lmstudio_hf) - A command-line utility to manage MLX models between your Hugging Face cache and LM Studio.
 - [patrickloeber/genai-tutorials](https://github.com/patrickloeber/genai-tutorials) - Code examples showing how to use Gemini, Gemma,  Imagen, and more.
 - [MinishLab/semhash](https://github.com/MinishLab/semhash) - Fast Semantic Text Deduplication & Filtering
