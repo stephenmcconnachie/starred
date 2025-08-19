@@ -110,6 +110,7 @@
 
 ## Go 
 
+- [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
@@ -630,7 +631,7 @@
 - [qnguyen3/chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx) - An all-in-one LLMs Chat UI for Apple Silicon Mac using MLX Framework.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [keirf/greaseweazle](https://github.com/keirf/greaseweazle) - Tools for accessing a floppy drive at the raw flux level
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Open-source framework for building multi-agent systems with memory, knowledge and reasoning.
 - [artefactual/automation-tools](https://github.com/artefactual/automation-tools) - Tools to aid automation of Archivematica and AtoM.
 - [allenai/OLMo](https://github.com/allenai/OLMo) - Modeling, training, eval, and inference code for OLMo
 - [argmaxinc/whisperkittools](https://github.com/argmaxinc/whisperkittools) - Python tools for WhisperKit: Model conversion, optimization and evaluation
