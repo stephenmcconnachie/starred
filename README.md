@@ -114,6 +114,7 @@
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [rzane/docker2exe](https://github.com/rzane/docker2exe) - Convert a Docker image to an executable
 - [krillinai/KlicStudio](https://github.com/krillinai/KlicStudio) - A video translation and dubbing tool powered by LLMs, offering 99 language translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and 
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -494,7 +495,7 @@
 - [MinishLab/semhash](https://github.com/MinishLab/semhash) - Fast Semantic Text Deduplication & Filtering
 - [QuivrHQ/MegaParse](https://github.com/QuivrHQ/MegaParse) - File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
-- [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and Video Understanding on Your Phone
+- [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
 - [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald) - Preswald is a WASM packager for Python-based interactive data apps: bundle full complex data workflows, particularly visualizations, into single files, runnable completely in-browser, using Pyodide, D
 - [video-db/Director](https://github.com/video-db/Director) - AI video agents framework for next-gen video interactions and workflows.
 - [stacklok/codegate](https://github.com/stacklok/codegate) - CodeGate: Security, Workspaces and Multiplexing for AI Agentic Frameworks
@@ -884,7 +885,6 @@
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kiloc
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [freeman-jiang/beatsync](https://github.com/freeman-jiang/beatsync) - 🔊 High-precision web player for multi-device audio playback and spatial audio.
