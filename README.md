@@ -42,7 +42,7 @@
 
 ## C 
 
-- [TEN-framework/ten-vad](https://github.com/TEN-framework/ten-vad) - Voice Activity Detector(VAD) from TEN: low-latency, high-performance and lightweight
+- [TEN-framework/ten-vad](https://github.com/TEN-framework/ten-vad) - Voice Activity Detection (VAD) : low-latency, high-performance and lightweight
 - [JoeDog/siege](https://github.com/JoeDog/siege) - Siege is an http load tester and benchmarking utility
 - [mean00/avidemux2](https://github.com/mean00/avidemux2) - Avidemux2, simple video editor
 - [dericed/american-archive-kaldi](https://github.com/dericed/american-archive-kaldi) - This repo houses open-source models for Kaldi speech-to-text software that have been trained on public media content.
@@ -654,7 +654,7 @@
 - [qurator-spk/dinglehopper](https://github.com/qurator-spk/dinglehopper) - An OCR evaluation tool
 - [rsommerfeld/trocr](https://github.com/rsommerfeld/trocr) - Powerful handwritten text recognition. A simple-to-use, unofficial implementation of the paper "TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models".
 - [facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind) - ImageBind One Embedding Space to Bind Them All
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly Python. Deploy as scripts, pipelines, endpoints, and apps. All from an AI-native
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly reproducible Python. Deploy as scripts, pipelines, endpoints, and apps. All from
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/
 - [datalab-to/surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
