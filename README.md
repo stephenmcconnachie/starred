@@ -663,7 +663,7 @@
 - [Vaibhavs10/on-device-llm-playground](https://github.com/Vaibhavs10/on-device-llm-playground) - A repo with scripts to test and play around with Facebook's recent llama models! 🤗
 - [NVIDIA-NeMo/NeMo](https://github.com/NVIDIA-NeMo/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 - [impira/docquery](https://github.com/impira/docquery) - An easy way to extract information from documents
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - LLM UI with advanced features, easy setup, and multiple backend support.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [simonw/llm-mistral](https://github.com/simonw/llm-mistral) - LLM plugin providing access to Mistral models using the Mistral API
@@ -795,7 +795,7 @@
 - [Digital-Preservation-Finland/ffmpeg-python](https://github.com/Digital-Preservation-Finland/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support
 - [Digital-Preservation-Finland/dpx-validator](https://github.com/Digital-Preservation-Finland/dpx-validator) - DPX file format validator
 - [tw4l/brunnhilde](https://github.com/tw4l/brunnhilde) - Siegfried-based characterization tool for directories and disk images
-- [Ymagis/ClairMeta](https://github.com/Ymagis/ClairMeta) - Clairmeta is a python package for Digital Cinema Package (DCP) probing and checking.
+- [ClairMeta/ClairMeta](https://github.com/ClairMeta/ClairMeta) - Clairmeta is a python package for Digital Cinema Package (DCP) probing and checking.
 - [kieranjol/IFIscripts](https://github.com/kieranjol/IFIscripts) - Detailed documentation is available here: http://ifiscripts.readthedocs.io/en/latest/index.html
 
 ## R 
