@@ -711,6 +711,7 @@
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [fcakyon/craft-text-detector](https://github.com/fcakyon/craft-text-detector) - Packaged, Pytorch-based, easy to use, cross-platform version of the CRAFT text detector
 - [appbaseio/reactivesearch](https://github.com/appbaseio/reactivesearch) - Search UI components for React and Vue
@@ -1460,7 +1461,7 @@
 - [NVIDIA-NeMo/NeMo](https://github.com/NVIDIA-NeMo/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 - [impira/docquery](https://github.com/impira/docquery) - An easy way to extract information from documents
 - [philschmid/document-ai-transformers](https://github.com/philschmid/document-ai-transformers) - 
-- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - LLM UI with advanced features, easy setup, and multiple backend support.
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
 - [simonw/llm-mistral](https://github.com/simonw/llm-mistral) - LLM plugin providing access to Mistral models using the Mistral API
 - [Vishnunkumar/craft_hw_ocr](https://github.com/Vishnunkumar/craft_hw_ocr) - Recognition of handwritten text using CRAFT text detection and TrOCR
 - [hrishioa/wishful-search](https://github.com/hrishioa/wishful-search) - Natural language search for complex JSON arrays, with AI Quickstart.
@@ -1661,7 +1662,7 @@
 - [archival-IIIF/archival-iiif.github.io](https://github.com/archival-IIIF/archival-iiif.github.io) - Website
 - [antespi/s3md5](https://github.com/antespi/s3md5) - Bash script to calculate Etag/S3 MD5 sum for very big files uploaded using multipart S3 API
 - [tw4l/brunnhilde](https://github.com/tw4l/brunnhilde) - Siegfried-based characterization tool for directories and disk images
-- [Ymagis/ClairMeta](https://github.com/Ymagis/ClairMeta) - Clairmeta is a python package for Digital Cinema Package (DCP) probing and checking.
+- [ClairMeta/ClairMeta](https://github.com/ClairMeta/ClairMeta) - Clairmeta is a python package for Digital Cinema Package (DCP) probing and checking.
 - [MediaArea/RAWcooked](https://github.com/MediaArea/RAWcooked) - Encodes RAW audio-visual data into the Matroska container (MKV), using the video codec FFV1 for the image and audio codec FLAC for the sound.
 - [exponential-decay/pronom-archive-and-skeleton-test-suite](https://github.com/exponential-decay/pronom-archive-and-skeleton-test-suite) - Release repository for The Skeleton Test Suite. Contains an Archive of PRONOM, and skeleton files for testing DROID from The National Archives, UK.
 - [kieranjol/IFIscripts](https://github.com/kieranjol/IFIscripts) - Detailed documentation is available here: http://ifiscripts.readthedocs.io/en/latest/index.html
