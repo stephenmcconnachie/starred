@@ -61,6 +61,7 @@
 - [font](#font)
 - [framework](#framework)
 - [frontend](#frontend)
+- [gaming](#gaming)
 - [github](#github)
 - [go](#go)
 - [golang](#golang)
@@ -652,6 +653,10 @@
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [digirati-co-uk/timeliner](https://github.com/digirati-co-uk/timeliner) - IIIF Timeliner
 
+## gaming 
+
+- [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
+
 ## github 
 
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
@@ -1228,8 +1233,9 @@
 - [Vaibhavs10/experiments-with-mcp](https://github.com/Vaibhavs10/experiments-with-mcp) - 
 - [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel) - Open-source unified multimodal model
 - [nlweb-ai/NLWeb](https://github.com/nlweb-ai/NLWeb) - The main repo for NLWeb, implemented in Python.
+- [FIAF/fiafcore-bfi](https://github.com/FIAF/fiafcore-bfi) - Conformation of BFI data to FIAFcore.
 - [TengdaHan/AutoAD](https://github.com/TengdaHan/AutoAD) - [CVPR'23 Highlight] AutoAD: Movie Description in Context.
-- [yunlong10/Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) - 🔥🔥🔥 [TCSVT 2025] Latest Papers, Codes and Datasets on Vid-LLMs.
+- [yunlong10/Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) - 🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.
 - [TEN-framework/ten-vad](https://github.com/TEN-framework/ten-vad) - Voice Activity Detection (VAD) : low-latency, high-performance and lightweight
 - [senstella/parakeet-mlx](https://github.com/senstella/parakeet-mlx) - An implementation of the Nvidia's Parakeet models for Apple Silicon using MLX.
 - [mhumphries2323/Archive_Studio](https://github.com/mhumphries2323/Archive_Studio) - Automate archival processing of historical documents with AI
