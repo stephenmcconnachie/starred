@@ -425,6 +425,7 @@
 
 ## Python 
 
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [weaviate/elysia](https://github.com/weaviate/elysia) - Python package and backend for the Elysia platform app.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [modal-labs/open-batch-transcription](https://github.com/modal-labs/open-batch-transcription) - Transcribing audio files on Modal with open source ASR models is fast, cheap, and easy!
