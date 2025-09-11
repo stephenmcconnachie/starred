@@ -271,6 +271,7 @@
 
 ## Jupyter Notebook 
 
+- [mshumer/gpt-pro-mode](https://github.com/mshumer/gpt-pro-mode) - 
 - [huggingface/huggingface-gemma-recipes](https://github.com/huggingface/huggingface-gemma-recipes) - Inference, Fine Tuning and many more recipes with Gemma family of models
 - [theirstory/spacy-whisper](https://github.com/theirstory/spacy-whisper) - This is a spaCy pipeline that takes a Whisper output and builds a spaCy Doc container
 - [rhymes-ai/Aria](https://github.com/rhymes-ai/Aria) - Codebase for Aria - an Open Multimodal Native MoE
