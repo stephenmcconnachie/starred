@@ -1196,6 +1196,7 @@
 
 ## others 
 
+- [mshumer/gpt-pro-mode](https://github.com/mshumer/gpt-pro-mode) - 
 - [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - 
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - Qwen Code is a coding agent that lives in the digital world.
