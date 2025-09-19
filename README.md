@@ -353,7 +353,6 @@
 ## Lua 
 
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 
 ## Others 
 
@@ -390,6 +389,7 @@
 - [transitive-bullshit/awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg) - 👻 A curated list of awesome FFmpeg resources.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
 - [gchq/BoilingFrogs](https://github.com/gchq/BoilingFrogs) - GCHQ's internal Boiling Frogs research paper on software development and organisational change in the face of disruption #boilingfrogs
 - [nationalarchives/tdr-dev-documentation](https://github.com/nationalarchives/tdr-dev-documentation) - Documentation for developers for the TDR project
 - [IIIF/iiif-av](https://github.com/IIIF/iiif-av) - The International Image Interoperability Framework (IIIF) Audio/Visual (A/V) Technical Specification Group aims to extend to A/V the benefits of interoperability and the growing ecosystem of clients a
@@ -687,7 +687,7 @@
 - [AudiovisualMetadataPlatform/whisper](https://github.com/AudiovisualMetadataPlatform/whisper) - Wrapper for the Whisper Text-to-speech tool
 - [AudiovisualMetadataPlatform/amp_bootstrap](https://github.com/AudiovisualMetadataPlatform/amp_bootstrap) - AMP system managment
 - [run-llama/rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [ochen1/insanely-fast-whisper-cli](https://github.com/ochen1/insanely-fast-whisper-cli) - The fastest Whisper optimization for automatic speech recognition as a command-line interface ⚡️
 - [m-bain/CondensedMovies-chall](https://github.com/m-bain/CondensedMovies-chall) - Condensed Movies Challenge 2021
 - [m-bain/frozen-in-time](https://github.com/m-bain/frozen-in-time) - Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval [ICCV'21]
