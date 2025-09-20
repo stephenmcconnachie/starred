@@ -1208,6 +1208,7 @@
 
 ## others 
 
+- [antiwork/mediaconverter](https://github.com/antiwork/mediaconverter) - 
 - [harpreetsahota204/minicpm-v](https://github.com/harpreetsahota204/minicpm-v) - Integrating MiniCPM-V as a Remote Source Zoo Model in FiftyOne
 - [mshumer/gpt-pro-mode](https://github.com/mshumer/gpt-pro-mode) - 
 - [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - 
