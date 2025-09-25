@@ -26,6 +26,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
+- [cloud](#cloud)
 - [cms](#cms)
 - [code](#code)
 - [coding](#coding)
@@ -413,6 +414,10 @@
 - [IIIF-Commons/biiif-cli](https://github.com/IIIF-Commons/biiif-cli) - A CLI to Build Static IIIF Collections
 - [athityakumar/colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+
+## cloud 
+
+- [boto/boto3](https://github.com/boto/boto3) - Boto3, an AWS SDK for Python
 
 ## cms 
 
@@ -928,7 +933,7 @@
 
 ## localization 
 
-- [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - Video translation and dubbing tool powered by LLMs. The video translator offers 99 language translations and one-click full-process deployment. The video translation output is optimized for platforms 
+- [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms
 
 ## low-code 
 
@@ -1214,6 +1219,7 @@
 
 ## others 
 
+- [paulduchesne/filmography-matching](https://github.com/paulduchesne/filmography-matching) - Creator matching between filmographic datasets.
 - [antiwork/mediaconverter](https://github.com/antiwork/mediaconverter) - 
 - [harpreetsahota204/minicpm-v](https://github.com/harpreetsahota204/minicpm-v) - Integrating MiniCPM-V as a Remote Source Zoo Model in FiftyOne
 - [mshumer/gpt-pro-mode](https://github.com/mshumer/gpt-pro-mode) - 
@@ -1260,7 +1266,7 @@
 - [FIAF/fiafcore-bfi](https://github.com/FIAF/fiafcore-bfi) - Conformation of BFI data to FIAFcore.
 - [TengdaHan/AutoAD](https://github.com/TengdaHan/AutoAD) - [CVPR'23 Highlight] AutoAD: Movie Description in Context.
 - [yunlong10/Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) - 🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.
-- [TEN-framework/ten-vad](https://github.com/TEN-framework/ten-vad) - Voice Activity Detection (VAD) : low-latency, high-performance and lightweight
+- [TEN-framework/ten-vad](https://github.com/TEN-framework/ten-vad) - Voice Activity Detector (VAD) : low-latency, high-performance and lightweight
 - [senstella/parakeet-mlx](https://github.com/senstella/parakeet-mlx) - An implementation of the Nvidia's Parakeet models for Apple Silicon using MLX.
 - [mhumphries2323/Archive_Studio](https://github.com/mhumphries2323/Archive_Studio) - Automate archival processing of historical documents with AI
 - [rhymes-ai/Aria](https://github.com/rhymes-ai/Aria) - Codebase for Aria - an Open Multimodal Native MoE
@@ -1442,7 +1448,7 @@
 - [kermitt2/grisp](https://github.com/kermitt2/grisp) - Knowledge Base stuff
 - [hrishioa/lumentis](https://github.com/hrishioa/lumentis) - AI powered one-click comprehensive docs from transcripts and text.
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
-- [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
+- [stitionai/devika](https://github.com/stitionai/devika) - Devika is now Opcode
 - [facebookresearch/BELA](https://github.com/facebookresearch/BELA) - Bi-encoder entity linking architecture
 - [yandexdataschool/nlp_course](https://github.com/yandexdataschool/nlp_course) - YSDA course in Natural Language Processing
 - [explosion/spacy-curated-transformers](https://github.com/explosion/spacy-curated-transformers) - spaCy entry points for Curated Transformers
