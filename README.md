@@ -428,6 +428,9 @@
 
 ## Python 
 
+- [QwenLM/Qwen3-ASR-Toolkit](https://github.com/QwenLM/Qwen3-ASR-Toolkit) - Official Python toolkit for the Qwen3-ASR API. Parallel high‑throughput calls, robust long‑audio transcription, multi‑sample‑rate support.
+- [antiboredom/videogrep](https://github.com/antiboredom/videogrep) - automatic video supercuts with python
+- [Mega4alik/ollm](https://github.com/Mega4alik/ollm) - 
 - [NLP-Suite/NLP-Suite](https://github.com/NLP-Suite/NLP-Suite) - CLICK ON WIKI LINK BELOW OR ON Wiki TAB AT TOP BANNER FOR DOWNLOAD INSTRUCTIONS AND  INFORMATION ON THE NLP SUITE.
 - [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - Refine high-quality datasets and visual AI models
 - [harpreetsahota204/minicpm-v](https://github.com/harpreetsahota204/minicpm-v) - Integrating MiniCPM-V as a Remote Source Zoo Model in FiftyOne
