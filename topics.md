@@ -723,6 +723,7 @@
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
+- [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
@@ -1219,6 +1220,9 @@
 
 ## others 
 
+- [QwenLM/Qwen3-ASR-Toolkit](https://github.com/QwenLM/Qwen3-ASR-Toolkit) - Official Python toolkit for the Qwen3-ASR API. Parallel high‑throughput calls, robust long‑audio transcription, multi‑sample‑rate support.
+- [antiboredom/videogrep](https://github.com/antiboredom/videogrep) - automatic video supercuts with python
+- [Mega4alik/ollm](https://github.com/Mega4alik/ollm) - 
 - [paulduchesne/filmography-matching](https://github.com/paulduchesne/filmography-matching) - Creator matching between filmographic datasets.
 - [antiwork/mediaconverter](https://github.com/antiwork/mediaconverter) - 
 - [harpreetsahota204/minicpm-v](https://github.com/harpreetsahota204/minicpm-v) - Integrating MiniCPM-V as a Remote Source Zoo Model in FiftyOne
