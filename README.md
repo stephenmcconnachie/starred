@@ -272,6 +272,7 @@
 
 ## Jupyter Notebook 
 
+- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
 - [paulduchesne/filmography-matching](https://github.com/paulduchesne/filmography-matching) - Creator matching between filmographic datasets.
 - [mshumer/gpt-pro-mode](https://github.com/mshumer/gpt-pro-mode) - 
 - [huggingface/huggingface-gemma-recipes](https://github.com/huggingface/huggingface-gemma-recipes) - Inference, Fine Tuning and many more recipes with Gemma family of models
@@ -493,7 +494,7 @@
 - [speaches-ai/speaches](https://github.com/speaches-ai/speaches) - 
 - [deepbeepmeep/Wan2GP](https://github.com/deepbeepmeep/Wan2GP) - A fast AI Video Generator for the GPU Poor. Supports Wan 2.1/2.2, Qwen Image, Hunyuan Video, LTX  Video and Flux.
 - [HazyResearch/minions](https://github.com/HazyResearch/minions) - Big & Small LLMs working together
-- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agent workflows.
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
 - [allenai/olmocr](https://github.com/allenai/olmocr) - Toolkit for linearizing PDFs for LLM datasets/training
 - [peregilk/altwer](https://github.com/peregilk/altwer) - Calculates wer if there are multiple alternative solutions
 - [AI-Riksarkivet/htrflow](https://github.com/AI-Riksarkivet/htrflow) - HTRflow is the underlying engine for our HTR-pipeline
@@ -825,6 +826,7 @@
 
 ## Rust 
 
+- [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [wilsonzlin/CoreNN](https://github.com/wilsonzlin/CoreNN) - Embeddable library or single binary for indexing and searching 1B vectors
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
