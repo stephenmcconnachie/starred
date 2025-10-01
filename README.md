@@ -67,6 +67,7 @@
 
 ## C++ 
 
+- [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [Sarthak2143/sakura](https://github.com/Sarthak2143/sakura) - minimal lib for rendering media in terminal
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [PixlOne/logiops](https://github.com/PixlOne/logiops) - An unofficial userspace driver for HID++ Logitech devices
@@ -148,6 +149,8 @@
 
 ## HTML 
 
+- [psb1558/Cerne-font](https://github.com/psb1558/Cerne-font) - A font based on the script of the ninth-century Book of Cerne
+- [psb1558/Joscelyn-font](https://github.com/psb1558/Joscelyn-font) - An authentic secretary hand font
 - [theirstory/hyperaudio-lite-editor](https://github.com/theirstory/hyperaudio-lite-editor) - A lightweight transcript editor for editing and correcting STT generated timed transcripts
 - [theirstory/timedtext-player](https://github.com/theirstory/timedtext-player) - 
 - [olilanz/RooCode-Local-Evaluation](https://github.com/olilanz/RooCode-Local-Evaluation) - Evaluation of Roo Code and locally hosted LLMs
@@ -186,7 +189,7 @@
 
 - [OCR4all/OCR4all](https://github.com/OCR4all/OCR4all) - Provides OCR (Optical Character Recognition) services through web applications
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything — from scripts to data, infra, AI, and business — as code, with UI and AI Copilot. Simple. Fast. Scalable.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
 - [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 - [kermitt2/grisp](https://github.com/kermitt2/grisp) - Knowledge Base stuff
 - [kermitt2/grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
@@ -429,6 +432,8 @@
 
 ## Python 
 
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
+- [rednote-hilab/dots.ocr](https://github.com/rednote-hilab/dots.ocr) - Multilingual Document Layout Parsing in a Single Vision-Language Model
 - [soCzech/TransNetV2](https://github.com/soCzech/TransNetV2) - TransNet V2: Shot Boundary Detection Neural Network
 - [QwenLM/Qwen3-ASR-Toolkit](https://github.com/QwenLM/Qwen3-ASR-Toolkit) - Official Python toolkit for the Qwen3-ASR API. Parallel high‑throughput calls, robust long‑audio transcription, multi‑sample‑rate support.
 - [antiboredom/videogrep](https://github.com/antiboredom/videogrep) - automatic video supercuts with python
@@ -450,6 +455,7 @@
 - [microsoft/CLAP](https://github.com/microsoft/CLAP) - Learning audio concepts from natural language supervision
 - [ox-vgg/wise](https://github.com/ox-vgg/wise) - (MIRROR of https://gitlab.com/vgg/wise/wise/) WISE Search Engine (WISE) is a software to visually search a large collection of images, videos and audio.
 - [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit) - The ultimate training toolkit for finetuning diffusion models
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [google-deepmind/videoprism](https://github.com/google-deepmind/videoprism) - Official repository for "VideoPrism: A Foundational Visual Encoder for Video Understanding" (ICML 2024)
 - [bytedance/Dolphin](https://github.com/bytedance/Dolphin) - The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
@@ -467,7 +473,7 @@
 - [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel) - Open-source unified multimodal model
 - [nlweb-ai/NLWeb](https://github.com/nlweb-ai/NLWeb) - The main repo for NLWeb, implemented in Python.
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Analytics Engine that can answer questions over large scale data. - The only MCP Server you'll ever need
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Analytics and Knowledge Engine for RAG over large-scale, heterogeneous data. - The only MCP Server you'll ever need
 - [TengdaHan/AutoAD](https://github.com/TengdaHan/AutoAD) - [CVPR'23 Highlight] AutoAD: Movie Description in Context.
 - [senstella/parakeet-mlx](https://github.com/senstella/parakeet-mlx) - An implementation of the Nvidia's Parakeet models for Apple Silicon using MLX.
 - [mhumphries2323/Archive_Studio](https://github.com/mhumphries2323/Archive_Studio) - Automate archival processing of historical documents with AI
@@ -899,7 +905,6 @@
 - [HelloCSV/HelloCSV](https://github.com/HelloCSV/HelloCSV) - https://hellocsv.github.io/HelloCSV/
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kiloc
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
