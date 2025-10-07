@@ -343,7 +343,6 @@
 - [run-llama/llama-hub](https://github.com/run-llama/llama-hub) - A library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
 - [sroecker/LLM_AppDev-HandsOn](https://github.com/sroecker/LLM_AppDev-HandsOn) - Repository and hands-on workshop on how to develop applications with local LLMs
 - [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) - 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸
 - [GLAM-Workbench/facial-detection](https://github.com/GLAM-Workbench/facial-detection) - 
 - [shawngraham/Identifying-Similar-Images-with-TensorFlow-notebooks](https://github.com/shawngraham/Identifying-Similar-Images-with-TensorFlow-notebooks) - 
@@ -709,6 +708,7 @@
 - [m-bain/frozen-in-time](https://github.com/m-bain/frozen-in-time) - Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval [ICCV'21]
 - [simonw/webvtt-to-json](https://github.com/simonw/webvtt-to-json) - Convert WebVTT to JSON, optionally removing duplicate lines
 - [glut23/webvtt-py](https://github.com/glut23/webvtt-py) - Read, write, convert and segment WebVTT caption files in Python.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [facebookresearch/nougat](https://github.com/facebookresearch/nougat) - Implementation of Nougat Neural Optical Understanding for Academic Documents
 - [clovaai/donut](https://github.com/clovaai/donut) - Official Implementation of OCR-free Document Understanding Transformer (Donut) and Synthetic Document Generator (SynthDoG), ECCV 2022
 - [jhodges10/fioctl](https://github.com/jhodges10/fioctl) - 
