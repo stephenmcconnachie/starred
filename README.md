@@ -42,6 +42,7 @@
 
 ## C 
 
+- [wandenberg/nginx-video-thumbextractor-module](https://github.com/wandenberg/nginx-video-thumbextractor-module) - Nginx module to extract thumbs from a video file
 - [TEN-framework/ten-vad](https://github.com/TEN-framework/ten-vad) - Voice Activity Detector (VAD) : low-latency, high-performance and lightweight
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
 - [JoeDog/siege](https://github.com/JoeDog/siege) - Siege is an http load tester and benchmarking utility
@@ -159,6 +160,7 @@
 - [IUBLibTech/CompareTranscripts](https://github.com/IUBLibTech/CompareTranscripts) - Tools to compare ASR transcripts with metrics
 - [wjbmattingly/flask-annoy](https://github.com/wjbmattingly/flask-annoy) - 
 - [slhck/ffmpeg-normalize](https://github.com/slhck/ffmpeg-normalize) - Audio Normalization for Python/ffmpeg
+- [ACMILabs/collection-chat](https://github.com/ACMILabs/collection-chat) - Uses LangChain and GPT-4 to chat with the ACMI Public API collection.
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [CatalogueLegacies/antconc.github.io](https://github.com/CatalogueLegacies/antconc.github.io) - Computational Analysis of Catalogue Data
 - [simonw/tools](https://github.com/simonw/tools) - Assorted useful tools, almost entirely generated using LLMs
@@ -579,7 +581,6 @@
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [aiola-lab/whisper-medusa](https://github.com/aiola-lab/whisper-medusa) - Whisper with Medusa heads
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
-- [ACMILabs/collection-chat](https://github.com/ACMILabs/collection-chat) - Uses LangChain and GPT-4 to chat with the ACMI Public API collection.
 - [X-PLUG/mPLUG-Owl](https://github.com/X-PLUG/mPLUG-Owl) - mPLUG-Owl: The Powerful Multi-modal Large Language Model  Family
 - [X-PLUG/mPLUG-DocOwl](https://github.com/X-PLUG/mPLUG-DocOwl) - mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding
 - [akashmjn/tinydiarize](https://github.com/akashmjn/tinydiarize) - Minimal extension of OpenAI's Whisper adding speaker diarization with special tokens
