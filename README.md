@@ -434,6 +434,7 @@
 
 ## Python 
 
+- [krea-ai/realtime-video](https://github.com/krea-ai/realtime-video) - Krea Realtime 14B. An open-source realtime AI video model.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [rednote-hilab/dots.ocr](https://github.com/rednote-hilab/dots.ocr) - Multilingual Document Layout Parsing in a Single Vision-Language Model
 - [soCzech/TransNetV2](https://github.com/soCzech/TransNetV2) - TransNet V2: Shot Boundary Detection Neural Network
