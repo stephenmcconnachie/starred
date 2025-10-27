@@ -245,7 +245,7 @@
 - [digipres/awesome-digital-preservation](https://github.com/digipres/awesome-digital-preservation) - Carefully curated list of awesome digital preservation resources.
 - [thiagopnts/clappr-video360](https://github.com/thiagopnts/clappr-video360) - 360 video plugin for Clappr
 - [tjenkinson/clappr-thumbnails-plugin](https://github.com/tjenkinson/clappr-thumbnails-plugin) - A plugin for clappr which will display thumbnails when hovering over the scrub bar. Thumbnails can either be individual images or a sprite sheet.
-- [clappr/clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
+- [clappr/clappr](https://github.com/clappr/clappr) - An extensible, plugin-oriented, HTML5-first media player for the web
 - [transitive-bullshit/ffmpeg-extract-frames](https://github.com/transitive-bullshit/ffmpeg-extract-frames) - Extracts frames from a video using ffmpeg.
 - [transitive-bullshit/ffmpeg-generate-video-preview](https://github.com/transitive-bullshit/ffmpeg-generate-video-preview) - Generates an attractive image strip or GIF preview from a video.
 - [samvera-labs/ramp](https://github.com/samvera-labs/ramp) - Interactive, IIIF powered audio/video media player React components library. Styleguidist Docs: https://samvera-labs.github.io/ramp/
