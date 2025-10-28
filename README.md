@@ -417,7 +417,7 @@
 ## PHP 
 
 - [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open Source Security Analytics. Understand, monitor, and protect your application from cyber threats, account threats, and abuse. Get started — free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open-source Security Analytics. Understand, monitor, and protect your application from cyber threats, account threats, and abuse. Get started — free.
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
@@ -433,6 +433,7 @@
 
 ## Python 
 
+- [microsoft/typeagent-py](https://github.com/microsoft/typeagent-py) - Python port of part of the TypeAgent repo
 - [krea-ai/realtime-video](https://github.com/krea-ai/realtime-video) - Krea Realtime 14B. An open-source realtime AI video model.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [rednote-hilab/dots.ocr](https://github.com/rednote-hilab/dots.ocr) - Multilingual Document Layout Parsing in a Single Vision-Language Model
@@ -475,7 +476,7 @@
 - [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel) - Open-source unified multimodal model
 - [nlweb-ai/NLWeb](https://github.com/nlweb-ai/NLWeb) - The main repo for NLWeb, implemented in Python.
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Analytics and Knowledge Engine for RAG over large-scale, heterogeneous data. - The only MCP Server you'll ever need
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated query engine for AI - The only MCP Server you'll ever need
 - [TengdaHan/AutoAD](https://github.com/TengdaHan/AutoAD) - [CVPR'23 Highlight] AutoAD: Movie Description in Context.
 - [senstella/parakeet-mlx](https://github.com/senstella/parakeet-mlx) - An implementation of the Nvidia's Parakeet models for Apple Silicon using MLX.
 - [mhumphries2323/Archive_Studio](https://github.com/mhumphries2323/Archive_Studio) - Automate archival processing of historical documents with AI
@@ -960,7 +961,7 @@
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
 - [Nutlope/pdftochat](https://github.com/Nutlope/pdftochat) - Chat with your PDFs with AI
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
-- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [hrishioa/wishful-search](https://github.com/hrishioa/wishful-search) - Natural language search for complex JSON arrays, with AI Quickstart.
 - [fromsmash/smash-downloader-js](https://github.com/fromsmash/smash-downloader-js) - Official JavaScript library to download transfers using the Smash API & SDK 🚀
 - [karolkozer/planby](https://github.com/karolkozer/planby) - 
