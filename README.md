@@ -433,6 +433,7 @@
 
 ## Python 
 
+- [alexstoken/image-matching-models](https://github.com/alexstoken/image-matching-models) - A framework to easily use 37 (and growing) different image matching methods
 - [microsoft/typeagent-py](https://github.com/microsoft/typeagent-py) - Python port of part of the TypeAgent repo
 - [krea-ai/realtime-video](https://github.com/krea-ai/realtime-video) - Krea Realtime 14B. An open-source realtime AI video model.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
