@@ -178,6 +178,7 @@
 
 ## ai 
 
+- [datalab-to/chandra](https://github.com/datalab-to/chandra) - OCR model that handles complex tables, forms, handwriting with full layout.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
@@ -220,7 +221,7 @@
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
 
@@ -237,7 +238,7 @@
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, 
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Multi-agent framework, runtime and control plane. Built for speed, privacy, and scale.
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta is the platform for building stateful agents: open AI with advanced memory that can learn and self-improve over time.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 
 ## analytics 
 
@@ -402,7 +403,7 @@
 - [run-llama/rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [1mrat/gpt-stats](https://github.com/1mrat/gpt-stats) - Stats for Custom Chat GPTs not created by OpenAI
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 
 ## chrome 
@@ -683,7 +684,7 @@
 - [video-db/Director](https://github.com/video-db/Director) - AI video agents framework for next-gen video interactions and workflows.
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 
 ## frontend 
 
@@ -957,7 +958,7 @@
 - [stanford-oval/WikiChat](https://github.com/stanford-oval/WikiChat) - WikiChat is an improved RAG. It stops the hallucination of large language models by retrieving data from a corpus.
 - [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
 - [run-llama/rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 
 ## localization 
@@ -1203,7 +1204,7 @@
 - [revdotcom/reverb](https://github.com/revdotcom/reverb) - Open source inference code for Rev's model
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [DSpace/DSpace](https://github.com/DSpace/DSpace) - (Official) The DSpace digital asset management system that powers your Institutional Repository
 
 ## openai 
@@ -1237,7 +1238,7 @@
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [run-llama/rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 
 ## opencv 
@@ -1277,7 +1278,7 @@
 - [numindai/NuMarkdown](https://github.com/numindai/NuMarkdown) - 
 - [modal-labs/open-batch-transcription](https://github.com/modal-labs/open-batch-transcription) - Transcribing audio files on Modal with open source ASR models is fast, cheap, and easy!
 - [opendatalab/OmniDocBench](https://github.com/opendatalab/OmniDocBench) - [CVPR 2025] A Comprehensive Benchmark for Document Parsing and Evaluation
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open-source Security Analytics. Understand, monitor, and protect your application from cyber threats, account threats, and abuse. Get started — free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - open-source security analytics. Understand, monitor, and protect your application from cyber threats, account takeovers, and abuse. Get started — free.
 - [andrewjohngilbert/DANTE-AD](https://github.com/andrewjohngilbert/DANTE-AD) - 
 - [lacojim/FreeFactoryQT](https://github.com/lacojim/FreeFactoryQT) - Updated version of FreeFactory by James Hines (Lexridge) and Karl Swisher now written in Python3.
 - [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - SSL Certificate Management System (API + UI)
@@ -1850,7 +1851,7 @@
 - [fcakyon/craft-text-detector](https://github.com/fcakyon/craft-text-detector) - Packaged, Pytorch-based, easy to use, cross-platform version of the CRAFT text detector
 - [mapluisch/LLaVA-CLI-with-multiple-images](https://github.com/mapluisch/LLaVA-CLI-with-multiple-images) - LLaVA inference with multiple images at once for cross-image analysis.
 - [glut23/webvtt-py](https://github.com/glut23/webvtt-py) - Read, write, convert and segment WebVTT caption files in Python.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [Frameio/python-frameio-client](https://github.com/Frameio/python-frameio-client) - Python SDK for interacting with the Frame.io API. Documentation here - https://frameio.github.io/python-frameio-client/
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
