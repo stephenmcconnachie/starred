@@ -418,7 +418,7 @@
 - [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
 - [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno — open-source security analytics. Understand, monitor, and protect your application from cyber threats, account takeovers, and abuse. Get started — free.
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [exponential-decay/the-format-registry](https://github.com/exponential-decay/the-format-registry) - A mirror of the PRONOM file format registry in Linked Open Data format. The Format Registry is a linked (open) data file format repository. The work is the result of a four-day hack during November 20
 
@@ -472,7 +472,7 @@
 - [costales/folder-color](https://github.com/costales/folder-color) - Folder Color for Linux file browsers
 - [theirstory/gliner-spacy](https://github.com/theirstory/gliner-spacy) - A spaCy wrapper for GliNER
 - [VectorSpaceLab/Video-XL](https://github.com/VectorSpaceLab/Video-XL) - 🔥🔥First-ever hour scale video understanding models
-- [Tongyi-Zhiwen/QwenLong-L1](https://github.com/Tongyi-Zhiwen/QwenLong-L1) - 
+- [Tongyi-Zhiwen/Qwen-Doc](https://github.com/Tongyi-Zhiwen/Qwen-Doc) - 
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel) - Open-source unified multimodal model
 - [nlweb-ai/NLWeb](https://github.com/nlweb-ai/NLWeb) - The main repo for NLWeb, implemented in Python.
