@@ -115,6 +115,7 @@
 
 ## Go 
 
+- [glaciers-in-archives/snowman](https://github.com/glaciers-in-archives/snowman) - A static site generator for SPARQL backends.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [antiwork/mediaconverter](https://github.com/antiwork/mediaconverter) - 
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
