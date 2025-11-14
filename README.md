@@ -433,6 +433,7 @@
 
 ## Python 
 
+- [kingsdigitallab/framesense](https://github.com/kingsdigitallab/framesense) - A modular command-line tool to process video collections.
 - [orrzohar/Video-STaR](https://github.com/orrzohar/Video-STaR) - [ICLR 2025] Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision
 - [kingsdigitallab/issa](https://github.com/kingsdigitallab/issa) - Intelligent Systems for Screen Archives
 - [datalab-to/chandra](https://github.com/datalab-to/chandra) - OCR model that handles complex tables, forms, handwriting with full layout.
