@@ -372,6 +372,7 @@
 - [Vaibhavs10/experiments-with-mcp](https://github.com/Vaibhavs10/experiments-with-mcp) - 
 - [liveseongho/Awesome-Video-Language-Understanding](https://github.com/liveseongho/Awesome-Video-Language-Understanding) - A Survey on video and language understanding.
 - [yunlong10/Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) - 🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [patrickloeber/llm-data-scrapers](https://github.com/patrickloeber/llm-data-scrapers) - A list of useful Open Source tools and scrapers to gather data for LLMs
 - [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) - Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation
 - [llamastack/llama-stack-apps](https://github.com/llamastack/llama-stack-apps) - Agentic components of the Llama Stack APIs
@@ -417,7 +418,7 @@
 ## PHP 
 
 - [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno is an open-source security analytics. Understand, monitor, and protect your applications from cyber threats, account takeovers, and abuse. Get started - free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno is an open security analytics for your product. Understand, monitor, and protect your applications from cyber threats, account takeovers, and abuse.
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
