@@ -432,6 +432,7 @@
 
 ## Python 
 
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
 - [FIAF/fiafcore](https://github.com/FIAF/fiafcore) - FIAFcore is an ontology for film archives.
 - [codycollier/venra](https://github.com/codycollier/venra) - Venra provides a simple, high-level api for vespa.ai
 - [abhishekkrthakur/search](https://github.com/abhishekkrthakur/search) - How to build the best search, one step at a time!
@@ -440,7 +441,7 @@
 - [kingsdigitallab/issa](https://github.com/kingsdigitallab/issa) - Intelligent Systems for Screen Archives
 - [datalab-to/chandra](https://github.com/datalab-to/chandra) - OCR model that handles complex tables, forms, handwriting with full layout.
 - [alexstoken/image-matching-models](https://github.com/alexstoken/image-matching-models) - A framework to easily use 37 (and growing) different image matching methods
-- [microsoft/typeagent-py](https://github.com/microsoft/typeagent-py) - Python port of part of the TypeAgent repo
+- [microsoft/typeagent-py](https://github.com/microsoft/typeagent-py) - Structured RAG: ingest, index, query
 - [krea-ai/realtime-video](https://github.com/krea-ai/realtime-video) - Krea Realtime 14B. An open-source realtime AI video model.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [rednote-hilab/dots.ocr](https://github.com/rednote-hilab/dots.ocr) - Multilingual Document Layout Parsing in a Single Vision-Language Model
