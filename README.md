@@ -72,7 +72,6 @@
 
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
-- [Sarthak2143/sakura](https://github.com/Sarthak2143/sakura) - minimal lib for rendering media in terminal
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [PixlOne/logiops](https://github.com/PixlOne/logiops) - An unofficial userspace driver for HID++ Logitech devices
 - [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
@@ -210,6 +209,7 @@
 
 ## JavaScript 
 
+- [rclone/rclone-webui-react](https://github.com/rclone/rclone-webui-react) - A full fledged UI for the rclone cloud sync tool
 - [andrewjohngilbert/DANTE-AD](https://github.com/andrewjohngilbert/DANTE-AD) - 
 - [DumbWareio/DumbAssets](https://github.com/DumbWareio/DumbAssets) - A Stupid Simple Asset Tracker
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
@@ -432,6 +432,7 @@
 
 ## Python 
 
+- [jfgonsalves/parakeet-diarized](https://github.com/jfgonsalves/parakeet-diarized) - Parakeet 0.6b V2 + Pyannote diarization behind a Whisper API
 - [jasonclark/agentic-search-react](https://github.com/jasonclark/agentic-search-react) - Agent uses an LLM (via Ollama) and ReAct (Reasoning + Acting) cycle to apply tools for searching and context-building. Flask app includes an interface that shows thinking patterns and reasons for a fi
 - [jasonclark/agentic-search](https://github.com/jasonclark/agentic-search) - Agent uses an LLM (via Ollama) and tools (Glob and Grep simulation) to investigate a document corpus.
 - [bytedance/vidi](https://github.com/bytedance/vidi) - The official repo for "Vidi: Large Multimodal Models for Video Understanding and Editing"
@@ -503,7 +504,7 @@
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 - [ninarao/wer_calc](https://github.com/ninarao/wer_calc) - Python script that performs word error rate (WER) calculation for a set of reference and generated text files and outputs results to csv.
-- [ninarao/WhisperGUI](https://github.com/ninarao/WhisperGUI) - A graphic interface for running Whisper locally, with options to select model, language, and task.
+- [ninarao/WhisperGUI](https://github.com/ninarao/WhisperGUI) - A graphic interface for running Whisper locally, with options to select model, language, task, and output format.
 - [ninarao/webvtt_metadata](https://github.com/ninarao/webvtt_metadata) - Python program that embeds metadata in WebVTT files according to the FADGI Guidelines for Embedding Metadata in WebVTT Files, using a csv template file.
 - [drmingler/docling-api](https://github.com/drmingler/docling-api) - Easily deployable and scalable backend server that efficiently converts various document formats (pdf, docx, pptx, html, images, etc) into Markdown. With support for both CPU and GPU processing, it is
 - [Cobilia/PiEdgeCCTV](https://github.com/Cobilia/PiEdgeCCTV) - PiEdgeCCTV is an edge AI CCTV system for Raspberry Pi using the IMX500 AI Camera
@@ -668,7 +669,7 @@
 - [qnguyen3/chat-with-mlx](https://github.com/qnguyen3/chat-with-mlx) - An all-in-one LLMs Chat UI for Apple Silicon Mac using MLX Framework.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [keirf/greaseweazle](https://github.com/keirf/greaseweazle) - Tools for accessing a floppy drive at the raw flux level
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for building, running and managing multi-agent systems.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
 - [artefactual/automation-tools](https://github.com/artefactual/automation-tools) - Tools to aid automation of Archivematica and AtoM.
 - [allenai/OLMo](https://github.com/allenai/OLMo) - Modeling, training, eval, and inference code for OLMo
 - [argmaxinc/whisperkittools](https://github.com/argmaxinc/whisperkittools) - Python tools for WhisperKit: Model conversion, optimization and evaluation
