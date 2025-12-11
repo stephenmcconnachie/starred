@@ -68,6 +68,7 @@
 - [framework](#framework)
 - [frontend](#frontend)
 - [gaming](#gaming)
+- [generative-ai](#generative-ai)
 - [github](#github)
 - [go](#go)
 - [golang](#golang)
@@ -231,7 +232,7 @@
 - [IBM/zshot](https://github.com/IBM/zshot) - Zero and Few shot named entity & relationships recognition
 - [video-db/PromptClip](https://github.com/video-db/PromptClip) - Instantly create video clips from LLM prompts
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The open-source stack for building, running and managing multi-agent systems.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta is the platform for building stateful agents: open AI with advanced memory that can learn and self-improve over time.
 - [da-z/mlx-ui](https://github.com/da-z/mlx-ui) - A simple UI / Web / Frontend for MLX mlx-lm using Streamlit.
@@ -255,7 +256,7 @@
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, 
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The open-source stack for building, running and managing multi-agent systems.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta is the platform for building stateful agents: open AI with advanced memory that can learn and self-improve over time.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 
@@ -401,7 +402,7 @@
 
 ## chatgpt 
 
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects while building our own vision. Follow us: kilocode.ai/social
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month. Fol
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [autoshow/autoshow](https://github.com/autoshow/autoshow) - End-to-end workflow to automatically generate show notes from audio/video transcripts
@@ -504,7 +505,6 @@
 
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
-- [Sarthak2143/sakura](https://github.com/Sarthak2143/sakura) - minimal lib for rendering media in terminal
 
 ## crawler 
 
@@ -616,7 +616,7 @@
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
 - [stacklok/codegate](https://github.com/stacklok/codegate) - CodeGate: Security, Workspaces and Multiplexing for AI Agentic Frameworks
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The open-source stack for building, running and managing multi-agent systems.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [appbaseio/reactivesearch](https://github.com/appbaseio/reactivesearch) - Search UI components for React and Vue
 
@@ -735,6 +735,22 @@
 
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 
+## generative-ai 
+
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing
+- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
+- [deepbeepmeep/Wan2GP](https://github.com/deepbeepmeep/Wan2GP) - A fast AI Video Generator for the GPU Poor. Supports Wan 2.1/2.2, Qwen Image, Hunyuan Video, LTX  Video and Flux.
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+- [stacklok/codegate](https://github.com/stacklok/codegate) - CodeGate: Security, Workspaces and Multiplexing for AI Agentic Frameworks
+- [explosion/spacy-layout](https://github.com/explosion/spacy-layout) - 📚 Process PDFs, Word documents and more with spaCy
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
+- [HyperGAI/HPT](https://github.com/HyperGAI/HPT) - HPT - Open Multimodal LLMs from HyperGAI
+- [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
+- [weaviate/recipes](https://github.com/weaviate/recipes) - This repository shares end-to-end notebooks on how to use various Weaviate features and integrations!
+- [NVIDIA-NeMo/NeMo](https://github.com/NVIDIA-NeMo/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+
 ## github 
 
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
@@ -792,6 +808,7 @@
 
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
+- [StarlightSearch/EmbedAnything](https://github.com/StarlightSearch/EmbedAnything) - Highly Performant, Modular, Memory Safe and Production-ready Inference, Ingestion and Indexing built in Rust 🦀
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated query engine for AI - The only MCP Server you'll ever need
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
@@ -1299,7 +1316,6 @@
 
 ## opencv 
 
-- [Sarthak2143/sakura](https://github.com/Sarthak2143/sakura) - minimal lib for rendering media in terminal
 - [divya21raj/Actor-Recognition-In-Movies](https://github.com/divya21raj/Actor-Recognition-In-Movies) - Recognizing actors in a movie clip or image, using OpenCV, DeepLearning and Python.
 - [imdeepmind/hocrox](https://github.com/imdeepmind/hocrox) - Hocrox: An image preprocessing and augmentation library with Keras like interface.
 
@@ -1310,6 +1326,9 @@
 
 ## others 
 
+- [rclone-ui/rclone-ui](https://github.com/rclone-ui/rclone-ui) - The cross-platform desktop GUI for rclone & S3.
+- [jfgonsalves/parakeet-diarized](https://github.com/jfgonsalves/parakeet-diarized) - Parakeet 0.6b V2 + Pyannote diarization behind a Whisper API
+- [rclone/rclone-webui-react](https://github.com/rclone/rclone-webui-react) - A full fledged UI for the rclone cloud sync tool
 - [jasonclark/agentic-search-react](https://github.com/jasonclark/agentic-search-react) - Agent uses an LLM (via Ollama) and ReAct (Reasoning + Acting) cycle to apply tools for searching and context-building. Flask app includes an interface that shows thinking patterns and reasons for a fi
 - [Chaouabti/TiamaT](https://github.com/Chaouabti/TiamaT) - 
 - [bytedance/vidi](https://github.com/bytedance/vidi) - The official repo for "Vidi: Large Multimodal Models for Video Understanding and Editing"
@@ -1349,7 +1368,7 @@
 - [lacojim/FreeFactoryQT](https://github.com/lacojim/FreeFactoryQT) - Updated version of FreeFactory by James Hines (Lexridge) and Karl Swisher now written in Python3.
 - [fabriziosalmi/certmate](https://github.com/fabriziosalmi/certmate) - SSL Certificate Management System (API + UI)
 - [HelloCSV/HelloCSV](https://github.com/HelloCSV/HelloCSV) - https://hellocsv.github.io/HelloCSV/
-- [zai-org/GLM-V](https://github.com/zai-org/GLM-V) - GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning
+- [zai-org/GLM-V](https://github.com/zai-org/GLM-V) - GLM-4.6V/4.5V/4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning
 - [huggingface/large-scale-image-deduplication](https://github.com/huggingface/large-scale-image-deduplication) - 
 - [huggingface/huggingface-gemma-recipes](https://github.com/huggingface/huggingface-gemma-recipes) - Inference, Fine Tuning and many more recipes with Gemma family of models
 - [microsoft/CLAP](https://github.com/microsoft/CLAP) - Learning audio concepts from natural language supervision
@@ -1395,7 +1414,7 @@
 - [giejay/Immich-Android-TV](https://github.com/giejay/Immich-Android-TV) - An Android TV app for the self hosted photos and videos backup solution.
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [ninarao/wer_calc](https://github.com/ninarao/wer_calc) - Python script that performs word error rate (WER) calculation for a set of reference and generated text files and outputs results to csv.
-- [ninarao/WhisperGUI](https://github.com/ninarao/WhisperGUI) - A graphic interface for running Whisper locally, with options to select model, language, and task.
+- [ninarao/WhisperGUI](https://github.com/ninarao/WhisperGUI) - A graphic interface for running Whisper locally, with options to select model, language, task, and output format.
 - [ninarao/webvtt_metadata](https://github.com/ninarao/webvtt_metadata) - Python program that embeds metadata in WebVTT files according to the FADGI Guidelines for Embedding Metadata in WebVTT Files, using a csv template file.
 - [ymichael/open-codex](https://github.com/ymichael/open-codex) - Lightweight coding agent that runs in your terminal
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -1520,7 +1539,6 @@
 - [intel/neural-speed](https://github.com/intel/neural-speed) - An innovative library for efficient LLM inference via low-bit quantization
 - [CatalogueLegacies/antconc.github.io](https://github.com/CatalogueLegacies/antconc.github.io) - Computational Analysis of Catalogue Data
 - [internetarchive/Zeno](https://github.com/internetarchive/Zeno) - State-of-the-art web crawler 🔱
-- [HyperGAI/HPT](https://github.com/HyperGAI/HPT) - HPT - Open Multimodal LLMs from HyperGAI
 - [alexfazio/crewAI-quickstart](https://github.com/alexfazio/crewAI-quickstart) - A collection of notebooks, cookbooks, and recipes showcasing fun and effective ways to use CrewAI's agentic workflow implementations and tools.
 - [Sh4yy/personal-ai](https://github.com/Sh4yy/personal-ai) - 
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
@@ -1602,7 +1620,6 @@
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [Vaibhavs10/how-to-whisper](https://github.com/Vaibhavs10/how-to-whisper) - 
 - [Vaibhavs10/on-device-llm-playground](https://github.com/Vaibhavs10/on-device-llm-playground) - A repo with scripts to test and play around with Facebook's recent llama models! 🤗
-- [NVIDIA-NeMo/NeMo](https://github.com/NVIDIA-NeMo/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 - [impira/docquery](https://github.com/impira/docquery) - An easy way to extract information from documents
 - [philschmid/document-ai-transformers](https://github.com/philschmid/document-ai-transformers) - 
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - The definitive Web UI for local AI, with powerful features and easy setup.
@@ -1915,7 +1932,7 @@
 - [weaviate/recipes](https://github.com/weaviate/recipes) - This repository shares end-to-end notebooks on how to use various Weaviate features and integrations!
 - [hirmeos/entity-fishing-client-python](https://github.com/hirmeos/entity-fishing-client-python) - Repository hosting the common code for the entity-fishing clients
 - [explosion/weasel](https://github.com/explosion/weasel) - 🦦 weasel: A small and easy workflow system
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The open-source stack for building, running and managing multi-agent systems.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
 - [alphasecio/llama-index](https://github.com/alphasecio/llama-index) - A collection of apps powered by the LlamaIndex LLM framework.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
@@ -2206,7 +2223,6 @@
 
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [Sarthak2143/sakura](https://github.com/Sarthak2143/sakura) - minimal lib for rendering media in terminal
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [athityakumar/colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
