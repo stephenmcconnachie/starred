@@ -431,6 +431,7 @@
 
 ## Python 
 
+- [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [jfgonsalves/parakeet-diarized](https://github.com/jfgonsalves/parakeet-diarized) - Parakeet 0.6b V2 + Pyannote diarization behind a Whisper API
 - [jasonclark/agentic-search-react](https://github.com/jasonclark/agentic-search-react) - Agent uses an LLM (via Ollama) and ReAct (Reasoning + Acting) cycle to apply tools for searching and context-building. Flask app includes an interface that shows thinking patterns and reasons for a fi
 - [jasonclark/agentic-search](https://github.com/jasonclark/agentic-search) - Agent uses an LLM (via Ollama) and tools (Glob and Grep simulation) to investigate a document corpus.
@@ -929,7 +930,7 @@
 - [BlackHatDevX/openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app) - OpenSpot is a free and open-source music streaming application designed for a seamless, high-fidelity listening experience. Built with a modern tech stack, it features a beautiful, responsive UI that 
 - [HelloCSV/HelloCSV](https://github.com/HelloCSV/HelloCSV) - https://hellocsv.github.io/HelloCSV/
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month.
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based VPN and proxy for remote access to anything anywhere
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [freeman-jiang/beatsync](https://github.com/freeman-jiang/beatsync) - 🔊 High-precision web player for multi-device audio playback and spatial audio.
