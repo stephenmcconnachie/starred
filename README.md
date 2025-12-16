@@ -170,7 +170,6 @@
 - [kmurmur/embARC](https://github.com/kmurmur/embARC) - 
 - [tesseract-ocr/tessdoc](https://github.com/tesseract-ocr/tessdoc) - Tesseract documentation
 - [GLAM-Workbench/glam-workbench.github.io](https://github.com/GLAM-Workbench/glam-workbench.github.io) - 
-- [LibraryOfCongress/embARC](https://github.com/LibraryOfCongress/embARC) - embARC (“metadata embedded for archival content”) manages internal file metadata including embedding and validation. Created by FADGI (Federal Agencies Digital Guidelines Initiative), in conjunction w
 - [bitmovin/bitmovin-player-web-samples](https://github.com/bitmovin/bitmovin-player-web-samples) - Showcases build around the Bitmovin Adaptive Streaming Player, demonstrating usage and capabilities of the HTML5 based HLS and MPEG-DASH player, as well as the Flash based Fallback.
 - [ColorlabMD/DPX_Metadata_Editor](https://github.com/ColorlabMD/DPX_Metadata_Editor) - View, Edit and Modify DPX file headers
 - [bfidatadigipres/bfidatadigipres.github.io](https://github.com/bfidatadigipres/bfidatadigipres.github.io) - 
@@ -199,6 +198,7 @@
 - [DSRCorporation/imf-conversion](https://github.com/DSRCorporation/imf-conversion) - NF IMF media conversion utility allows to handle flat file creation from a specified CPL within the IMF package
 - [Netflix/photon](https://github.com/Netflix/photon) - Photon is a Java implementation of the Interoperable Master Format (IMF) standard. IMF is a SMPTE standard whose core constraints are defined in the specification st2067-2:2013
 - [DSpace/DSpace](https://github.com/DSpace/DSpace) - (Official) The DSpace digital asset management system that powers your Institutional Repository
+- [LibraryOfCongress/embARC](https://github.com/LibraryOfCongress/embARC) - embARC (“metadata embedded for archival content”) manages internal file metadata including embedding and validation. Created by FADGI (Federal Agencies Digital Guidelines Initiative), in conjunction w
 - [LibraryOfCongress/bagger](https://github.com/LibraryOfCongress/bagger) - The Bagger application packages data files according to the BagIt specification.
 - [usnationalarchives/File-Analyzer](https://github.com/usnationalarchives/File-Analyzer) - NARA File Analyzer and Metadata Harvester
 - [Georgetown-University-Libraries/File-Analyzer](https://github.com/Georgetown-University-Libraries/File-Analyzer) - A Data Parsing/Data Manipulation Tool Supporting Digitization Projects and Other Data Analysis Projects
@@ -445,7 +445,7 @@
 - [orrzohar/Video-STaR](https://github.com/orrzohar/Video-STaR) - [ICLR 2025] Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision
 - [kingsdigitallab/issa](https://github.com/kingsdigitallab/issa) - Intelligent Systems for Screen Archives
 - [datalab-to/chandra](https://github.com/datalab-to/chandra) - OCR model that handles complex tables, forms, handwriting with full layout.
-- [alexstoken/image-matching-models](https://github.com/alexstoken/image-matching-models) - A framework to easily use 37 (and growing) different image matching methods
+- [alexstoken/image-matching-models](https://github.com/alexstoken/image-matching-models) - Wrapper of 37+ image matching models with a unified interface
 - [microsoft/typeagent-py](https://github.com/microsoft/typeagent-py) - Structured RAG: ingest, index, query
 - [krea-ai/realtime-video](https://github.com/krea-ai/realtime-video) - Krea Realtime 14B. An open-source realtime AI video model.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
