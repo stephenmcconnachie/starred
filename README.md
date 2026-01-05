@@ -528,7 +528,7 @@
 - [octotools/octotools](https://github.com/octotools/octotools) - OctoTools: An agentic framework with extensible tools for complex reasoning
 - [AIDC-AI/Ovis](https://github.com/AIDC-AI/Ovis) - A novel Multimodal Large Language Model (MLLM) architecture, designed to structurally align visual and textual embeddings.
 - [ivanfioravanti/lmstudio_hf](https://github.com/ivanfioravanti/lmstudio_hf) - A command-line utility to manage MLX models between your Hugging Face cache and LM Studio.
-- [gpustack/gpustack](https://github.com/gpustack/gpustack) - GPU cluster manager for optimized AI model deployment
+- [gpustack/gpustack](https://github.com/gpustack/gpustack) - Performance-Optimized AI Inference on Your GPUs. Unlock it by selecting and tuning the optimal inference engine for your model.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [drmingler/smart-llm-loader](https://github.com/drmingler/smart-llm-loader) - smart-llm-loader is a lightweight yet powerful Python package that transforms any document into LLM-ready chunks. Spend less time on preprocessing headaches and more time building what matters. From R
 - [MinishLab/semhash](https://github.com/MinishLab/semhash) - Fast Semantic Text Deduplication & Filtering
