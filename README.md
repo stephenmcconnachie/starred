@@ -854,6 +854,7 @@
 
 ## Rust 
 
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [wilsonzlin/CoreNN](https://github.com/wilsonzlin/CoreNN) - Embeddable library or single binary for indexing and searching 1B vectors
