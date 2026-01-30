@@ -502,7 +502,7 @@
 - [senstella/parakeet-mlx](https://github.com/senstella/parakeet-mlx) - An implementation of the Nvidia's Parakeet models for Apple Silicon using MLX.
 - [mhumphries2323/Archive_Studio](https://github.com/mhumphries2323/Archive_Studio) - Automate archival processing of historical documents with AI
 - [Oryx-mllm/Oryx](https://github.com/Oryx-mllm/Oryx) - [ICLR 2025] MLLM for On-Demand Spatial-Temporal Understanding at Arbitrary Resolution
-- [OpenGVLab/VideoChat-Flash](https://github.com/OpenGVLab/VideoChat-Flash) - VideoChat-Flash: Hierarchical Compression for Long-Context Video Modeling
+- [OpenGVLab/VideoChat-Flash](https://github.com/OpenGVLab/VideoChat-Flash) - [ICLR2026] VideoChat-Flash: Hierarchical Compression for Long-Context Video Modeling
 - [JUNJIE99/MLVU](https://github.com/JUNJIE99/MLVU) - 🔥🔥MLVU: Multi-task Long Video Understanding Benchmark
 - [SCZwangxiao/video-FlexReduc](https://github.com/SCZwangxiao/video-FlexReduc) - Official implementation of paper AdaReTaKe: Adaptive Redundancy Reduction to Perceive Longer for Video-language Understanding
 - [amazon-science/ReFinED](https://github.com/amazon-science/ReFinED) - ReFinED is an efficient and accurate entity linking (EL) system.
@@ -545,7 +545,7 @@
 - [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald) - Preswald is a WASM packager for Python-based interactive data apps: bundle full complex data workflows, particularly visualizations, into single files, runnable completely in-browser, using Pyodide, D
 - [video-db/Director](https://github.com/video-db/Director) - AI video agents framework for next-gen video interactions and workflows.
 - [stacklok/codegate](https://github.com/stacklok/codegate) - CodeGate: Security, Workspaces and Multiplexing for AI Agentic Frameworks
-- [av/harbor](https://github.com/av/harbor) - Effortlessly run LLM backends, APIs, frontends, and services with one command.
+- [av/harbor](https://github.com/av/harbor) - One command brings a complete pre-wired LLM stack with hundreds of services to explore.
 - [CatchTheTornado/text-extract-api](https://github.com/CatchTheTornado/text-extract-api) - Document (PDF, Word, PPTX ...) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSO
 - [epuerta9/deep-research-py](https://github.com/epuerta9/deep-research-py) - save 200 a month and use deep research right in your terminal. - port of https://github.com/dzhng/deep-research but in python
 - [OpenGVLab/InternVideo](https://github.com/OpenGVLab/InternVideo) - [ECCV2024] Video Foundation Models & Data for Multimodal Understanding
