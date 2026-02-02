@@ -131,7 +131,7 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [Low-Stack-Technologies/temp](https://github.com/Low-Stack-Technologies/temp) - A temporary file server with CLI integration
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for Linux server, making it easy to manage OpenClaw agents, LLMs, websites, databases, containers, files, and scheduled tasks.
 - [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
@@ -419,7 +419,7 @@
 ## PHP 
 
 - [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno is an open-source security framework. Event tracking, threat detection, and risk scoring for any product.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno is an open-source security framework. Event tracking, threat detection, and risk scoring for any application.
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
@@ -454,7 +454,7 @@
 - [orrzohar/Video-STaR](https://github.com/orrzohar/Video-STaR) - [ICLR 2025] Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision
 - [kingsdigitallab/issa](https://github.com/kingsdigitallab/issa) - Intelligent Systems for Screen Archives
 - [datalab-to/chandra](https://github.com/datalab-to/chandra) - OCR model that handles complex tables, forms, handwriting with full layout.
-- [gmberton/image-matching-models](https://github.com/gmberton/image-matching-models) - Wrapper of 50+ image matching models with a unified interface
+- [gmberton/vismatch](https://github.com/gmberton/vismatch) - Wrapper of 50+ image matching models with a unified interface
 - [microsoft/typeagent-py](https://github.com/microsoft/typeagent-py) - Structured RAG: ingest, index, query
 - [krea-ai/realtime-video](https://github.com/krea-ai/realtime-video) - Krea Realtime 14B. An open-source realtime AI video model.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
