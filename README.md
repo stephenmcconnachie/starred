@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [AppleScript](#applescript)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -41,8 +42,13 @@
 - [XSLT](#xslt)
 - [Zig](#zig)
 
+## AppleScript 
+
+- [essandess/etv-comskip](https://github.com/essandess/etv-comskip) - Commercial Marking and Skipping for EyeTV and iTunes Exports
+
 ## C 
 
+- [erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip) - A free commercial detector
 - [wandenberg/nginx-video-thumbextractor-module](https://github.com/wandenberg/nginx-video-thumbextractor-module) - Nginx module to extract thumbs from a video file
 - [TEN-framework/ten-vad](https://github.com/TEN-framework/ten-vad) - Voice Activity Detector (VAD) : low-latency, high-performance and lightweight
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
@@ -222,7 +228,6 @@
 - [sdelements/lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
-- [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch & opensearch
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
@@ -435,6 +440,7 @@
 
 ## Python 
 
+- [superkabuki/threefive_is_scte35](https://github.com/superkabuki/threefive_is_scte35) - threefive, nobody does SCTE-35 better. Nobody.
 - [Hui-design/TSPO](https://github.com/Hui-design/TSPO) - [AAAI 2026] ✨ TSPO: Temporal Sampling Policy Optimization for Long-form Video Language Understanding
 - [Roots-Automation/GutenOCR](https://github.com/Roots-Automation/GutenOCR) - Open-source tools for training and evaluating Vision Language Models for OCR
 - [ppannuto/python-titlecase](https://github.com/ppannuto/python-titlecase) - Python library to capitalize strings as specified by the New York Times Manual of Style
@@ -932,6 +938,7 @@
 
 ## TypeScript 
 
+- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
 - [0xSero/vllm-studio](https://github.com/0xSero/vllm-studio) - 
 - [rclone-ui/rclone-ui](https://github.com/rclone-ui/rclone-ui) - The cross-platform desktop GUI for rclone & S3.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
@@ -954,6 +961,7 @@
 - [graphlit/graphlit-mcp-server](https://github.com/graphlit/graphlit-mcp-server) - Model Context Protocol (MCP) Server for Graphlit Platform
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+- [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
 - [egoist/sitefetch](https://github.com/egoist/sitefetch) - Fetch an entire site and save it as a text file (to be used with AI models).
 - [twelvelabs-io/tl-jockey](https://github.com/twelvelabs-io/tl-jockey) - Jockey is a conversational video agent.
 - [GitHamza0206/simba](https://github.com/GitHamza0206/simba) - OpenSource Production ready Customer service with built in Evals and monitoring
