@@ -238,6 +238,7 @@
 - [gsu-library/whisper-scribe](https://github.com/gsu-library/whisper-scribe) - An audio/video transcriber with diarization and transcription editing.
 - [RahulSChand/gpu_poor](https://github.com/RahulSChand/gpu_poor) - Calculate token/s & GPU memory requirement for any LLM.  Supports llama.cpp/ggml/bnb/QLoRA quantization
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+- [Shuffle/Shuffle](https://github.com/Shuffle/Shuffle) - Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.
 - [jhuckaby/performa](https://github.com/jhuckaby/performa) - A multi-server monitoring system with a web based UI.
 - [alexpinel/Dot](https://github.com/alexpinel/Dot) - Text-To-Speech, RAG, and LLMs. All local!
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
@@ -446,7 +447,7 @@
 
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [billwuhao/ComfyUI_ACE-Step](https://github.com/billwuhao/ComfyUI_ACE-Step) - ACE-Step: A Step Towards Music Generation Foundation Model
-- [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5) - The most powerful local music generation model that outperforms most commercial alternatives
+- [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5) - The most powerful local music generation model that outperforms most commercial alternatives, supporting Mac, AMD, Intel, and CUDA devices.
 - [superkabuki/threefive_is_scte35](https://github.com/superkabuki/threefive_is_scte35) - threefive, nobody does SCTE-35 better. Nobody.
 - [Hui-design/TSPO](https://github.com/Hui-design/TSPO) - [AAAI 2026] ✨ TSPO: Temporal Sampling Policy Optimization for Long-form Video Language Understanding
 - [Roots-Automation/GutenOCR](https://github.com/Roots-Automation/GutenOCR) - Open-source tools for training and evaluating Vision Language Models for OCR
@@ -907,7 +908,6 @@
 - [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 - [Tygrain/bash-ffmpeg-completion](https://github.com/Tygrain/bash-ffmpeg-completion) - 
 - [healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script) - Run a security scan on your server and identify common gaps. Get your VPS ready for production.
-- [Shuffle/Shuffle](https://github.com/Shuffle/Shuffle) - Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.
 - [mhasan49/package-manager](https://github.com/mhasan49/package-manager) - Installer script tailored for Debian/Ubuntu systems to installs necessary packages.
 - [artefactual/archivematica-docs](https://github.com/artefactual/archivematica-docs) - Archivematica documentation
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
