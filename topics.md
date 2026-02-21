@@ -300,7 +300,7 @@
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
 - [CatchTheTornado/text-extract-api](https://github.com/CatchTheTornado/text-extract-api) - Document (PDF, Word, PPTX ...) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSO
 - [artefactual-labs/amclient](https://github.com/artefactual-labs/amclient) - Archivematica API client module
-- [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
+- [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting many document formats into PDF files, and more!
 - [Frameio/python-frameio-client](https://github.com/Frameio/python-frameio-client) - Python SDK for interacting with the Frame.io API. Documentation here - https://frameio.github.io/python-frameio-client/
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 
@@ -452,7 +452,7 @@
 
 ## chrome 
 
-- [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
+- [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting many document formats into PDF files, and more!
 
 ## chrome-extension 
 
@@ -681,7 +681,7 @@
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [revdotcom/reverb](https://github.com/revdotcom/reverb) - Open source inference code for Rev's model
-- [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
+- [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting many document formats into PDF files, and more!
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [nytimes/nginx-vod-module-docker](https://github.com/nytimes/nginx-vod-module-docker) - Docker image for nginx with Kaltura's VoD module used by The New York Times
@@ -1487,7 +1487,7 @@
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [ninarao/wer_calc](https://github.com/ninarao/wer_calc) - Python script that performs word error rate (WER) calculation for a set of reference and generated text files and outputs results to csv.
 - [ninarao/WhisperGUI](https://github.com/ninarao/WhisperGUI) - A graphic interface for running Whisper locally, with options to select model, language, task, and output format.
-- [ninarao/webvtt_metadata](https://github.com/ninarao/webvtt_metadata) - Python program that embeds metadata in WebVTT files according to the FADGI Guidelines for Embedding Metadata in WebVTT Files, using a csv template file, header data from an associated parent file, and
+- [ninarao/webvtt_metadata](https://github.com/ninarao/webvtt_metadata) - Python program that embeds or revises metadata in WebVTT files according to the FADGI Guidelines for Embedding Metadata in WebVTT Files, using a csv template file, header data from an associated paren
 - [ymichael/open-codex](https://github.com/ymichael/open-codex) - Lightweight coding agent that runs in your terminal
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [emn178/online-tools](https://github.com/emn178/online-tools) - Online tools provides md2, md5, sha1, sha2, sha512, bas64, html encode / decode functions
