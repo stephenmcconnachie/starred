@@ -1386,6 +1386,7 @@
 
 ## others 
 
+- [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage
 - [stephenmcconnachie/Issa-bfi](https://github.com/stephenmcconnachie/Issa-bfi) - Intelligent Systems for Screen Archives
 - [Digital-Scholarship-Oxford/crowdsourced-data-tools](https://github.com/Digital-Scholarship-Oxford/crowdsourced-data-tools) - Crowdsourced data tools
 - [billwuhao/ComfyUI_ACE-Step](https://github.com/billwuhao/ComfyUI_ACE-Step) - ACE-Step: A Step Towards Music Generation Foundation Model
