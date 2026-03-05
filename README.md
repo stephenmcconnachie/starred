@@ -811,7 +811,7 @@
 - [carevealed/md5tool](https://github.com/carevealed/md5tool) - Python script to generate or check md5 checksums recursively for files in a directory tree.
 - [bitmovin/bitmovin-api-sdk-python](https://github.com/bitmovin/bitmovin-api-sdk-python) - Python API SDK which enables you to seamlessly integrate the Bitmovin API into your projects
 - [toddbirchard/flasklogin-tutorial](https://github.com/toddbirchard/flasklogin-tutorial) - :man_technologist: :key: Build Flask apps with user creation and log-in functionally.
-- [pytube/pytube](https://github.com/pytube/pytube) - A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.
+- [pytube/pytube](https://github.com/pytube/pytube) - Lightweight, dependency-free Python library and CLI for downloading YouTube videos, playlists, and captions.
 - [sudowork/fix_m1_rgb](https://github.com/sudowork/fix_m1_rgb) - Script that attempts to force M1 macs into RGB mode when used with monitors that are defaulting to YPbPr.
 - [SpectraLogic/ds3_python_sdk](https://github.com/SpectraLogic/ds3_python_sdk) - 
 - [alexwlchan/concurrently](https://github.com/alexwlchan/concurrently) - A snippet for running multiple, concurrent invocations of a Python function
