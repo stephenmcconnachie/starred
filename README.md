@@ -453,6 +453,7 @@
 
 ## Python 
 
+- [deedy5/ddgs](https://github.com/deedy5/ddgs) - A metasearch library that aggregates results from diverse web search services
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
 - [peteromallet/Moirae](https://github.com/peteromallet/Moirae) - 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -958,6 +959,7 @@
 
 ## TypeScript 
 
+- [TheMarco/teletext](https://github.com/TheMarco/teletext) - A full blown teletext suite. Viewer, and editor. Includes my website as a teletext stack. Reads and writes .t42 files.
 - [outsourc-e/hermes-workspace](https://github.com/outsourc-e/hermes-workspace) - Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector. Built for the Nous Research hackathon.
 - [juan294/summon](https://github.com/juan294/summon) - Launch configurable multi-pane Ghostty workspaces with one command. Native splits.
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
