@@ -300,6 +300,7 @@
 
 ## api 
 
+- [deedy5/ddgs](https://github.com/deedy5/ddgs) - A metasearch library that aggregates results from diverse web search services
 - [BlackHatDevX/openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app) - OpenSpot is a free and open-source music streaming application designed for a seamless, high-fidelity listening experience. Built with a modern tech stack, it features a beautiful, responsive UI that 
 - [drmingler/docling-api](https://github.com/drmingler/docling-api) - Easily deployable and scalable backend server that efficiently converts various document formats (pdf, docx, pptx, html, images, etc) into Markdown. With support for both CPU and GPU processing, it is
 - [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
@@ -1186,6 +1187,7 @@
 
 ## mcp 
 
+- [deedy5/ddgs](https://github.com/deedy5/ddgs) - A metasearch library that aggregates results from diverse web search services
 - [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Query Engine for AI Analytics: Build self-reasoning agents across all your live data
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -1411,6 +1413,7 @@
 
 ## others 
 
+- [TheMarco/teletext](https://github.com/TheMarco/teletext) - A full blown teletext suite. Viewer, and editor. Includes my website as a teletext stack. Reads and writes .t42 files.
 - [peteromallet/Moirae](https://github.com/peteromallet/Moirae) - 
 - [pasky/chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill) - Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open
 - [juan294/summon](https://github.com/juan294/summon) - Launch configurable multi-pane Ghostty workspaces with one command. Native splits.
@@ -1994,6 +1997,7 @@
 
 ## python 
 
+- [deedy5/ddgs](https://github.com/deedy5/ddgs) - A metasearch library that aggregates results from diverse web search services
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [ppannuto/python-titlecase](https://github.com/ppannuto/python-titlecase) - Python library to capitalize strings as specified by the New York Times Manual of Style
