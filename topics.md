@@ -70,6 +70,7 @@
 - [frontend](#frontend)
 - [gaming](#gaming)
 - [generative-ai](#generative-ai)
+- [git](#git)
 - [github](#github)
 - [go](#go)
 - [golang](#golang)
@@ -469,6 +470,7 @@
 
 ## cli 
 
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [Adembc/lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
 - [octobanana/peaclock](https://github.com/octobanana/peaclock) - A responsive and customizable clock, timer, and stopwatch for the terminal.
 - [karanb192/claude-code-hooks](https://github.com/karanb192/claude-code-hooks) - 🪝 A growing collection of useful Claude Code hooks. Copy, paste, customize.
@@ -512,6 +514,8 @@
 
 ## command-line 
 
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
@@ -622,7 +626,7 @@
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference
 - [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [DAI-Lab/RivaGAN](https://github.com/DAI-Lab/RivaGAN) - Robust video watermarking with non-differentiable adversaries.
-- [JosefAlbers/WTM](https://github.com/JosefAlbers/WTM) - Blazing fast whisper turbo for ASR (speech-to-text) tasks
+- [JosefAlbers/wtm](https://github.com/JosefAlbers/wtm) - Blazing fast whisper turbo for ASR (speech-to-text) tasks
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [izuna385/Wikia-and-Wikipedia-EL-Dataset-Creator](https://github.com/izuna385/Wikia-and-Wikipedia-EL-Dataset-Creator) - You can create datasets from Wikia/Wikipedia that can be used for entity recognition and Entity Linking. Dumps for ja-wiki and VTuber-wiki are available!
 - [mindee/doctr](https://github.com/mindee/doctr) - docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning.
@@ -795,6 +799,10 @@
 - [NVIDIA-NeMo/NeMo](https://github.com/NVIDIA-NeMo/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 
+## git 
+
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+
 ## github 
 
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
@@ -856,6 +864,8 @@
 
 ## hacktoberfest 
 
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -2220,6 +2230,8 @@
 
 ## rust 
 
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
@@ -2258,6 +2270,7 @@
 
 ## self-hosted 
 
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
 - [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
@@ -2349,6 +2362,8 @@
 
 ## terminal 
 
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [octobanana/peaclock](https://github.com/octobanana/peaclock) - A responsive and customizable clock, timer, and stopwatch for the terminal.
 - [joshjon/bliss-dircolors](https://github.com/joshjon/bliss-dircolors) - A delicate dircolors theme for ls that injects color without overwhelming your workspace - macOS friendly 
@@ -2420,6 +2435,7 @@
 
 ## ui 
 
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [da-z/llamazing](https://github.com/da-z/llamazing) - A simple Web / UI / App / Frontend to Ollama.
