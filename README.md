@@ -384,6 +384,7 @@
 
 ## Others 
 
+- [Factory-AI/factory](https://github.com/Factory-AI/factory) - Factory - Agent-Native Software Development
 - [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research
 - [joshjon/bliss-dircolors](https://github.com/joshjon/bliss-dircolors) - A delicate dircolors theme for ls that injects color without overwhelming your workspace - macOS friendly 
 - [abarrak/linux-sysops-handbook](https://github.com/abarrak/linux-sysops-handbook) - Essentials of Linux system administration.
@@ -607,7 +608,7 @@
 - [AV-EFI/collections2efi](https://github.com/AV-EFI/collections2efi) - Code used at Stiftung Deutsche Kinemathek to register AVefi compliant PIDs for collections on record in their local Adlib database
 - [ictnlp/LLaVA-Mini](https://github.com/ictnlp/LLaVA-Mini) - LLaVA-Mini is a unified large multimodal model (LMM) that can support the understanding of images, high-resolution images, and videos in an efficient manner.
 - [nationalarchives/dp-research-googletransferPOC](https://github.com/nationalarchives/dp-research-googletransferPOC) - POC scripts to test potential transfer processes for material to TNA stored in Google Drive
-- [intuitem/ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community) - CISO Assistant is a one-stop-shop GRC platform for Risk Management, AppSec, Compliance & Audit, TPRM, Privacy, and Reporting. It supports 100+ global frameworks with automatic control mapping, includi
+- [intuitem/ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community) - CISO Assistant is a one-stop-shop GRC platform for Risk Management, AppSec, Compliance & Audit, TPRM, Privacy, and Reporting. It supports 130+ global frameworks with automatic control mapping, includi
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [Lightricks/ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo) - LTX-Video Support for ComfyUI
 - [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video) - Official repository for LTX-Video
@@ -966,6 +967,7 @@
 
 ## TypeScript 
 
+- [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [TheMarco/teletext](https://github.com/TheMarco/teletext) - A full blown teletext suite. Viewer, and editor. Includes my website as a teletext stack. Reads and writes .t42 files.
 - [outsourc-e/hermes-workspace](https://github.com/outsourc-e/hermes-workspace) - Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector. Built for the Nous Research hackathon.
 - [juan294/summon](https://github.com/juan294/summon) - CLI tool that launches configurable multi-pane Ghostty workspaces with one command using native splits — no tmux needed. Features an interactive setup wizard, project registration, and layout presets.
