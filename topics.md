@@ -1447,6 +1447,7 @@
 
 ## others 
 
+- [WolframRavenwolf/hermes-ha-addon](https://github.com/WolframRavenwolf/hermes-ha-addon) - Hermes Agent Home Assistant Add-on
 - [carson2222/skills](https://github.com/carson2222/skills) - Agent Skills for AI coding agents. Compatible with Claude Code, Cursor, Copilot, Windsurf, and other skills-compatible agents.
 - [Factory-AI/factory](https://github.com/Factory-AI/factory) - Factory - Agent-Native Software Development
 - [ovachiever/droid-tings](https://github.com/ovachiever/droid-tings) - Comprehensive collection of 100+ custom Droids & 300+ Skills for FactoryAI Droid system
