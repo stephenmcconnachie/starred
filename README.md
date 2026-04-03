@@ -13,6 +13,7 @@
 - [Cython](#cython)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [Fluent](#fluent)
 - [Go](#go)
 - [Go Template](#go-template)
 - [HCL](#hcl)
@@ -48,6 +49,7 @@
 
 ## C 
 
+- [ironsh/iron-sensor](https://github.com/ironsh/iron-sensor) - An eBPF-based behavioral monitor for AI coding agents.
 - [erikkaashoek/Comskip](https://github.com/erikkaashoek/Comskip) - A free commercial detector
 - [wandenberg/nginx-video-thumbextractor-module](https://github.com/wandenberg/nginx-video-thumbextractor-module) - Nginx module to extract thumbs from a video file
 - [TEN-framework/ten-vad](https://github.com/TEN-framework/ten-vad) - Voice Activity Detector (VAD) : low-latency, high-performance and lightweight
@@ -121,8 +123,13 @@
 - [webtor-io/self-hosted](https://github.com/webtor-io/self-hosted) - Self-hosted version of webtor.io implemented as an all-in-one Docker image
 - [nytimes/nginx-vod-module-docker](https://github.com/nytimes/nginx-vod-module-docker) - Docker image for nginx with Kaltura's VoD module used by The New York Times
 
+## Fluent 
+
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+
 ## Go 
 
+- [ironsh/iron-proxy](https://github.com/ironsh/iron-proxy) - An egress firewall for untrusted workloads.
 - [Adembc/lazyssh](https://github.com/Adembc/lazyssh) - A terminal-based SSH manager inspired by lazydocker and k9s - Written in go
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [glaciers-in-archives/snowman](https://github.com/glaciers-in-archives/snowman) - A static site generator for SPARQL backends.
@@ -467,7 +474,7 @@
 - [stephenmcconnachie/Issa-bfi](https://github.com/stephenmcconnachie/Issa-bfi) - Intelligent Systems for Screen Archives
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [billwuhao/ComfyUI_ACE-Step](https://github.com/billwuhao/ComfyUI_ACE-Step) - ACE-Step: A Step Towards Music Generation Foundation Model
-- [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5) - The most powerful local music generation model that outperforms most commercial alternatives, supporting Mac, AMD, Intel, and CUDA devices.
+- [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5) - The most powerful local music generation model that outperforms almost all commercial alternatives, supporting Mac, AMD, Intel, and CUDA devices.
 - [superkabuki/threefive_is_scte35](https://github.com/superkabuki/threefive_is_scte35) - threefive, nobody does SCTE-35 better. Nobody.
 - [Hui-design/TSPO](https://github.com/Hui-design/TSPO) - [AAAI 2026] ✨ TSPO: Temporal Sampling Policy Optimization for Long-form Video Language Understanding
 - [Roots-Automation/GutenOCR](https://github.com/Roots-Automation/GutenOCR) - Open-source tools for training and evaluating Vision Language Models for OCR
@@ -902,7 +909,6 @@
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [wilsonzlin/CoreNN](https://github.com/wilsonzlin/CoreNN) - Embeddable library or single binary for indexing and searching 1B vectors
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [StarlightSearch/EmbedAnything](https://github.com/StarlightSearch/EmbedAnything) - Highly Performant, Modular, Memory Safe and Production-ready Inference, Ingestion and Indexing built in Rust 🦀
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -975,7 +981,7 @@
 - [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source screen recorder for Mac/Windows/Linux that adds auto-zooms, animated cursors, auto-captions and more to your videos.
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [TheMarco/teletext](https://github.com/TheMarco/teletext) - A full blown teletext suite. Viewer, and editor. Includes my website as a teletext stack. Reads and writes .t42 files.
-- [outsourc-e/hermes-workspace](https://github.com/outsourc-e/hermes-workspace) - Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector. Built for the Nous Research hackathon.
+- [outsourc-e/hermes-workspace](https://github.com/outsourc-e/hermes-workspace) - Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector.
 - [juan294/summon](https://github.com/juan294/summon) - CLI tool that launches configurable multi-pane Ghostty workspaces with one command using native splits — no tmux needed. Features an interactive setup wizard, project registration, and layout presets.
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage
