@@ -213,6 +213,7 @@
 
 ## ai 
 
+- [claudlos/hermes-katana](https://github.com/claudlos/hermes-katana) - State of the art security for AI agents
 - [av/harbor](https://github.com/av/harbor) - One command brings a complete pre-wired LLM stack with hundreds of services to explore.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
@@ -272,6 +273,7 @@
 
 ## ai-agents 
 
+- [claudlos/hermes-katana](https://github.com/claudlos/hermes-katana) - State of the art security for AI agents
 - [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
@@ -480,6 +482,7 @@
 
 ## cli 
 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [av/harbor](https://github.com/av/harbor) - One command brings a complete pre-wired LLM stack with hundreds of services to explore.
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -665,6 +668,7 @@
 
 ## developer-tools 
 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [karanb192/claude-code-hooks](https://github.com/karanb192/claude-code-hooks) - 🪝 A growing collection of useful Claude Code hooks. Copy, paste, customize.
 - [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - Refine high-quality datasets and visual AI models
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -1045,6 +1049,8 @@
 
 ## llm 
 
+- [claudlos/hermes-katana](https://github.com/claudlos/hermes-katana) - State of the art security for AI agents
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [av/harbor](https://github.com/av/harbor) - One command brings a complete pre-wired LLM stack with hundreds of services to explore.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
@@ -1395,6 +1401,7 @@
 
 ## open-source 
 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source screen recorder for Mac/Windows/Linux that adds auto-zooms, animated cursors, auto-captions and more to your videos.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
@@ -1461,6 +1468,11 @@
 
 ## others 
 
+- [afar1/fieldtheory-cli](https://github.com/afar1/fieldtheory-cli) - Sync and locally store all of your X/Twitter bookmarks. Free and open source CLI for Mac.
+- [cgcardona/muse](https://github.com/cgcardona/muse) - A domain-agnostic version control system for multidimensional state.
+- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interacti
+- [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [hilash/cabinet](https://github.com/hilash/cabinet) - AI-first knowledge base and startup OS
 - [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) - 
 - [ironsh/iron-sensor](https://github.com/ironsh/iron-sensor) - An eBPF-based behavioral monitor for AI coding agents.
@@ -1572,7 +1584,7 @@
 - [DAMO-NLP-SG/VideoLLaMA3](https://github.com/DAMO-NLP-SG/VideoLLaMA3) - Frontier Multimodal Foundation Models for Image and Video Understanding
 - [OpenGVLab/VideoChat-Flash](https://github.com/OpenGVLab/VideoChat-Flash) - [ICLR2026] VideoChat-Flash: Hierarchical Compression for Long-Context Video Modeling
 - [JUNJIE99/MLVU](https://github.com/JUNJIE99/MLVU) - 🔥🔥MLVU: Multi-task Long Video Understanding Benchmark
-- [SCZwangxiao/video-FlexReduc](https://github.com/SCZwangxiao/video-FlexReduc) - Official implementation of paper AdaReTaKe: Adaptive Redundancy Reduction to Perceive Longer for Video-language Understanding
+- [iLearn-Lab/ACL25-AdaReTaKe](https://github.com/iLearn-Lab/ACL25-AdaReTaKe) - Official implementation of paper AdaReTaKe: Adaptive Redundancy Reduction to Perceive Longer for Video-language Understanding
 - [simonw/llm-video-frames](https://github.com/simonw/llm-video-frames) - LLM fragment plugin to turn a video into images of different frames
 - [rzane/docker2exe](https://github.com/rzane/docker2exe) - Convert a Docker image to an executable
 - [ucbepic/TWIX](https://github.com/ucbepic/TWIX) - TWIX is an open-source data extraction tool that reconstructs structured data from documents at scale, accurately and at low cost, by inferring the shared underlying visual template across documents
@@ -2023,6 +2035,7 @@
 
 ## productivity 
 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
@@ -2273,6 +2286,7 @@
 
 ## rust 
 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
@@ -2294,6 +2308,7 @@
 
 ## security 
 
+- [claudlos/hermes-katana](https://github.com/claudlos/hermes-katana) - State of the art security for AI agents
 - [karanb192/claude-code-hooks](https://github.com/karanb192/claude-code-hooks) - 🪝 A growing collection of useful Claude Code hooks. Copy, paste, customize.
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
 - [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
@@ -2308,6 +2323,7 @@
 
 ## security-tools 
 
+- [claudlos/hermes-katana](https://github.com/claudlos/hermes-katana) - State of the art security for AI agents
 - [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 - [hillu/local-log4j-vuln-scanner](https://github.com/hillu/local-log4j-vuln-scanner) - Simple local scanner for vulnerable log4j instances
 
