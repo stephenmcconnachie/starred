@@ -205,7 +205,6 @@
 
 ## agent 
 
-- [JPeetz/Hermes-Studio](https://github.com/JPeetz/Hermes-Studio) - A full-featured web UI for Hermes Agent — chat, memory, skills, terminal, approvals and multi-agent orchestration in your browser.
 - [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 - [campfirein/byterover-cli](https://github.com/campfirein/byterover-cli) - ByteRover CLI (brv) - The portable memory layer for  autonomous coding agents (formerly Cipher)
 - [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
@@ -221,13 +220,14 @@
 
 ## ai 
 
+- [greyhaven-ai/autocontext](https://github.com/greyhaven-ai/autocontext) - a recursive self-improving harness designed to help your agents (and future iterations of those agents) succeed on any task
 - [cortexkit/opencode-magic-context](https://github.com/cortexkit/opencode-magic-context) - OpenCode plugin for Magic Context — cache-aware infinite context, cross-session memory, and background history compression for AI coding agents
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source voice synthesis studio
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [davis7dotsh/better-context](https://github.com/davis7dotsh/better-context) - A better way to get up to date context on libraries/technologies in your projects
-- [JPeetz/Hermes-Studio](https://github.com/JPeetz/Hermes-Studio) - A full-featured web UI for Hermes Agent — chat, memory, skills, terminal, approvals and multi-agent orchestration in your browser.
+- [JPeetz/Hermes-Studio](https://github.com/JPeetz/Hermes-Studio) - Web UI & dashboard for Hermes Agent — chat, memory, skills, terminal, approvals, multi-agent orchestration. Self-hosted.
 - [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent
 - [proxysoul/soulforge](https://github.com/proxysoul/soulforge) - Graph-powered code intelligence, multi-agent coding with codebase-aware AI. No more grep & pray
 - [MiniMax-AI/cli](https://github.com/MiniMax-AI/cli) - Generate text, images, video, speech, and music by MiniMax.
@@ -297,6 +297,7 @@
 
 ## ai-agents 
 
+- [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
 - [cortexkit/opencode-magic-context](https://github.com/cortexkit/opencode-magic-context) - OpenCode plugin for Magic Context — cache-aware infinite context, cross-session memory, and background history compression for AI coding agents
 - [proxysoul/soulforge](https://github.com/proxysoul/soulforge) - Graph-powered code intelligence, multi-agent coding with codebase-aware AI. No more grep & pray
 - [xaspx/hermes-control-interface](https://github.com/xaspx/hermes-control-interface) - A self-hosted web dashboard for the Hermes AI agent stack. Provides a browser-based terminal, file explorer, session overview, cron management, system metrics, and an agent status panel — all behind a
@@ -521,6 +522,7 @@
 
 ## claude-code 
 
+- [greyhaven-ai/autocontext](https://github.com/greyhaven-ai/autocontext) - a recursive self-improving harness designed to help your agents (and future iterations of those agents) succeed on any task
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [proxysoul/soulforge](https://github.com/proxysoul/soulforge) - Graph-powered code intelligence, multi-agent coding with codebase-aware AI. No more grep & pray
@@ -636,7 +638,7 @@
 ## cybersecurity 
 
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
-- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
+- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and cloud-native Web Application Firewall (WAF)
 - [intuitem/ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community) - CISO Assistant is a one-stop-shop GRC platform for Risk Management, AppSec, Compliance & Audit, TPRM, Privacy, and Reporting. It supports 130+ global frameworks with automatic control mapping, includi
 - [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
 - [Shuffle/Shuffle](https://github.com/Shuffle/Shuffle) - Shuffle: A general purpose security automation platform. Our focus is on collaboration and resource sharing.
@@ -731,6 +733,7 @@
 
 ## developer-tools 
 
+- [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
 - [dodo-reach/hermes-desktop](https://github.com/dodo-reach/hermes-desktop) - A native Mac workspace for Hermes: real SSH, real terminal, real session data.
 - [kdcokenny/opencode-worktree](https://github.com/kdcokenny/opencode-worktree) - Zero-friction git worktrees for OpenCode. Auto-spawns terminals, syncs files, cleans up on exit.
 - [kdcokenny/opencode-workspace](https://github.com/kdcokenny/opencode-workspace) - Bundled multi-agent orchestration harness for OpenCode. One install, complete control.
@@ -753,7 +756,7 @@
 
 ## devops 
 
-- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
+- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and cloud-native Web Application Firewall (WAF)
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [geerlingguy/ansible-for-devops-manuscript](https://github.com/geerlingguy/ansible-for-devops-manuscript) - Ansible for DevOps Manuscript
 - [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
@@ -777,7 +780,7 @@
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [DumbWareio/DumbAssets](https://github.com/DumbWareio/DumbAssets) - A Stupid Simple Asset Tracker
-- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
+- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and cloud-native Web Application Firewall (WAF)
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [speaches-ai/speaches](https://github.com/speaches-ai/speaches) - 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -1079,7 +1082,7 @@
 ## kubernetes 
 
 - [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
-- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
+- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and cloud-native Web Application Firewall (WAF)
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
@@ -1127,9 +1130,10 @@
 
 ## llm 
 
+- [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-- [JPeetz/Hermes-Studio](https://github.com/JPeetz/Hermes-Studio) - A full-featured web UI for Hermes Agent — chat, memory, skills, terminal, approvals and multi-agent orchestration in your browser.
+- [JPeetz/Hermes-Studio](https://github.com/JPeetz/Hermes-Studio) - Web UI & dashboard for Hermes Agent — chat, memory, skills, terminal, approvals, multi-agent orchestration. Self-hosted.
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [lucasastorian/llmwiki](https://github.com/lucasastorian/llmwiki) - Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki !
 - [campfirein/byterover-cli](https://github.com/campfirein/byterover-cli) - ByteRover CLI (brv) - The portable memory layer for  autonomous coding agents (formerly Cipher)
@@ -1323,7 +1327,9 @@
 
 ## mcp 
 
+- [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
+- [JPeetz/Hermes-Studio](https://github.com/JPeetz/Hermes-Studio) - Web UI & dashboard for Hermes Agent — chat, memory, skills, terminal, approvals, multi-agent orchestration. Self-hosted.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [lucasastorian/llmwiki](https://github.com/lucasastorian/llmwiki) - Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki !
@@ -1412,6 +1418,7 @@
 
 ## nextjs 
 
+- [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
 - [BlackHatDevX/openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app) - OpenSpot is a free and open-source music streaming application designed for a seamless, high-fidelity listening experience. Built with a modern tech stack, it features a beautiful, responsive UI that 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
@@ -1498,7 +1505,7 @@
 
 ## open-source 
 
-- [JPeetz/Hermes-Studio](https://github.com/JPeetz/Hermes-Studio) - A full-featured web UI for Hermes Agent — chat, memory, skills, terminal, approvals and multi-agent orchestration in your browser.
+- [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
@@ -1566,6 +1573,8 @@
 
 ## others 
 
+- [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper.
+- [freecodewu/hn-brand-monitoring](https://github.com/freecodewu/hn-brand-monitoring) - HN brand monitoring skill for Claude Code
 - [mnfst/manifest](https://github.com/mnfst/manifest) - Smart Model Routing for Personal AI Agents. Cut Costs up to 70% 🦞👧🦚
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
 - [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Self-healing browser harness that enables LLMs to complete any task.
@@ -2203,6 +2212,7 @@
 
 ## pwa 
 
+- [JPeetz/Hermes-Studio](https://github.com/JPeetz/Hermes-Studio) - Web UI & dashboard for Hermes Agent — chat, memory, skills, terminal, approvals, multi-agent orchestration. Self-hosted.
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 
@@ -2372,7 +2382,7 @@
 
 ## react 
 
-- [JPeetz/Hermes-Studio](https://github.com/JPeetz/Hermes-Studio) - A full-featured web UI for Hermes Agent — chat, memory, skills, terminal, approvals and multi-agent orchestration in your browser.
+- [JPeetz/Hermes-Studio](https://github.com/JPeetz/Hermes-Studio) - Web UI & dashboard for Hermes Agent — chat, memory, skills, terminal, approvals, multi-agent orchestration. Self-hosted.
 - [outsourc-e/hermes-workspace](https://github.com/outsourc-e/hermes-workspace) - Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
@@ -2457,7 +2467,7 @@
 - [asamassekou10/ship-safe](https://github.com/asamassekou10/ship-safe) - CLI security scanner built for the agentic era. Detects CI/CD misconfigs, agent permission risks, MCP tool injection, hardcoded secrets, and DMCA-flagged AI dependencies.
 - [claudlos/hermes-katana](https://github.com/claudlos/hermes-katana) - State of the art security for AI agents
 - [karanb192/claude-code-hooks](https://github.com/karanb192/claude-code-hooks) - 🪝 A growing collection of useful Claude Code hooks. Copy, paste, customize.
-- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and next-generation Web Application Firewall (WAF)
+- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and cloud-native Web Application Firewall (WAF)
 - [vernu/vps-audit](https://github.com/vernu/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [stacklok/codegate](https://github.com/stacklok/codegate) - CodeGate: Security, Workspaces and Multiplexing for AI Agentic Frameworks
@@ -2477,7 +2487,8 @@
 
 ## self-hosted 
 
-- [JPeetz/Hermes-Studio](https://github.com/JPeetz/Hermes-Studio) - A full-featured web UI for Hermes Agent — chat, memory, skills, terminal, approvals and multi-agent orchestration in your browser.
+- [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
+- [JPeetz/Hermes-Studio](https://github.com/JPeetz/Hermes-Studio) - Web UI & dashboard for Hermes Agent — chat, memory, skills, terminal, approvals, multi-agent orchestration. Self-hosted.
 - [av/harbor](https://github.com/av/harbor) - One command brings a complete pre-wired LLM stack with hundreds of services to explore.
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.
@@ -2491,6 +2502,7 @@
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [alexpinel/Dot](https://github.com/alexpinel/Dot) - Text-To-Speech, RAG, and LLMs. All local!
@@ -2530,6 +2542,7 @@
 
 ## sqlite 
 
+- [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
@@ -2625,8 +2638,9 @@
 
 ## typescript 
 
+- [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
-- [JPeetz/Hermes-Studio](https://github.com/JPeetz/Hermes-Studio) - A full-featured web UI for Hermes Agent — chat, memory, skills, terminal, approvals and multi-agent orchestration in your browser.
+- [JPeetz/Hermes-Studio](https://github.com/JPeetz/Hermes-Studio) - Web UI & dashboard for Hermes Agent — chat, memory, skills, terminal, approvals, multi-agent orchestration. Self-hosted.
 - [campfirein/byterover-cli](https://github.com/campfirein/byterover-cli) - ByteRover CLI (brv) - The portable memory layer for  autonomous coding agents (formerly Cipher)
 - [outsourc-e/hermes-workspace](https://github.com/outsourc-e/hermes-workspace) - Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector.
 - [kdcokenny/opencode-notify](https://github.com/kdcokenny/opencode-notify) - Native OS notifications for OpenCode – know when tasks complete
