@@ -78,6 +78,7 @@
 
 ## C++ 
 
+- [Luce-Org/lucebox-hub](https://github.com/Luce-Org/lucebox-hub) - Lucebox optimization hub: hand-tuned LLM inference, built for specific consumer hardware.
 - [octobanana/peaclock](https://github.com/octobanana/peaclock) - A responsive and customizable clock, timer, and stopwatch for the terminal.
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
@@ -97,6 +98,7 @@
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [shundhammer/qdirstat](https://github.com/shundhammer/qdirstat) - QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
+- [ColorlabMD/DPX_Metadata_Editor](https://github.com/ColorlabMD/DPX_Metadata_Editor) - View, Edit and Modify DPX file headers
 - [3ximus/md5-collisions](https://github.com/3ximus/md5-collisions) - MD5 collision testing
 - [IMFTool/IMFTool](https://github.com/IMFTool/IMFTool) - A tool for editing IMF CPLs and creating new versions of an existing IMF (Interoperable Master Format) package
 - [mkrufky/node-dvbtee](https://github.com/mkrufky/node-dvbtee) - MPEG2 transport stream parser for Node.js with support for television broadcast PSIP tables and descriptors
@@ -130,6 +132,7 @@
 
 ## Go 
 
+- [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents
 - [simonw/rodney](https://github.com/simonw/rodney) - CLI tool for interacting with the web
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [ironsh/iron-proxy](https://github.com/ironsh/iron-proxy) - An egress firewall for untrusted workloads.
@@ -175,6 +178,7 @@
 
 ## HTML 
 
+- [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper.
 - [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator) - Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude AI skill.
 - [TristanH/wikiwise](https://github.com/TristanH/wikiwise) - 
@@ -200,7 +204,6 @@
 - [tesseract-ocr/tessdoc](https://github.com/tesseract-ocr/tessdoc) - Tesseract documentation
 - [GLAM-Workbench/glam-workbench.github.io](https://github.com/GLAM-Workbench/glam-workbench.github.io) - 
 - [bitmovin/bitmovin-player-web-samples](https://github.com/bitmovin/bitmovin-player-web-samples) - Showcases build around the Bitmovin Adaptive Streaming Player, demonstrating usage and capabilities of the HTML5 based HLS and MPEG-DASH player, as well as the Flash based Fallback.
-- [ColorlabMD/DPX_Metadata_Editor](https://github.com/ColorlabMD/DPX_Metadata_Editor) - View, Edit and Modify DPX file headers
 - [bfidatadigipres/bfidatadigipres.github.io](https://github.com/bfidatadigipres/bfidatadigipres.github.io) - 
 - [bfi-prog-notes/bfi-prog-notes.github.io](https://github.com/bfi-prog-notes/bfi-prog-notes.github.io) - 
 - [KBNLresearch/iromlab](https://github.com/KBNLresearch/iromlab) - Loader software for automated imaging of optical media with Nimbie disc robot
@@ -403,11 +406,12 @@
 
 ## Others 
 
+- [mitkox/vllm-dflash-ddtree](https://github.com/mitkox/vllm-dflash-ddtree) - vLLM experimental implementation of DDTree with Dflash
 - [freecodewu/hn-brand-monitoring](https://github.com/freecodewu/hn-brand-monitoring) - HN brand monitoring skill for Claude Code
 - [poteto/how](https://github.com/poteto/how) - skill for explaining architecture
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
-- [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) - List of awesome design md skill files for agentic tools like Claude, Codex, and Gemini
+- [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) - List of awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools
 - [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) - Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
 - [carson2222/skills](https://github.com/carson2222/skills) - Agent Skills for AI coding agents. Compatible with Claude Code, Cursor, Copilot, Windsurf, and other skills-compatible agents.
 - [Factory-AI/factory](https://github.com/Factory-AI/factory) - Factory - Agent-Native Software Development
@@ -423,7 +427,7 @@
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [patrickloeber/llm-data-scrapers](https://github.com/patrickloeber/llm-data-scrapers) - A list of useful Open Source tools and scrapers to gather data for LLMs
 - [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) - Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation
-- [llamastack/llama-stack-apps](https://github.com/llamastack/llama-stack-apps) - Agentic components of the Llama Stack APIs
+- [ogx-ai/llama-stack-apps](https://github.com/ogx-ai/llama-stack-apps) - Agentic components of the Llama Stack APIs
 - [congruence-engine/experimenting-wikidata](https://github.com/congruence-engine/experimenting-wikidata) - Repository for the "Linking Textile Machine terms via Wikidata" investigation
 - [congruence-engine/transforming-researcher-notes](https://github.com/congruence-engine/transforming-researcher-notes) - 
 - [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
@@ -482,8 +486,9 @@
 
 ## Python 
 
+- [Einsia/OpenChronicle](https://github.com/Einsia/OpenChronicle) - 
 - [greyhaven-ai/autocontext](https://github.com/greyhaven-ai/autocontext) - a recursive self-improving harness designed to help your agents (and future iterations of those agents) succeed on any task
-- [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Self-healing browser harness that enables LLMs to complete any task.
+- [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
 - [kb-labb/easytranscriber](https://github.com/kb-labb/easytranscriber) - Speech recognition with word-level timestamps, optimized for batch inference.
@@ -577,7 +582,7 @@
 - [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel) - Open-source unified multimodal model
 - [nlweb-ai/NLWeb](https://github.com/nlweb-ai/NLWeb) - Main reference implementation for NLWeb, implemented in Python.
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Query Engine for AI Analytics: Build self-reasoning agents across all your live data
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Data Vault - A query engine for AI Agents to securely query data from any datasource
 - [TengdaHan/AutoAD](https://github.com/TengdaHan/AutoAD) - [CVPR'23 Highlight] AutoAD: Movie Description in Context.
 - [senstella/parakeet-mlx](https://github.com/senstella/parakeet-mlx) - An implementation of the Nvidia's Parakeet models for Apple Silicon using MLX.
 - [mhumphries2323/Archive_Studio](https://github.com/mhumphries2323/Archive_Studio) - Automate archival processing of historical documents with AI
@@ -938,6 +943,7 @@
 
 ## Rust 
 
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
 - [ericcurtin/inferrs](https://github.com/ericcurtin/inferrs) - A TurboQuant inference server
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -1023,11 +1029,14 @@
 
 ## TypeScript 
 
+- [plastic-labs/opencode-honcho](https://github.com/plastic-labs/opencode-honcho) - 
+- [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen IDE for building with coding agents
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
 - [cortexkit/opencode-magic-context](https://github.com/cortexkit/opencode-magic-context) - OpenCode plugin for Magic Context — cache-aware infinite context, cross-session memory, and background history compression for AI coding agents
 - [mnfst/manifest](https://github.com/mnfst/manifest) - Smart Model Routing for Personal AI Agents. Cut Costs up to 70% 🦞👧🦚
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
-- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source voice synthesis studio
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [stevibe/BenchLocal](https://github.com/stevibe/BenchLocal) - Test LLMs on real tasks. Compare models side-by-side.
 - [davis7dotsh/better-context](https://github.com/davis7dotsh/better-context) - A better way to get up to date context on libraries/technologies in your projects
@@ -1065,7 +1074,7 @@
 - [hilash/cabinet](https://github.com/hilash/cabinet) - AI-first knowledge base and startup OS
 - [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) - Desktop Companion for Hermes Agent
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
+- [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio.
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [TheMarco/teletext](https://github.com/TheMarco/teletext) - A full blown teletext suite. Viewer, and editor. Includes my website as a teletext stack. Reads and writes .t42 files.
 - [outsourc-e/hermes-workspace](https://github.com/outsourc-e/hermes-workspace) - Native web workspace for Hermes Agent — chat, terminal, memory, skills, inspector.
@@ -1083,7 +1092,7 @@
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [BlackHatDevX/openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app) - OpenSpot is a free and open-source music streaming application designed for a seamless, high-fidelity listening experience. Built with a modern tech stack, it features a beautiful, responsive UI that 
 - [HelloCSV/HelloCSV](https://github.com/HelloCSV/HelloCSV) - https://hellocsv.github.io/HelloCSV/
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 coding agent on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens proce
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
