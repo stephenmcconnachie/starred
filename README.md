@@ -132,6 +132,7 @@
 
 ## Go 
 
+- [brexhq/CrabTrap](https://github.com/brexhq/CrabTrap) - An LLM-as-a-judge HTTP proxy to secure agents in production
 - [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents
 - [simonw/rodney](https://github.com/simonw/rodney) - CLI tool for interacting with the web
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
@@ -163,7 +164,7 @@
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting many document formats into PDF files, and more!
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
-- [hillu/local-log4j-vuln-scanner](https://github.com/hillu/local-log4j-vuln-scanner) - Simple local scanner for vulnerable log4j instances
+- [hillu/local-log4j-vuln-scanner](https://github.com/hillu/local-log4j-vuln-scanner) - [Moved to Codeberg] Simple local scanner for vulnerable log4j instances
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
@@ -486,6 +487,7 @@
 
 ## Python 
 
+- [andthattoo/structured-cot](https://github.com/andthattoo/structured-cot) - Structured Chain-of-Thought
 - [Einsia/OpenChronicle](https://github.com/Einsia/OpenChronicle) - 
 - [greyhaven-ai/autocontext](https://github.com/greyhaven-ai/autocontext) - a recursive self-improving harness designed to help your agents (and future iterations of those agents) succeed on any task
 - [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
@@ -1029,6 +1031,7 @@
 
 ## TypeScript 
 
+- [ishaksebsib/opencode-tree](https://github.com/ishaksebsib/opencode-tree) - Tree plugin for the OpenCode TUI.
 - [plastic-labs/opencode-honcho](https://github.com/plastic-labs/opencode-honcho) - 
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen IDE for building with coding agents
