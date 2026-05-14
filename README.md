@@ -506,6 +506,7 @@
 - [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [jundot/omlx](https://github.com/jundot/omlx) - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
+- [falcoschaefer99-eng/michael-security-agent](https://github.com/falcoschaefer99-eng/michael-security-agent) - Michael Adams — security specialist agent for Claude Code with persistent memory, STRIDE threat modeling, and OWASP framework mappings.
 - [kb-labb/easytranscriber](https://github.com/kb-labb/easytranscriber) - Speech recognition with word-level timestamps, optimized for batch inference.
 - [kb-labb/easyaligner](https://github.com/kb-labb/easyaligner) - Forced alignment made easy
 - [asimons81/hermes-vault](https://github.com/asimons81/hermes-vault) - Hermes-native local-first credential broker, scanner, and encrypted vault.
@@ -1004,7 +1005,6 @@
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [yakuzadevopps/Hermes-Dashboard-Themes](https://github.com/yakuzadevopps/Hermes-Dashboard-Themes) - Readable custom dashboard themes for Hermes Agent.
 - [nexxeln/opencode-config](https://github.com/nexxeln/opencode-config) - my opencode config
-- [falcoschaefer99-eng/michael-security-agent](https://github.com/falcoschaefer99-eng/michael-security-agent) - Michael Adams — security specialist agent for Claude Code with persistent memory, STRIDE threat modeling, and OWASP framework mappings.
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [elkimek/honcho-self-hosted](https://github.com/elkimek/honcho-self-hosted) - Self-host Honcho memory layer for Hermes Agent — OpenRouter + Venice, no code changes
 - [WolframRavenwolf/hermes-ha-addon](https://github.com/WolframRavenwolf/hermes-ha-addon) - Hermes Agent Home Assistant Add-on
