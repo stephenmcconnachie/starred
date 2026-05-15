@@ -535,7 +535,7 @@
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [billwuhao/ComfyUI_ACE-Step](https://github.com/billwuhao/ComfyUI_ACE-Step) - ACE-Step: A Step Towards Music Generation Foundation Model
 - [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5) - The most powerful local music generation model that outperforms almost all commercial alternatives, supporting Mac, AMD, Intel, and CUDA devices.
-- [superkabuki/threefive_is_scte35](https://github.com/superkabuki/threefive_is_scte35) - threefive, nobody does SCTE-35 better. Nobody.
+- [superkabuki/threefive_is_scte35](https://github.com/superkabuki/threefive_is_scte35) - threefive is the only parser that supports SCTE-35-1 and SCTE-35-2.
 - [Hui-design/TSPO](https://github.com/Hui-design/TSPO) - [AAAI 2026] ✨ TSPO: Temporal Sampling Policy Optimization for Long-form Video Language Understanding
 - [Roots-Automation/GutenOCR](https://github.com/Roots-Automation/GutenOCR) - Open-source tools for training and evaluating Vision Language Models for OCR
 - [ppannuto/python-titlecase](https://github.com/ppannuto/python-titlecase) - Python library to capitalize strings as specified by the New York Times Manual of Style
@@ -598,7 +598,7 @@
 - [ByteDance-Seed/Bagel](https://github.com/ByteDance-Seed/Bagel) - Open-source unified multimodal model
 - [nlweb-ai/NLWeb](https://github.com/nlweb-ai/NLWeb) - Main reference implementation for NLWeb, implemented in Python.
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Data Vault - A query engine for AI Agents to securely query data from any datasource
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.
 - [TengdaHan/AutoAD](https://github.com/TengdaHan/AutoAD) - [CVPR'23 Highlight] AutoAD: Movie Description in Context.
 - [senstella/parakeet-mlx](https://github.com/senstella/parakeet-mlx) - An implementation of the Nvidia's Parakeet models for Apple Silicon using MLX.
 - [mhumphries2323/Archive_Studio](https://github.com/mhumphries2323/Archive_Studio) - Automate archival processing of historical documents with AI
@@ -807,7 +807,7 @@
 - [Vaibhavs10/on-device-llm-playground](https://github.com/Vaibhavs10/on-device-llm-playground) - A repo with scripts to test and play around with Facebook's recent llama models! 🤗
 - [NVIDIA-NeMo/NeMo](https://github.com/NVIDIA-NeMo/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 - [impira/docquery](https://github.com/impira/docquery) - An easy way to extract information from documents
-- [oobabooga/textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API.
+- [oobabooga/textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private.
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [simonw/llm-mistral](https://github.com/simonw/llm-mistral) - LLM plugin providing access to Mistral models using the Mistral API
@@ -1062,7 +1062,7 @@
 - [ishaksebsib/opencode-tree](https://github.com/ishaksebsib/opencode-tree) - Tree plugin for the OpenCode TUI.
 - [plastic-labs/opencode-honcho](https://github.com/plastic-labs/opencode-honcho) - 
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
 - [cortexkit/magic-context](https://github.com/cortexkit/magic-context) - Magic Context cache-aware infinite context, cross-session memory, and background history compression
 - [mnfst/manifest](https://github.com/mnfst/manifest) - Smart Model Routing for Agents. Cut Costs up to 70% 🦚
