@@ -226,8 +226,8 @@
 
 ## agents 
 
-- [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.
+- [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [greyhaven-ai/autocontext](https://github.com/greyhaven-ai/autocontext) - a recursive self-improving harness designed to help your agents (and future iterations of those agents) succeed on any task
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That  Learns
 - [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) - List of 67 awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools
@@ -331,10 +331,10 @@
 
 ## ai-agents 
 
+- [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.
 - [Light-Heart-Labs/DreamServer](https://github.com/Light-Heart-Labs/DreamServer) - Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud, no subscriptions.
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-- [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
 - [cortexkit/magic-context](https://github.com/cortexkit/magic-context) - Magic Context cache-aware infinite context, cross-session memory, and background history compression
 - [proxysoul/soulforge](https://github.com/proxysoul/soulforge) - Graph-powered code intelligence, multi-agent coding with codebase-aware AI. No more grep & pray
@@ -1680,7 +1680,7 @@
 - [ishaksebsib/opencode-tree](https://github.com/ishaksebsib/opencode-tree) - Tree plugin for the OpenCode TUI.
 - [plastic-labs/opencode-honcho](https://github.com/plastic-labs/opencode-honcho) - 
 - [Einsia/OpenChronicle](https://github.com/Einsia/OpenChronicle) - 
-- [Luce-Org/lucebox-hub](https://github.com/Luce-Org/lucebox-hub) - Lucebox optimization hub: hand-tuned LLM inference, built for specific consumer hardware.
+- [Luce-Org/lucebox-hub](https://github.com/Luce-Org/lucebox-hub) - Lucebox: LLM inference server built for speed for specific consumer hardware.
 - [mitkox/vllm-dflash-ddtree](https://github.com/mitkox/vllm-dflash-ddtree) - vLLM experimental implementation of DDTree with Dflash
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper.
