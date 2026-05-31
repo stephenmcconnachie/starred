@@ -133,6 +133,7 @@
 
 ## Go 
 
+- [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound
 - [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee) - Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
 - [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.
 - [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes
@@ -152,7 +153,7 @@
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [rzane/docker2exe](https://github.com/rzane/docker2exe) - Convert a Docker image to an executable
-- [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms
+- [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - AI video translation & dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTub
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [vllm-project/aibrix](https://github.com/vllm-project/aibrix) - Cost-efficient and pluggable Infrastructure components for GenAI inference
@@ -530,6 +531,7 @@
 - [cgcardona/muse](https://github.com/cgcardona/muse) - A domain-agnostic version control system for multidimensional state.
 - [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 - [av/harbor](https://github.com/av/harbor) - Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.
+- [WolframRavenwolf/hermes-ha-addon](https://github.com/WolframRavenwolf/hermes-ha-addon) - Hermes Agent Home Assistant Add-on
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [ovachiever/droid-tings](https://github.com/ovachiever/droid-tings) - Comprehensive collection of 100+ custom Droids & 300+ Skills for FactoryAI Droid system
 - [deedy5/ddgs](https://github.com/deedy5/ddgs) - A metasearch library that aggregates results from diverse web search services
@@ -1015,7 +1017,6 @@
 - [nexxeln/opencode-config](https://github.com/nexxeln/opencode-config) - my opencode config
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [elkimek/honcho-self-hosted](https://github.com/elkimek/honcho-self-hosted) - Self-host Honcho memory layer for Hermes Agent — OpenRouter + Venice, no code changes
-- [WolframRavenwolf/hermes-ha-addon](https://github.com/WolframRavenwolf/hermes-ha-addon) - Hermes Agent Home Assistant Add-on
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
@@ -1062,6 +1063,7 @@
 
 ## TypeScript 
 
+- [afar1/fieldtheory-cli](https://github.com/afar1/fieldtheory-cli) - Sync and locally store all of your X/Twitter bookmarks. Free and open source CLI for Mac.
 - [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
 - [Lex-Inc/roughdraft](https://github.com/Lex-Inc/roughdraft) - Review markdown docs in a nice interface that lets you leave comments
 - [tinyfish-io/tinyfish-cookbook](https://github.com/tinyfish-io/tinyfish-cookbook) - A collection of sample apps and recipes built with the TinyFish web agent. Open-source examples for you to learn & build!
@@ -1108,7 +1110,6 @@
 - [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) - AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built f
 - [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 - [campfirein/byterover-cli](https://github.com/campfirein/byterover-cli) - ByteRover CLI (brv) - The portable memory layer for  autonomous coding agents (formerly Cipher)
-- [afar1/fieldtheory-cli](https://github.com/afar1/fieldtheory-cli) - Sync and locally store all of your X/Twitter bookmarks. Free and open source CLI for Mac.
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interacti
 - [hilash/cabinet](https://github.com/hilash/cabinet) - AI-first knowledge base and startup OS
 - [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) - Desktop Companion for Hermes Agent
