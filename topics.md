@@ -2556,7 +2556,7 @@
 - [betagouv/react-elasticsearch](https://github.com/betagouv/react-elasticsearch) - 🛁 React + Elasticsearch - UI components for building data-driven search experiences
 - [karolkozer/planby](https://github.com/karolkozer/planby) - 
 - [cookpete/react-player](https://github.com/cookpete/react-player) - A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
-- [samvera-labs/ramp](https://github.com/samvera-labs/ramp) - Interactive, IIIF powered audio/video media player React components library. Styleguidist Docs: https://samvera-labs.github.io/ramp/
+- [samvera-labs/ramp](https://github.com/samvera-labs/ramp) - Interactive, IIIF powered audio/video media player React components library. Storybook Docs: https://samvera-labs.github.io/ramp/
 - [digirati-co-uk/canvas-panel](https://github.com/digirati-co-uk/canvas-panel) - Prototype covering the specification of Canvas Panel, and supporting components for composing bespoke IIIF viewers and lightweight experiences, conforming to the IIIF Presentation 3 specification.
 - [digirati-co-uk/timeliner](https://github.com/digirati-co-uk/timeliner) - IIIF Timeliner
 - [elastic/app-search-reference-ui-react](https://github.com/elastic/app-search-reference-ui-react) - A generic UI for use with any App Search Engine
