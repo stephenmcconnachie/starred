@@ -519,6 +519,7 @@
 
 ## Python 
 
+- [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) - SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
 - [EveryInc/hands-on-deck](https://github.com/EveryInc/hands-on-deck) - Agent-native PowerPoint manipulation — one CLI lets AI agents inspect, edit, create, and verify .pptx files through atomic JSON patches. Packaged as an Agent Skill.
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - [VigoZhao/AI-Visual-Prompt-Cookbook](https://github.com/VigoZhao/AI-Visual-Prompt-Cookbook) - Curated collection of reusable JSON prompt templates & style references for AI image generation. Updated daily.
@@ -584,7 +585,7 @@
 - [jasonclark/agentic-search](https://github.com/jasonclark/agentic-search) - Agent uses an LLM (via Ollama) and tools (Glob and Grep simulation) to investigate a document corpus.
 - [bytedance/vidi](https://github.com/bytedance/vidi) - The official repo for "Vidi: Large Multimodal Models for Video Understanding and Editing"
 - [rescuezilla/rescuezilla](https://github.com/rescuezilla/rescuezilla) - The Swiss Army Knife of System Recovery
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [FIAF/fiafcore](https://github.com/FIAF/fiafcore) - FIAFcore is an ontology for film archives.
 - [codycollier/venra](https://github.com/codycollier/venra) - Venra provides a simple, high-level api for vespa.ai
 - [abhishekkrthakur/search](https://github.com/abhishekkrthakur/search) - How to build the best search, one step at a time!
@@ -1042,7 +1043,7 @@
 - [beiyuii/personal-api-skill](https://github.com/beiyuii/personal-api-skill) - Turn your Obsidian vault into a personal identity layer — any AI agent knows who you are in 30 seconds.
 - [wondelai/skills](https://github.com/wondelai/skills) - Agent skills for Claude Code and other agentskills.io-compatible agents. See https://developertoolkit.ai for more information about skills in general.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
-- [Light-Heart-Labs/DreamServer](https://github.com/Light-Heart-Labs/DreamServer) - Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
+- [Light-Heart-Labs/ODS](https://github.com/Light-Heart-Labs/ODS) - Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
 - [egel/tmux-gruvbox](https://github.com/egel/tmux-gruvbox) - Gruvbox color scheme for Tmux.
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [yakuzadevopps/Hermes-Dashboard-Themes](https://github.com/yakuzadevopps/Hermes-Dashboard-Themes) - Readable custom dashboard themes for Hermes Agent.
