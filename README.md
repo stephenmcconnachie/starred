@@ -522,6 +522,7 @@
 
 ## Python 
 
+- [epheterson/applemusic-mcp](https://github.com/epheterson/applemusic-mcp) - MCP server for Apple Music - manage playlists, control playback, browse your library.
 - [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A CLI utility for taking screenshots of websites, recording video demos and scraping sites using JavaScript
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [HKUDS/VideoAgent](https://github.com/HKUDS/VideoAgent) - "VideoAgent: All-in-One Agentic Framework for Video Understanding, Editing, and Remaking"
