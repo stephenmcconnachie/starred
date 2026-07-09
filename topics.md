@@ -114,6 +114,7 @@
 - [lua](#lua)
 - [mac](#mac)
 - [machine-learning](#machine-learning)
+- [machine-learning-projects](#machine-learning-projects)
 - [macos](#macos)
 - [markdown](#markdown)
 - [material-design](#material-design)
@@ -205,6 +206,7 @@
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
+- [workflow](#workflow)
 - [xml](#xml)
 - [youtube](#youtube)
 - [zig](#zig)
@@ -1461,6 +1463,10 @@
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [FilmColors/VIAN](https://github.com/FilmColors/VIAN) - 
 
+## machine-learning-projects 
+
+- [AI4LAM/awesome-ai4lam](https://github.com/AI4LAM/awesome-ai4lam) - A list of awesome AI in libraries, archives, and museum collections from around the world 🕶️
+
 ## macos 
 
 - [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.
@@ -1780,6 +1786,7 @@
 
 ## others 
 
+- [epheterson/applemusic-mcp](https://github.com/epheterson/applemusic-mcp) - MCP server for Apple Music - manage playlists, control playback, browse your library.
 - [Dicklesworthstone/franken_markdown](https://github.com/Dicklesworthstone/franken_markdown) - Pure-Rust, dependency-lean, ultra-fast Markdown -&gt; beautiful all-in-one HTML & tiny optimized PDF (library + single-binary CLI: fmd)
 - [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A CLI utility for taking screenshots of websites, recording video demos and scraping sites using JavaScript
 - [davidondrej/skills](https://github.com/davidondrej/skills) - access to david ondrej's personal agent skills
@@ -3079,6 +3086,16 @@
 - [fcakyon/craft-text-detector](https://github.com/fcakyon/craft-text-detector) - Packaged, Pytorch-based, easy to use, cross-platform version of the CRAFT text detector
 - [ozmartian/vidcutter](https://github.com/ozmartian/vidcutter) - A modern yet simple multi-platform video cutter and joiner.
 - [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
+
+## workflow 
+
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- [ucbepic/docetl](https://github.com/ucbepic/docetl) - A system for agentic LLM-powered data processing and ETL
+- [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
+- [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
+- [fcakyon/craft-text-detector](https://github.com/fcakyon/craft-text-detector) - Packaged, Pytorch-based, easy to use, cross-platform version of the CRAFT text detector
 
 ## xml 
 
