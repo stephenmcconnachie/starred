@@ -80,7 +80,7 @@
 ## C++ 
 
 - [mudler/parakeet.cpp](https://github.com/mudler/parakeet.cpp) - Parakeet implementation in C++ with ggml
-- [Luce-Org/lucebox-hub](https://github.com/Luce-Org/lucebox-hub) - Fast LLM speculative inference server for consumer hardware.
+- [Luce-Org/lucebox](https://github.com/Luce-Org/lucebox) - Fast LLM speculative inference server for consumer hardware.
 - [octobanana/peaclock](https://github.com/octobanana/peaclock) - A responsive and customizable clock, timer, and stopwatch for the terminal.
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
@@ -433,7 +433,7 @@
 
 ## Makefile 
 
-- [mindsdb/minds](https://github.com/mindsdb/minds) - Delegate anything. It comes back done.
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
 
 ## Others 
 
@@ -819,7 +819,7 @@
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [keirf/greaseweazle](https://github.com/keirf/greaseweazle) - Tools for accessing a floppy drive at the raw flux level
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage your own agent platform.
 - [artefactual/automation-tools](https://github.com/artefactual/automation-tools) - Tools to aid automation of Archivematica and AtoM.
 - [allenai/OLMo](https://github.com/allenai/OLMo) - Modeling, training, eval, and inference code for OLMo
 - [argmaxinc/whisperkittools](https://github.com/argmaxinc/whisperkittools) - Python tools for WhisperKit: Model conversion, optimization and evaluation
