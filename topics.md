@@ -1833,6 +1833,7 @@
 
 ## others 
 
+- [erenciracioglu-dotcom/hermes-self-evolution](https://github.com/erenciracioglu-dotcom/hermes-self-evolution) - A self-evolving harness framework for Hermes Agent. Evolution + Critic + Verifier + Gardener cooperate to make your Hermes instance measurably more useful over time. Generic, MIT-licensed, ships empty
 - [visa/visa-vulnerability-agentic-harness](https://github.com/visa/visa-vulnerability-agentic-harness) - Visa Vulnerability Agentic Harness
 - [andrewyng/openworker](https://github.com/andrewyng/openworker) - 
 - [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) - Removes 20+ patterns of AI slop from any piece of writing.
@@ -1840,7 +1841,7 @@
 - [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) - Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
 - [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
 - [SeraphimSerapis/tool-eval-bench](https://github.com/SeraphimSerapis/tool-eval-bench) - Tool-calling quality benchmark for LLM serving stacks. 80+ deterministic scenarios testing multi-turn orchestration, safety boundaries, and structured output. Supports vLLM, SGLang, and llama.cpp.
-- [wassermanproductions/wassermans-filmmaker-suite](https://github.com/wassermanproductions/wassermans-filmmaker-suite) - Wasserman's Filmmaker Suite — ScriptBreak, Cork Board, Master Canvas, Blockout, Motion Previs Studio, Storyboard Reference Studio, Stem Studio, and the Unofficial DaVinci MCP: AI-native filmmaking fro
+- [wassermanproductions/wassermans-filmmaker-suite](https://github.com/wassermanproductions/wassermans-filmmaker-suite) - Wasserman's Filmmaker Suite — ScriptBreak, Cork Board, Master Canvas, Blockout, Motion Previs Studio, Storyboard Reference Studio, Circle Take, Stem Studio, and the Unofficial DaVinci MCP: AI-native f
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [fluxions-ai/whisperdrz](https://github.com/fluxions-ai/whisperdrz) - WhisperDRZ: a Whisper-large-v3 fine-tune that transcribes, diarizes (who said what), predicts word-level timestamps, and tags non-speech events. Inference only.
@@ -1882,7 +1883,7 @@
 - [Deep-unlearning/smol-audio](https://github.com/Deep-unlearning/smol-audio) - Practical, Colab-friendly notebooks for fine-tuning and running audio AI models
 - [nexxeln/opencode-config](https://github.com/nexxeln/opencode-config) - my opencode config
 - [dmmulroy/.dotfiles](https://github.com/dmmulroy/.dotfiles) - 
-- [GetSmallAI/SmallHarness](https://github.com/GetSmallAI/SmallHarness) - A harness for small llms
+- [morganlinton/Albatross](https://github.com/morganlinton/Albatross) - Terminal-based agent harness for running small LLMs on your Mac
 - [andthattoo/structured-cot](https://github.com/andthattoo/structured-cot) - Structured Chain-of-Thought
 - [brexhq/CrabTrap](https://github.com/brexhq/CrabTrap) - An LLM-as-a-judge HTTP proxy to secure agents in production
 - [ishaksebsib/opencode-tree](https://github.com/ishaksebsib/opencode-tree) - Tree plugin for the OpenCode TUI.
