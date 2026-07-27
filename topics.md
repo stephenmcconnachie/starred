@@ -159,6 +159,7 @@
 - [python3](#python3)
 - [pytorch](#pytorch)
 - [qt](#qt)
+- [quant](#quant)
 - [rag](#rag)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
@@ -2660,6 +2661,10 @@
 ## qt 
 
 - [shundhammer/qdirstat](https://github.com/shundhammer/qdirstat) - QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
+
+## quant 
+
+- [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings
 
 ## rag 
 
