@@ -1577,6 +1577,7 @@
 - [Monet-AI-Editor/Monet](https://github.com/Monet-AI-Editor/Monet) - Edit Videos and Design Images with Claude code or Codex
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
+- [asamassekou10/ship-safe](https://github.com/asamassekou10/ship-safe) - CLI security scanner built for the agentic era. Detects CI/CD misconfigs, agent permission risks, MCP tool injection, hardcoded secrets, and DMCA-flagged AI dependencies.
 - [JPeetz/Hermes-Studio](https://github.com/JPeetz/Hermes-Studio) - Web UI & dashboard for Hermes Agent — chat, memory, skills, terminal, approvals, multi-agent orchestration. Self-hosted.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
@@ -2625,7 +2626,7 @@
 
 ## python3 
 
-- [superkabuki/threefive_is_scte35](https://github.com/superkabuki/threefive_is_scte35) - threefive is the #1 SCTE-35 parser on the planet. If it can be done with SCTE-35,threefive can do it. MPEGTS, HLS, DASH, yes.
+- [superkabuki/threefive_is_scte35](https://github.com/superkabuki/threefive_is_scte35) - threefive is the industry leading SCTE-35 Encoder and Decoder. threefive also converts between SCTE-35 formats.  If it can be done with SCTE-35,threefive can do it. MPEGTS, HLS, DASH, yes.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [EdyVision/pii-codex](https://github.com/EdyVision/pii-codex) - A research python package for detecting, categorizing, and assessing the severity of personal identifiable information (PII)
 - [aarnphm/whispercpp](https://github.com/aarnphm/whispercpp) - Pybind11 bindings for Whisper.cpp
@@ -3090,7 +3091,7 @@
 
 - [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
-- [superkabuki/threefive_is_scte35](https://github.com/superkabuki/threefive_is_scte35) - threefive is the #1 SCTE-35 parser on the planet. If it can be done with SCTE-35,threefive can do it. MPEGTS, HLS, DASH, yes.
+- [superkabuki/threefive_is_scte35](https://github.com/superkabuki/threefive_is_scte35) - threefive is the industry leading SCTE-35 Encoder and Decoder. threefive also converts between SCTE-35 formats.  If it can be done with SCTE-35,threefive can do it. MPEGTS, HLS, DASH, yes.
 - [deepbeepmeep/Wan2GP](https://github.com/deepbeepmeep/Wan2GP) - A fast AI Video Generator for the GPU Poor. Supports Wan 2.1/2.2, LTX-2, Qwen Image, Hunyuan Video, LTX  Video and Flux.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [ictnlp/LLaVA-Mini](https://github.com/ictnlp/LLaVA-Mini) - LLaVA-Mini is a unified large multimodal model (LMM) that can support the understanding of images, high-resolution images, and videos in an efficient manner.
