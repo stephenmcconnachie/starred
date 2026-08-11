@@ -184,6 +184,7 @@
 - [sqlite](#sqlite)
 - [stable-diffusion](#stable-diffusion)
 - [statistics](#statistics)
+- [storybook](#storybook)
 - [svelte](#svelte)
 - [swift](#swift)
 - [swiftui](#swiftui)
@@ -231,7 +232,7 @@
 - [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 - [campfirein/byterover-cli](https://github.com/campfirein/byterover-cli) - ByteRover CLI (brv) - The portable memory layer for  autonomous coding agents (formerly Cipher)
 - [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - The local UI to run and train text and diffusion models, including Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [video-db/Director](https://github.com/video-db/Director) - AI video agents framework for next-gen video interactions and workflows.
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
@@ -551,7 +552,7 @@
 
 - [av/harbor](https://github.com/av/harbor) - Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
-- [Nuver-Labs/vps-audit](https://github.com/Nuver-Labs/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
+- [nuver-labs/vps-audit](https://github.com/nuver-labs/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
@@ -584,7 +585,7 @@
 ## chatgpt 
 
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - The local UI to run and train text and diffusion models, including Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
@@ -948,7 +949,7 @@
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and cloud-native Web Application Firewall (WAF)
 - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
 - [geerlingguy/ansible-for-devops-manuscript](https://github.com/geerlingguy/ansible-for-devops-manuscript) - Ansible for DevOps Manuscript
-- [Nuver-Labs/vps-audit](https://github.com/Nuver-Labs/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
+- [nuver-labs/vps-audit](https://github.com/nuver-labs/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 - [healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script) - Run a security scan on your server and identify common gaps. Get your VPS ready for production.
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
@@ -1211,7 +1212,7 @@
 - [davidberenstein1957/classy-classification](https://github.com/davidberenstein1957/classy-classification) - This repository contains an easy and intuitive approach to few-shot classification using sentence-transformers or spaCy models, or zero-shot classification with Huggingface.
 - [davidberenstein1957/concise-concepts](https://github.com/davidberenstein1957/concise-concepts) - This repository contains an easy and intuitive approach to few-shot NER using most similar expansion over spaCy embeddings. Now with entity scoring.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
-- [IIIF-Commons/parser](https://github.com/IIIF-Commons/parser) - IIIF Presentation 2 + 3 parser
+- [IIIF-Commons/parser](https://github.com/IIIF-Commons/parser) - IIIF Presentation 2, 3 + 4 parser
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
@@ -1347,7 +1348,7 @@
 - [PixlOne/logiops](https://github.com/PixlOne/logiops) - An unofficial userspace driver for HID++ Logitech devices
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 - [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models
-- [Nuver-Labs/vps-audit](https://github.com/Nuver-Labs/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
+- [nuver-labs/vps-audit](https://github.com/nuver-labs/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script) - Run a security scan on your server and identify common gaps. Get your VPS ready for production.
@@ -1383,7 +1384,7 @@
 - [av/harbor](https://github.com/av/harbor) - Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.
 - [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) - Desktop Companion for Hermes Agent
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - The local UI to run and train text and diffusion models, including Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [jasonclark/agentic-search](https://github.com/jasonclark/agentic-search) - Agent uses an LLM (via Ollama) and tools (Glob and Grep simulation) to investigate a document corpus.
@@ -1634,7 +1635,7 @@
 
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
-- [Nuver-Labs/vps-audit](https://github.com/Nuver-Labs/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
+- [nuver-labs/vps-audit](https://github.com/nuver-labs/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 
@@ -1816,7 +1817,7 @@
 - [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent) - Local First Ai Agent. Optimized for Local Ai models. Long context window. Proper tools callings. Runs privately on your device.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - The local UI to run and train text and diffusion models, including Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [adaline/gateway](https://github.com/adaline/gateway) - The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs.
@@ -1974,7 +1975,7 @@
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [cabinetai/cabinet](https://github.com/cabinetai/cabinet) - AI-first knowledge base and startup OS
 - [ironsh/iron-sensor](https://github.com/ironsh/iron-sensor) - An eBPF-based behavioral monitor for AI coding agents.
-- [ironsh/iron-proxy](https://github.com/ironsh/iron-proxy) - An egress firewall for untrusted workloads.
+- [paradigmxyz/iron-proxy](https://github.com/paradigmxyz/iron-proxy) - An egress firewall for untrusted workloads.
 - [elkimek/honcho-self-hosted](https://github.com/elkimek/honcho-self-hosted) - Self-host Honcho memory layer for Hermes Agent — OpenRouter + Venice, no code changes
 - [WolframRavenwolf/hermes-ha-addon](https://github.com/WolframRavenwolf/hermes-ha-addon) - Hermes Agent Home Assistant Add-on
 - [ovachiever/droid-tings](https://github.com/ovachiever/droid-tings) - Comprehensive collection of 100+ custom Droids & 300+ Skills for FactoryAI Droid system
@@ -2785,7 +2786,7 @@
 ## reinforcement-learning 
 
 - [autonomous-ai/autonomous-grid](https://github.com/autonomous-ai/autonomous-grid) - Your AI intranet: network the computers you already own for inference and training.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - The local UI to run and train text and diffusion models, including Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a high-performance serving framework for large language models and multimodal models.
 - [InternLM/xtuner](https://github.com/InternLM/xtuner) - A Next-Generation Training Engine Built for Ultra-Large MoE Models
 
@@ -2849,7 +2850,7 @@
 - [karanb192/claude-code-hooks](https://github.com/karanb192/claude-code-hooks) - 🪝 Claude Code hooks + an installable plugin marketplace: safety, cost, observability, productivity.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Open-source and cloud-native Web Application Firewall (WAF)
-- [Nuver-Labs/vps-audit](https://github.com/Nuver-Labs/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
+- [nuver-labs/vps-audit](https://github.com/nuver-labs/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [stacklok/codegate](https://github.com/stacklok/codegate) - CodeGate: Security, Workspaces and Multiplexing for AI Agentic Frameworks
 - [intuitem/ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community) - CISO Assistant is a one-stop-shop GRC platform for Risk Management, AppSec, Compliance & Audit, TPRM, BIA, Privacy, and Reporting. It supports 150+ global frameworks with automatic control mapping, in
@@ -2864,7 +2865,7 @@
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [asamassekou10/ship-safe](https://github.com/asamassekou10/ship-safe) - CLI security scanner built for the agentic era. Detects CI/CD misconfigs, agent permission risks, MCP tool injection, hardcoded secrets, and DMCA-flagged AI dependencies.
 - [claudlos/hermes-katana](https://github.com/claudlos/hermes-katana) - Defense-in-depth security toolkit for LLM agents — taint tracking, proxy secret guard, policy engine, and red-team benchmarking
-- [Nuver-Labs/vps-audit](https://github.com/Nuver-Labs/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
+- [nuver-labs/vps-audit](https://github.com/nuver-labs/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 - [hillu/local-log4j-vuln-scanner](https://github.com/hillu/local-log4j-vuln-scanner) - [Moved to Codeberg] Simple local scanner for vulnerable log4j instances
 
 ## self-hosted 
@@ -2882,7 +2883,7 @@
 - [JPeetz/Hermes-Studio](https://github.com/JPeetz/Hermes-Studio) - Web UI & dashboard for Hermes Agent — chat, memory, skills, terminal, approvals, multi-agent orchestration. Self-hosted.
 - [av/harbor](https://github.com/av/harbor) - Stop configuring your AI stack. Start using it. One command brings a complete pre-wired LLM stack with hundreds of services to explore.
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - The local UI to run and train text and diffusion models, including Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
 - [beclab/Olares](https://github.com/beclab/Olares) - Open-Source Personal Cloud OS for Always-On Agents
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
@@ -2907,7 +2908,7 @@
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [StarlightSearch/EmbedAnything](https://github.com/StarlightSearch/EmbedAnything) - Highly Performant, Modular, Memory Safe and Production-ready Inference, Ingestion and Indexing built in Rust 🦀
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
-- [Nuver-Labs/vps-audit](https://github.com/Nuver-Labs/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
+- [nuver-labs/vps-audit](https://github.com/nuver-labs/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 
 ## serverless 
 
@@ -2919,7 +2920,7 @@
 - [falcoschaefer99-eng/michael-security-agent](https://github.com/falcoschaefer99-eng/michael-security-agent) - Michael Adams — security specialist agent for Claude Code with persistent memory, STRIDE threat modeling, and OWASP framework mappings.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
-- [Nuver-Labs/vps-audit](https://github.com/Nuver-Labs/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
+- [nuver-labs/vps-audit](https://github.com/nuver-labs/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [herrbischoff/awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
@@ -2944,12 +2945,16 @@
 ## stable-diffusion 
 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - The local UI to run and train text and diffusion models, including Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 
 ## statistics 
 
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
+
+## storybook 
+
+- [samvera-labs/ramp](https://github.com/samvera-labs/ramp) - Interactive, IIIF powered audio/video media player React components library. Storybook Docs: https://samvera-labs.github.io/ramp/
 
 ## svelte 
 
@@ -3032,7 +3037,7 @@
 
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [Osmantic/ODS](https://github.com/Osmantic/ODS) - Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - The local UI to run and train text and diffusion models, including Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) - On-device Speech AI for Apple Silicon
 
@@ -3096,14 +3101,14 @@
 
 ## ubuntu 
 
-- [Nuver-Labs/vps-audit](https://github.com/Nuver-Labs/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
+- [nuver-labs/vps-audit](https://github.com/nuver-labs/vps-audit) - lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 - [healthyhost/audit-vps-script](https://github.com/healthyhost/audit-vps-script) - Run a security scan on your server and identify common gaps. Get your VPS ready for production.
 - [ozmartian/vidcutter](https://github.com/ozmartian/vidcutter) - A modern yet simple multi-platform video cutter and joiner.
 - [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
 
 ## ui 
 
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - The local UI to run and train text and diffusion models, including Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [da-z/llamazing](https://github.com/da-z/llamazing) - A simple Web / UI / App / Frontend to Ollama.
