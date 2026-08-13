@@ -80,7 +80,7 @@
 ## C++ 
 
 - [mudler/parakeet.cpp](https://github.com/mudler/parakeet.cpp) - Parakeet implementation in C++ with ggml
-- [Luce-Org/lucebox](https://github.com/Luce-Org/lucebox) - LLM speculative inference server for consumer hardware & heterogeneous computing
+- [Luce-Org/lucebox](https://github.com/Luce-Org/lucebox) - LLM speculative inference server for consumer & heterogeneous hardware
 - [octobanana/peaclock](https://github.com/octobanana/peaclock) - A responsive and customizable clock, timer, and stopwatch for the terminal.
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
