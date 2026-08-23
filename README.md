@@ -526,6 +526,7 @@
 
 ## Python 
 
+- [smfworks/hermes-ai-team](https://github.com/smfworks/hermes-ai-team) - Build an AI team of Hermes agents: SOUL, memory, vault, skills, nightly research, kanban, chief of staff, rituals, and Desktop Bots group chats. Agent-consumable, phase-by-phase guide by Aiona Edge.
 - [openhackai/OpenHack](https://github.com/openhackai/OpenHack) - Open Source Agentic Security Scanner
 - [datalab-to/lift](https://github.com/datalab-to/lift) - Extract structured data from documents quickly and accurately.
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
@@ -612,7 +613,6 @@
 - [bytedance/vidi](https://github.com/bytedance/vidi) - The official repo for "Vidi: Large Multimodal Models for Video Understanding and Editing"
 - [rescuezilla/rescuezilla](https://github.com/rescuezilla/rescuezilla) - The Swiss Army Knife of System Recovery
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
-- [FIAF/fiafcore](https://github.com/FIAF/fiafcore) - FIAFcore is an ontology for film archives.
 - [codycollier/venra](https://github.com/codycollier/venra) - Venra provides a simple, high-level api for vespa.ai
 - [abhishekkrthakur/search](https://github.com/abhishekkrthakur/search) - How to build the best search, one step at a time!
 - [kingsdigitallab/framesense](https://github.com/kingsdigitallab/framesense) - A modular command-line tool to process video collections.
@@ -1018,6 +1018,7 @@
 
 ## Rust 
 
+- [TheLinuxITGuy/Toolbox](https://github.com/TheLinuxITGuy/Toolbox) - Add and Remove software on Linux with the click of a button
 - [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
@@ -1141,7 +1142,7 @@
 - [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) - Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.
 - [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent) - Local First Ai Agent. Optimized for Local Ai models. Long context window. Proper tools callings. Runs privately on your device.
 - [sandst1/opencode-loop](https://github.com/sandst1/opencode-loop) - Deterministically work through tasks with a clean context in OpenCode
-- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
 - [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) - Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
 - [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform
 - [sybil-solutions/local-studio](https://github.com/sybil-solutions/local-studio) - Control panel for VLLM, Sglang, llama.cpp, exllamav3
@@ -1299,6 +1300,7 @@
 
 ## XSLT 
 
+- [FIAF/fiafcore](https://github.com/FIAF/fiafcore) - FIAFcore is an ontology for film archives.
 - [FIAF/fiafcore-bfi](https://github.com/FIAF/fiafcore-bfi) - Conformation of BFI data to FIAFcore.
 - [preservica/automated-preservation-recommendations](https://github.com/preservica/automated-preservation-recommendations) - This repository contains a Wiki of information related to recommendation preservation actions in support of Preservica Automated-Preservation functionality, as well as some basic tools for working wit
 - [dericed/xsl4metadata](https://github.com/dericed/xsl4metadata) - various xsl to do this or that
