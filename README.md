@@ -150,7 +150,7 @@
 - [simonw/rodney](https://github.com/simonw/rodney) - CLI tool for interacting with the web
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) - Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code review
-- [multica-ai/multica](https://github.com/multica-ai/multica) - Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.
 - [paradigmxyz/iron-proxy](https://github.com/paradigmxyz/iron-proxy) - An egress firewall for untrusted workloads.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
@@ -196,6 +196,7 @@
 
 ## HTML 
 
+- [cma3il/loguiops](https://github.com/cma3il/loguiops) - A user-friendly GUI for generating  `logiops` configuration files for the Logitech MX Master 3S on Linux.
 - [Dicklesworthstone/franken_markdown](https://github.com/Dicklesworthstone/franken_markdown) - Pure-Rust, dependency-lean, ultra-fast Markdown -&gt; beautiful all-in-one HTML & tiny optimized PDF (library + single-binary CLI: fmd)
 - [davanstrien/ocr-bench](https://github.com/davanstrien/ocr-bench) - Per-collection OCR leaderboards using VLM-as-judge
 - [plannotator/effective-html](https://github.com/plannotator/effective-html) - Agent skills for useful HTML artifacts, wireframes, interactive prototypes, plans, and diagrams.
@@ -526,6 +527,8 @@
 
 ## Python 
 
+- [Kometa-Team/Kometa](https://github.com/Kometa-Team/Kometa) - Python script to update metadata information for items in plex as well as automatically build collections and playlists. The Wiki Documentation is linked below.
+- [libratbag/piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
 - [smfworks/hermes-ai-team](https://github.com/smfworks/hermes-ai-team) - Build an AI team of Hermes agents: SOUL, memory, vault, skills, nightly research, kanban, chief of staff, rituals, and Desktop Bots group chats. Agent-consumable, phase-by-phase guide by Aiona Edge.
 - [openhackai/OpenHack](https://github.com/openhackai/OpenHack) - Open Source Agentic Security Scanner
 - [datalab-to/lift](https://github.com/datalab-to/lift) - Extract structured data from documents quickly and accurately.
@@ -550,7 +553,7 @@
 - [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) - SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
 - [EveryInc/hands-on-deck](https://github.com/EveryInc/hands-on-deck) - Agent-native PowerPoint manipulation — one CLI lets AI agents inspect, edit, create, and verify .pptx files through atomic JSON patches. Packaged as an Agent Skill.
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [VigoZhao/AI-Visual-Prompt-Cookbook](https://github.com/VigoZhao/AI-Visual-Prompt-Cookbook) - Curated collection of reusable JSON prompt templates & style references for AI image generation. Updated daily.
+- [VigoZhao/AI-Visual-Prompt-Cookbook](https://github.com/VigoZhao/AI-Visual-Prompt-Cookbook) - 118+ plug-and-play JSON style packs for Nano Banana Pro, GPT Image & Midjourney. Copy one JSON, get a style. Updated daily.
 - [davanstrien/uv-scripts-for-ai](https://github.com/davanstrien/uv-scripts-for-ai) - Self-contained UV scripts for data & ML tasks. Includes OCR, vision, audio & more. Run one in a command, locally or on Hugging Face Jobs. Built for humans and agents.
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
@@ -1018,9 +1021,9 @@
 
 ## Rust 
 
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 - [TheLinuxITGuy/Toolbox](https://github.com/TheLinuxITGuy/Toolbox) - Add and Remove software on Linux with the click of a button
 - [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 - [run-llama/liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
@@ -1067,6 +1070,7 @@
 
 ## Shell 
 
+- [omarchy-mac/omarchy-mac](https://github.com/omarchy-mac/omarchy-mac) - Opinionated Arch/Hyprland Setup for Apple Silicon Macs M1/M2
 - [erenciracioglu-dotcom/hermes-self-evolution](https://github.com/erenciracioglu-dotcom/hermes-self-evolution) - A self-evolving harness framework for Hermes Agent. Evolution + Critic + Verifier + Gardener cooperate to make your Hermes instance measurably more useful over time. Generic, MIT-licensed, ships empty
 - [wassermanproductions/wassermans-filmmaker-suite](https://github.com/wassermanproductions/wassermans-filmmaker-suite) - Wasserman's Filmmaker Suite — ScriptBreak, Cork Board, Master Canvas, Blockout, Motion Previs Studio, Storyboard Reference Studio, Circle Take, Stem Studio, and the Unofficial DaVinci MCP: AI-native f
 - [beiyuii/personal-api-skill](https://github.com/beiyuii/personal-api-skill) - Turn your Obsidian vault into a personal identity layer — any AI agent knows who you are in 30 seconds.
