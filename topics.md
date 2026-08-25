@@ -271,6 +271,7 @@
 - [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [greyhaven-ai/autocontext](https://github.com/greyhaven-ai/autocontext) - a recursive self-improving harness designed to help your agents (and future iterations of those agents) succeed on any task
+- [openchamber/openchamber](https://github.com/openchamber/openchamber) - Desktop and web interface for OpenCode AI agent
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That  Learns
 - [bergside/awesome-design-skills](https://github.com/bergside/awesome-design-skills) - List of 67 awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Design, Google Stitch, Codex, Cursor, and other AI tools
 - [lucasastorian/llmwiki](https://github.com/lucasastorian/llmwiki) - Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki !
@@ -388,6 +389,7 @@
 
 ## ai-agents 
 
+- [xhluca/session-migrate](https://github.com/xhluca/session-migrate) - Migrate coding agent sessions across Claude Code, Codex, Pi, OpenCode, Copilot CLI, Antigravity, Cursor, and Mistral Vibe
 - [smfworks/hermes-ai-team](https://github.com/smfworks/hermes-ai-team) - Build an AI team of Hermes agents: SOUL, memory, vault, skills, nightly research, kanban, chief of staff, rituals, and Desktop Bots group chats. Agent-consumable, phase-by-phase guide by Aiona Edge.
 - [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) - Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 - [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
@@ -630,6 +632,7 @@
 
 ## chrome-extension 
 
+- [abundantbeing/hermes-browser-extension](https://github.com/abundantbeing/hermes-browser-extension) - Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.
 - [FernandoLins8/Tab-Groups-to-Bookmarks](https://github.com/FernandoLins8/Tab-Groups-to-Bookmarks) - A Chrome extension for managing and saving your tabs and tab groups.
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
@@ -661,6 +664,7 @@
 
 ## claude-code 
 
+- [xhluca/session-migrate](https://github.com/xhluca/session-migrate) - Migrate coding agent sessions across Claude Code, Codex, Pi, OpenCode, Copilot CLI, Antigravity, Cursor, and Mistral Vibe
 - [liustack/modlens](https://github.com/liustack/modlens) - The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视
 - [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) - Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 - [epheterson/applemusic-mcp](https://github.com/epheterson/applemusic-mcp) - Apple Music MCP server: playlists, library, catalog, playback and the Up Next queue, on macOS, Windows and Linux. A Mac or an Apple Music subscription is all you need.
@@ -1512,6 +1516,7 @@
 
 ## mac 
 
+- [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 
@@ -1563,6 +1568,7 @@
 
 ## macos 
 
+- [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) - Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.
 - [epheterson/applemusic-mcp](https://github.com/epheterson/applemusic-mcp) - Apple Music MCP server: playlists, library, catalog, playback and the Up Next queue, on macOS, Windows and Linux. A Mac or an Apple Music subscription is all you need.
@@ -1903,6 +1909,8 @@
 
 ## others 
 
+- [jankeesvw/omarchy-time-machine](https://github.com/jankeesvw/omarchy-time-machine) - Scheduled restic backups for Omarchy, with a snapshot browser in the bar
+- [jankeesvw/omarchy-gmail-inbox](https://github.com/jankeesvw/omarchy-gmail-inbox) - Omarchy bar widget for your Gmail inbox: unread count in the bar, subject/sender/preview in the panel
 - [Kometa-Team/Kometa](https://github.com/Kometa-Team/Kometa) - Python script to update metadata information for items in plex as well as automatically build collections and playlists. The Wiki Documentation is linked below.
 - [cma3il/loguiops](https://github.com/cma3il/loguiops) - A user-friendly GUI for generating  `logiops` configuration files for the Logitech MX Master 3S on Linux.
 - [libratbag/piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
@@ -2007,7 +2015,7 @@
 - [different-ai/opencode-scheduler](https://github.com/different-ai/opencode-scheduler) - OpenCode plugin for scheduling recurring jobs using launchd (Mac) or systemd (Linux)
 - [firecrawl/opencode-firecrawl](https://github.com/firecrawl/opencode-firecrawl) - 
 - [Cluster444/agentic](https://github.com/Cluster444/agentic) - An agentic workflow tool that provides context engineering support for opencode
-- [llmmanorg/llmman](https://github.com/llmmanorg/llmman) - llmman manages OCI model artifacts
+- [llmmanorg/llmman](https://github.com/llmmanorg/llmman) - llmman manages OCI models
 - [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [cgcardona/muse](https://github.com/cgcardona/muse) - A domain-agnostic version control system for multidimensional state.
@@ -2232,7 +2240,7 @@
 - [arpitingle/gpu-alpha](https://github.com/arpitingle/gpu-alpha) - High Quality Resources on GPU Programming/Architecture
 - [ACMILabs/collection-chat](https://github.com/ACMILabs/collection-chat) - Uses LangChain and GPT-4 to chat with the ACMI Public API collection.
 - [X-PLUG/mPLUG-DocOwl](https://github.com/X-PLUG/mPLUG-DocOwl) - mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding
-- [DataTalksClub/llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) - LLM Zoomcamp - a free online course about real-life applications of LLMs. In 10 weeks you will learn how to build an AI system that answers questions about your knowledge base.
+- [DataTalksClub/llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) - LLM Zoomcamp - a free online course about real-life applications of LLMs. In 10 weeks you will learn how to build an AI system that answers questions about your knowledge base. Register here 👇🏼
 - [jhuckaby/performa](https://github.com/jhuckaby/performa) - A multi-server monitoring system with a web based UI.
 - [akashmjn/tinydiarize](https://github.com/akashmjn/tinydiarize) - Minimal extension of OpenAI's Whisper adding speaker diarization with special tokens
 - [JSCU-NL/COATHANGER](https://github.com/JSCU-NL/COATHANGER) - IOCs and detection script for COATHANGER malware
@@ -2263,7 +2271,7 @@
 - [Jl16ExA/Surya-OCR-Hardware-Benchmarking](https://github.com/Jl16ExA/Surya-OCR-Hardware-Benchmarking) - Surya-OCR-Hardware-Benchmarking is a repository dedicated to evaluating and analyzing the performance of the Surya OCR model across different hardware configurations. It provides tools and scripts for
 - [nateraw/audiocraft](https://github.com/nateraw/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [arun-art06/trocr-large](https://github.com/arun-art06/trocr-large) - Learn how to effortlessly convert handwritten text into editable digital text using the power of the Microsoft/Trocr-Large-Handwritten model from Hugging Face. With the help of Gradio, a user-friendly
-- [poloclub/unitable](https://github.com/poloclub/unitable) - UniTable: Towards a Unified Table Foundation Model
+- [poloclub/unitable](https://github.com/poloclub/unitable) - NeurIPS'24 Workshop - UniTable: Towards a Unified Table Foundation Model
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [datasette/datasette-extract](https://github.com/datasette/datasette-extract) - Import unstructured data (text and images) into structured tables
 - [apple/ml-mobileclip](https://github.com/apple/ml-mobileclip) - This repository contains the official implementation of the research papers, "MobileCLIP" CVPR 2024 and "MobileCLIP2" TMLR August 2025
@@ -2567,6 +2575,7 @@
 
 ## productivity 
 
+- [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [beiyuii/personal-api-skill](https://github.com/beiyuii/personal-api-skill) - Turn your Obsidian vault into a personal identity layer — any AI agent knows who you are in 30 seconds.
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -3009,6 +3018,7 @@
 
 ## swift 
 
+- [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
 - [Piecelet/neodb-app](https://github.com/Piecelet/neodb-app) - Piecelet for NeoDB App - Track and share your books, movies, music, games, performances, a pure SwiftUI client.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
