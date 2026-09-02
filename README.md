@@ -145,6 +145,7 @@
 
 ## Go 
 
+- [omarroth/doubletake](https://github.com/omarroth/doubletake) - AirPlay sender implementation for Linux (X11 & Wayland)
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
@@ -192,7 +193,6 @@
 - [hillu/local-log4j-vuln-scanner](https://github.com/hillu/local-log4j-vuln-scanner) - [Moved to Codeberg] Simple local scanner for vulnerable log4j instances
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
-- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 
 ## Go Template 
 
@@ -304,7 +304,7 @@
 - [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch & opensearch
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [jhuckaby/performa-satellite](https://github.com/jhuckaby/performa-satellite) - Remote data collector for Performa.
 - [edsu/whisper-transcript](https://github.com/edsu/whisper-transcript) - A Lit web-component for viewing a Whisper JSON transcript file
 - [gsu-library/whisper-scribe](https://github.com/gsu-library/whisper-scribe) - An audio/video transcriber with diarization and transcription editing.
@@ -362,7 +362,6 @@
 - [adrida/tracer](https://github.com/adrida/tracer) - TRACER: replace 90%+ of your LLM classification calls with a traditional ML model. Formal parity guarantees. Self-improving.
 - [Digital-Scholarship-Oxford/crowdsourced-data-tools](https://github.com/Digital-Scholarship-Oxford/crowdsourced-data-tools) - Crowdsourced data tools
 - [Chaouabti/TiamaT](https://github.com/Chaouabti/TiamaT) - 
-- [kingsdigitallab/issa](https://github.com/kingsdigitallab/issa) - Intelligent Systems for Screen Archives
 - [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
 - [paulduchesne/filmography-matching](https://github.com/paulduchesne/filmography-matching) - Creator matching between filmographic datasets.
 - [mshumer/gpt-pro-mode](https://github.com/mshumer/gpt-pro-mode) - 
@@ -440,7 +439,6 @@
 
 - [giejay/Immich-Android-TV](https://github.com/giejay/Immich-Android-TV) - An Android TV app for the self hosted photos and videos backup solution.
 - [masaic-ai-platform/AgC](https://github.com/masaic-ai-platform/AgC) - AgC is the open-core platform that powers Open Agentic Compute — a new compute substrate purpose-built for deploying, running, and orchestrating AI agents at scale.
-- [bfidatadigipres/bfi-iiif-logging](https://github.com/bfidatadigipres/bfi-iiif-logging) - Solution for BFI National archive Universal Viewer deployment, to log users in, track their interactions with the IIIF resources in UV, and output to a log.
 - [digirati-co-uk/bfi-discovery](https://github.com/digirati-co-uk/bfi-discovery) - Prototyping, discovery and documentation for the BFI viewer project.
 
 ## Lua 
@@ -515,6 +513,7 @@
 - [ProjectMirador/mirador-awesome](https://github.com/ProjectMirador/mirador-awesome) - An awesome list for Mirador's projects and plugins.
 - [IIIF/awesome-iiif](https://github.com/IIIF/awesome-iiif) - Awesome IIIF-related resources
 - [ncarboni/awesome-GLAM-semweb](https://github.com/ncarboni/awesome-GLAM-semweb) - A curated list of various semantic web and linked data resources for heritage, humanities and art history practitioners.
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [kba/awesome-ocr](https://github.com/kba/awesome-ocr) - Links to awesome OCR projects
 - [MeMAD-project/mmca](https://github.com/MeMAD-project/mmca) - MeMAD multimodal content analysis and machine translation: collection of tools and libraries
 - [MeMAD-project/interchange-formats](https://github.com/MeMAD-project/interchange-formats) - MeMAD Metadata Interchange Formats
@@ -542,9 +541,8 @@
 
 ## Python 
 
-- [yanliudesign/mono-color-skill](https://github.com/yanliudesign/mono-color-skill) - One-ink editorial print image skill — warm paper, halftone photography, active negative space, and restrained typography.
 - [bpozdena/OneDriveGUI](https://github.com/bpozdena/OneDriveGUI) - A simple GUI for OneDrive Linux client with multi-account support.
-- [xhluca/session-migrate](https://github.com/xhluca/session-migrate) - Migrate native coding-agent sessions across Claude Code, Codex, Pi, OpenCode, Copilot, Antigravity, Vibe, Muse, Qwen, Kimi, and Cursor.
+- [xhluca/session-migrate](https://github.com/xhluca/session-migrate) - Migrate coding agent sessions across 18 harnesses (Claude Code, Codex, Pi, OpenCode, Copilot, Antigravity, Vibe, Muse, Qwen, Kimi, Cursor, etc.)
 - [Kometa-Team/Kometa](https://github.com/Kometa-Team/Kometa) - Python script to update metadata information for items in plex as well as automatically build collections and playlists. The Wiki Documentation is linked below.
 - [libratbag/piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
 - [smfworks/hermes-ai-team](https://github.com/smfworks/hermes-ai-team) - Build an AI team of Hermes agents: SOUL, memory, vault, skills, nightly research, kanban, chief of staff, rituals, and Desktop Bots group chats. Agent-consumable, phase-by-phase guide by Aiona Edge.
@@ -614,7 +612,7 @@
 - [WolframRavenwolf/hermes-ha-addon](https://github.com/WolframRavenwolf/hermes-ha-addon) - Hermes Agent Home Assistant Add-on
 - [ovachiever/droid-tings](https://github.com/ovachiever/droid-tings) - Comprehensive collection of 100+ custom Droids & 300+ Skills for FactoryAI Droid system
 - [deedy5/ddgs](https://github.com/deedy5/ddgs) - A metasearch library that aggregates results from diverse web search services
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
 - [peteromallet/Moirae](https://github.com/peteromallet/Moirae) - 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [reka-ai/vllm-reka](https://github.com/reka-ai/vllm-reka) - vLLM plugin for Reka models
@@ -638,6 +636,7 @@
 - [abhishekkrthakur/search](https://github.com/abhishekkrthakur/search) - How to build the best search, one step at a time!
 - [kingsdigitallab/framesense](https://github.com/kingsdigitallab/framesense) - A modular command-line tool to process video collections.
 - [orrzohar/Video-STaR](https://github.com/orrzohar/Video-STaR) - [ICLR 2025] Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision
+- [kingsdigitallab/issa](https://github.com/kingsdigitallab/issa) - Intelligent Systems for Screen Archives
 - [datalab-to/chandra](https://github.com/datalab-to/chandra) - OCR model that handles complex tables, forms, handwriting with full layout.
 - [gmberton/vismatch](https://github.com/gmberton/vismatch) - Wrapper of 50+ image matching models with a unified interface
 - [microsoft/typeagent-py](https://github.com/microsoft/typeagent-py) - Structured RAG: ingest, index, query
@@ -720,7 +719,7 @@
 - [drmingler/smart-llm-loader](https://github.com/drmingler/smart-llm-loader) - smart-llm-loader is a lightweight yet powerful Python package that transforms any document into LLM-ready chunks. Spend less time on preprocessing headaches and more time building what matters. From R
 - [MinishLab/semhash](https://github.com/MinishLab/semhash) - Fast Multimodal Semantic Deduplication & Filtering
 - [tom-doerr/repo_posts](https://github.com/tom-doerr/repo_posts) - 
-- [The-Vibe-Company/Megaparse](https://github.com/The-Vibe-Company/Megaparse) - File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
+- [The-Vibe-Company/megaparse](https://github.com/The-Vibe-Company/megaparse) - File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a high-performance serving framework for large language models and multimodal models.
 - [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone
 - [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald) - Preswald is a WASM packager for Python-based interactive data apps: bundle full complex data workflows, particularly visualizations, into single files, runnable completely in-browser, using Pyodide, D
@@ -808,7 +807,7 @@
 - [m87-labs/moondream](https://github.com/m87-labs/moondream) - tiny vision language model
 - [BAAI-DCAI/Bunny](https://github.com/BAAI-DCAI/Bunny) - A family of lightweight multimodal models.
 - [magic-research/PLLaVA](https://github.com/magic-research/PLLaVA) - Official repository for the paper PLLaVA
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [artefactual-labs/amclient](https://github.com/artefactual-labs/amclient) - Archivematica API client module
 - [run-llama/create-llama](https://github.com/run-llama/create-llama) - The easiest way to get started with LlamaIndex
 - [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua) - [EMNLP'23, ACL'24] To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.
@@ -1023,6 +1022,7 @@
 
 ## QML 
 
+- [ETroll/omarchy-airplay](https://github.com/ETroll/omarchy-airplay) - Omarchy Airplay Plugin
 - [jankeesvw/omarchy-downloads](https://github.com/jankeesvw/omarchy-downloads) - Recent downloads in the Omarchy bar, in a window you can drag files out of
 - [jankeesvw/omarchy-text-transform](https://github.com/jankeesvw/omarchy-text-transform) - Rewrite, translate or fix text with the coding agent Omarchy already runs.
 - [jankeesvw/omarchy-workspace-name](https://github.com/jankeesvw/omarchy-workspace-name) - Omarchy bar widget: name the current workspace, and see the name in the bar
@@ -1171,14 +1171,14 @@
 ## TypeScript 
 
 - [Leon-Drq/openagentskill](https://github.com/Leon-Drq/openagentskill) - The skill layer for AI agents: npm for AI Agent Skills.
-- [diffusionstudio/editor](https://github.com/diffusionstudio/editor) - Turn your agent into a professional video editor
+- [diffusionstudio/editor](https://github.com/diffusionstudio/editor) - An open-source video editor built for agents. Edits become code, code becomes video.
 - [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) - 
 - [afar1/fieldtheory-cli](https://github.com/afar1/fieldtheory-cli) - Field Theory CLI for bookmarks, Library, commands, and agent workflows
 - [trakt/trakt-api](https://github.com/trakt/trakt-api) - The Trakt API is a RESTful API that allows developers to integrate TV show and movie tracking features into their applications. It enables access to Trakt's extensive media database and lets apps sync
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference server that profiles your hardware, recommends the best models for it, then downloads, tunes, and runs them. Use the built-in harness or connect OpenCode, Pi, Hermes, OpenClaw, C
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference server that profiles your hardware, recommends the best local models for it, then downloads, tunes, and runs them. Use the built-in harness or connect OpenCode, Pi, Hermes, OpenC
 - [liustack/modlens](https://github.com/liustack/modlens) - The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视
-- [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) - Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.
-- [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent) - Local First Ai Agent. Optimized for Local Ai models. Long context window. Proper tools callings. Runs privately on your device.
+- [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) - Free, open-source alternative to Microsoft Office with built-in AI agents — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing for macOS, Windows & Linux.
+- [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent) - Atomic Agent is a local-first AI agent. Runs open-weight models on your own machine via llama.cpp.
 - [sandst1/opencode-loop](https://github.com/sandst1/opencode-loop) - Deterministically work through tasks with a clean context in OpenCode
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
 - [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) - Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
