@@ -82,6 +82,7 @@
 
 ## C++ 
 
+- [tsouth89/omaroll](https://github.com/tsouth89/omaroll) - A fast, beautiful image and video viewer that turns your media folders into a library.
 - [soyeb-jim285/hyprfm](https://github.com/soyeb-jim285/hyprfm) - A lightweight Qt6/QML file manager for Hyprland
 - [newx/omabook](https://github.com/newx/omabook) - Native ebook library and reader for Omarchy
 - [mudler/parakeet.cpp](https://github.com/mudler/parakeet.cpp) - Parakeet implementation in C++ with ggml
@@ -204,6 +205,7 @@
 
 ## HTML 
 
+- [larashero3-dotcom/lieflat-charts](https://github.com/larashero3-dotcom/lieflat-charts) - Data visualization Skill for AI Agents, turning data into polished, interactive HTML charts. 面向 AI Agents 的数据可视化 Skill，将数据快速生成精致、可交互的 HTML 图表。
 - [cma3il/loguiops](https://github.com/cma3il/loguiops) - A user-friendly GUI for generating  `logiops` configuration files for the Logitech MX Master 3S on Linux.
 - [Dicklesworthstone/franken_markdown](https://github.com/Dicklesworthstone/franken_markdown) - Pure-Rust, dependency-lean, ultra-fast Markdown -&gt; beautiful all-in-one HTML & tiny optimized PDF (library + single-binary CLI: fmd)
 - [davanstrien/ocr-bench](https://github.com/davanstrien/ocr-bench) - Per-collection OCR leaderboards using VLM-as-judge
@@ -215,6 +217,7 @@
 - [TristanH/wikiwise](https://github.com/TristanH/wikiwise) - 
 - [ksimback/hermes-ecosystem](https://github.com/ksimback/hermes-ecosystem) - Hermes Atlas — the decision layer for Hermes Agent: install guidance, mode & skill picks, and a curated catalog of 240+ ecosystem tools with live GitHub data
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [psb1558/Cerne-font](https://github.com/psb1558/Cerne-font) - A font based on the script of the ninth-century Book of Cerne
 - [psb1558/Joscelyn-font](https://github.com/psb1558/Joscelyn-font) - An authentic secretary hand font
 - [theirstory/hyperaudio-lite-editor](https://github.com/theirstory/hyperaudio-lite-editor) - A lightweight transcript editor for editing and correcting STT generated timed transcripts
@@ -452,10 +455,11 @@
 
 ## Others 
 
+- [ForrestKnight/omarchy-forest-night-theme](https://github.com/ForrestKnight/omarchy-forest-night-theme) - Forest Night — a dark forest-green theme for Omarchy
+- [OldJobobo/omarchy-firmitas-utilitas-venustas-theme](https://github.com/OldJobobo/omarchy-firmitas-utilitas-venustas-theme) - A Strong, Useful, & Beautiful Theme for Omarchy
 - [autonomous-ai/autonomous-computer](https://github.com/autonomous-ai/autonomous-computer) - Own your compute, own your intelligence. Time to build your Personal AI Data Center.
 - [poolsideai/pool](https://github.com/poolsideai/pool) - pool is Poolside’s coding agent that runs in your terminal or integrates with any ACP-compatible editor
 - [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent.
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [alex-hyperagent/hyperagent-public-skills](https://github.com/alex-hyperagent/hyperagent-public-skills) - Free skills from the Hyperagent team
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [todotxt/todo.txt](https://github.com/todotxt/todo.txt) - ‼️ A complete primer on the whys and hows of todo.txt.
@@ -488,7 +492,6 @@
 - [arpitingle/gpu-alpha](https://github.com/arpitingle/gpu-alpha) - High Quality Resources on GPU Programming/Architecture
 - [MME-Benchmarks/Video-MME](https://github.com/MME-Benchmarks/Video-MME) - ✨✨[CVPR 2025] Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis
 - [RManLuo/Awesome-LLM-KG](https://github.com/RManLuo/Awesome-LLM-KG) - Awesome papers about unifying LLMs and KGs
-- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, 
 - [hrishioa/tough-llm-tests](https://github.com/hrishioa/tough-llm-tests) - Some tough questions to test new models.
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [watson/awesome-computer-history](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore
@@ -562,7 +565,6 @@
 - [fluxions-ai/whisperdrz](https://github.com/fluxions-ai/whisperdrz) - WhisperDRZ: a Whisper-large-v3 fine-tune that transcribes, diarizes (who said what), predicts word-level timestamps, and tags non-speech events. Inference only.
 - [epheterson/applemusic-mcp](https://github.com/epheterson/applemusic-mcp) - Apple Music MCP server: playlists, library, catalog, playback and the Up Next queue, on macOS, Windows and Linux. A Mac or an Apple Music subscription is all you need.
 - [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A CLI utility for taking screenshots of websites, recording video demos and scraping sites using JavaScript
-- [davidondrej/skills](https://github.com/davidondrej/skills) - access to david ondrej's personal agent skills
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [HKUDS/VideoAgent](https://github.com/HKUDS/VideoAgent) - [EMNLP2026] "VideoAgent: All-in-One Agentic Framework for Video Understanding and Editing, and Remaking"
 - [joeynyc/hermes-skins](https://github.com/joeynyc/hermes-skins) - Custom skins (visual themes) for the Hermes CLI agent
@@ -1022,6 +1024,7 @@
 
 ## QML 
 
+- [DanielLemky/omalaunch](https://github.com/DanielLemky/omalaunch) - Extensible command launcher for Omarchy
 - [ETroll/omarchy-airplay](https://github.com/ETroll/omarchy-airplay) - Omarchy Airplay Plugin
 - [jankeesvw/omarchy-downloads](https://github.com/jankeesvw/omarchy-downloads) - Recent downloads in the Omarchy bar, in a window you can drag files out of
 - [jankeesvw/omarchy-text-transform](https://github.com/jankeesvw/omarchy-text-transform) - Rewrite, translate or fix text with the coding agent Omarchy already runs.
@@ -1101,6 +1104,7 @@
 - [omarchy-mac/omarchy-mac](https://github.com/omarchy-mac/omarchy-mac) - Opinionated Arch/Hyprland Setup for Apple Silicon Macs M1/M2
 - [erenciracioglu-dotcom/hermes-self-evolution](https://github.com/erenciracioglu-dotcom/hermes-self-evolution) - A self-evolving harness framework for Hermes Agent. Evolution + Critic + Verifier + Gardener cooperate to make your Hermes instance measurably more useful over time. Generic, MIT-licensed, ships empty
 - [wassermanproductions/wassermans-filmmaker-suite](https://github.com/wassermanproductions/wassermans-filmmaker-suite) - Wasserman's Filmmaker Suite — ScriptBreak, Cork Board, Master Canvas, Blockout, Motion Previs Studio, Storyboard Reference Studio, Circle Take, Stem Studio, and the Unofficial DaVinci MCP: AI-native f
+- [davidondrej/skills](https://github.com/davidondrej/skills) - access to david ondrej's personal agent skills
 - [beiyuii/personal-api-skill](https://github.com/beiyuii/personal-api-skill) - Turn your Obsidian vault into a personal identity layer — any AI agent knows who you are in 30 seconds.
 - [wondelai/skills](https://github.com/wondelai/skills) - Wondel.ai Agent Skills — Business, Marketing, UX & Coding Frameworks from Bestselling Books. 50 skills + 12 guided journeys for Claude Code, Codex, Cursor & other agentskills.io agents.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
@@ -1170,12 +1174,13 @@
 
 ## TypeScript 
 
+- [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep) - Local-first search across your workspace, built for humans and AI agents.
 - [Leon-Drq/openagentskill](https://github.com/Leon-Drq/openagentskill) - The skill layer for AI agents: npm for AI Agent Skills.
 - [diffusionstudio/editor](https://github.com/diffusionstudio/editor) - An open-source video editor built for agents. Edits become code, code becomes video.
 - [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) - 
 - [afar1/fieldtheory-cli](https://github.com/afar1/fieldtheory-cli) - Field Theory CLI for bookmarks, Library, commands, and agent workflows
 - [trakt/trakt-api](https://github.com/trakt/trakt-api) - The Trakt API is a RESTful API that allows developers to integrate TV show and movie tracking features into their applications. It enables access to Trakt's extensive media database and lets apps sync
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference server that profiles your hardware, recommends the best local models for it, then downloads, tunes, and runs them. Use the built-in harness or connect OpenCode, Pi, Hermes, OpenC
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cli
 - [liustack/modlens](https://github.com/liustack/modlens) - The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视
 - [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) - Free, open-source alternative to Microsoft Office with built-in AI agents — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing for macOS, Windows & Linux.
 - [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent) - Atomic Agent is a local-first AI agent. Runs open-weight models on your own machine via llama.cpp.
@@ -1190,6 +1195,7 @@
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
 - [afar1/fieldtheory](https://github.com/afar1/fieldtheory) - Mac app to create context for agents: writing, reading, voice, terminal, bookmarks, and clipboard.
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
 - [Lex-Inc/roughdraft](https://github.com/Lex-Inc/roughdraft) - Review markdown docs in a nice interface that lets you leave comments
 - [tinyfish-io/tinyfish-cookbook](https://github.com/tinyfish-io/tinyfish-cookbook) - A collection of sample apps and recipes built with the TinyFish web agent. Open-source examples for you to learn & build!
@@ -1247,7 +1253,6 @@
 - [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Lean, fine tuned Opencode multi agent suite · Mix any models · Auto delegate tasks
 - [mohak34/opencode-notifier](https://github.com/mohak34/opencode-notifier) - OpenCode plugin for desktop notifications and sounds on permission, completion, and error events.
 - [franlol/opencode-md-table-formatter](https://github.com/franlol/opencode-md-table-formatter) - Markdown table formatter plugin for OpenCode with concealment mode support.
-- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [CyberBoyAyush/zenox](https://github.com/CyberBoyAyush/zenox) - OpenCode plugin for intelligent agent orchestration with specialized subagents and parallel background tasks.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [rclone-ui/rclone-ui](https://github.com/rclone-ui/rclone-ui) - The cross-platform GUI for rclone & S3.
@@ -1295,6 +1300,7 @@
 - [iyaja/llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
 - [Sh4yy/personal-ai](https://github.com/Sh4yy/personal-ai) - 
 - [ax-llm/ax](https://github.com/ax-llm/ax) - The pretty much "official" DSPy framework for Typescript
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, 
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
 - [ai-ng/2txt](https://github.com/ai-ng/2txt) - Image to text, fast.
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
