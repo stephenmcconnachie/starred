@@ -174,7 +174,6 @@
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [rzane/docker2exe](https://github.com/rzane/docker2exe) - Convert a Docker image to an executable
-- [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - AI video translation & dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTub
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [vllm-project/aibrix](https://github.com/vllm-project/aibrix) - Cost-efficient and pluggable Infrastructure components for GenAI inference
@@ -205,6 +204,7 @@
 
 ## HTML 
 
+- [aorumbayev/awesome-omarchy](https://github.com/aorumbayev/awesome-omarchy) - ⚡A curated list of awesome omarchy resources
 - [larashero3-dotcom/lieflat-charts](https://github.com/larashero3-dotcom/lieflat-charts) - Data visualization Skill for AI Agents, turning data into polished, interactive HTML charts. 面向 AI Agents 的数据可视化 Skill，将数据快速生成精致、可交互的 HTML 图表。
 - [cma3il/loguiops](https://github.com/cma3il/loguiops) - A user-friendly GUI for generating  `logiops` configuration files for the Logitech MX Master 3S on Linux.
 - [Dicklesworthstone/franken_markdown](https://github.com/Dicklesworthstone/franken_markdown) - Pure-Rust, dependency-lean, ultra-fast Markdown -&gt; beautiful all-in-one HTML & tiny optimized PDF (library + single-binary CLI: fmd)
@@ -275,11 +275,11 @@
 
 ## JavaScript 
 
+- [bjarneo/omarchy-workspace-layout](https://github.com/bjarneo/omarchy-workspace-layout) - Per-workspace tiling ratios for Hyprland, on Omarchy. Drag the dividers and your windows move — 25/50/25, master and stack, thirds, grid. Named layouts, per-workspace assignment, switchable profiles.
 - [scottjones/omarchy-webapp-theme](https://github.com/scottjones/omarchy-webapp-theme) - Sync the Slack web app's Light/Dark mode and main-pane background with your Omarchy theme.
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 - [abundantbeing/hermes-browser-extension](https://github.com/abundantbeing/hermes-browser-extension) - Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.
 - [nesaku/BiblioReads](https://github.com/nesaku/BiblioReads) - An Alternative Private Goodreads Front-End.
-- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [FernandoLins8/Tab-Groups-to-Bookmarks](https://github.com/FernandoLins8/Tab-Groups-to-Bookmarks) - A Chrome extension for managing and saving your tabs and tab groups.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [stemdeckapp/stemdeck](https://github.com/stemdeckapp/stemdeck) - Stemdeck is an modern stem extraction platform for musicians,producers and hobbyists, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative aud
@@ -454,6 +454,7 @@
 
 ## Others 
 
+- [OpenMouse-Project/openmouse](https://github.com/OpenMouse-Project/openmouse) - 
 - [ForrestKnight/omarchy-forest-night-theme](https://github.com/ForrestKnight/omarchy-forest-night-theme) - A mystical, nature-inspired Omarchy theme blending ethereal magic with moonlit forest ambiance.
 - [OldJobobo/omarchy-firmitas-utilitas-venustas-theme](https://github.com/OldJobobo/omarchy-firmitas-utilitas-venustas-theme) - A Strong, Useful, & Beautiful Theme for Omarchy
 - [autonomous-ai/autonomous-computer](https://github.com/autonomous-ai/autonomous-computer) - Own your compute, own your intelligence. Time to build your Personal AI Data Center.
@@ -561,6 +562,7 @@
 - [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) - Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 - [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
 - [SeraphimSerapis/tool-eval-bench](https://github.com/SeraphimSerapis/tool-eval-bench) - Tool-calling quality benchmark for LLM serving stacks. 80+ deterministic scenarios testing multi-turn orchestration, safety boundaries, and structured output. Supports vLLM, SGLang, and llama.cpp.
+- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [fluxions-ai/whisperdrz](https://github.com/fluxions-ai/whisperdrz) - WhisperDRZ: a Whisper-large-v3 fine-tune that transcribes, diarizes (who said what), predicts word-level timestamps, and tags non-speech events. Inference only.
 - [epheterson/applemusic-mcp](https://github.com/epheterson/applemusic-mcp) - Apple Music MCP server: playlists, library, catalog, playback and the Up Next queue, on macOS, Windows and Linux. A Mac or an Apple Music subscription is all you need.
 - [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A CLI utility for taking screenshots of websites, recording video demos and scraping sites using JavaScript
@@ -1024,6 +1026,7 @@
 
 ## QML 
 
+- [csfh/atmos](https://github.com/csfh/atmos) - Atmos: standalone Quickshell preferences for Omarchy
 - [DanielLemky/omalaunch](https://github.com/DanielLemky/omalaunch) - Extensible command launcher for Omarchy
 - [ETroll/omarchy-airplay](https://github.com/ETroll/omarchy-airplay) - Omarchy Airplay Plugin
 - [jankeesvw/omarchy-downloads](https://github.com/jankeesvw/omarchy-downloads) - Recent downloads in the Omarchy bar, in a window you can drag files out of
@@ -1063,7 +1066,7 @@
 - [morganlinton/Albatross](https://github.com/morganlinton/Albatross) - Open source, terminal-first AI coding agent with fully transparent multi-model routing. Local (Ollama, LM Studio, MLX, llama.cpp) or cloud, your keys, one TUI. No black box.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
-- [llmmanorg/llmman](https://github.com/llmmanorg/llmman) - llmman manages OCI models
+- [llmmanorg/llmman](https://github.com/llmmanorg/llmman) - Run any agent on any model, models stored as OCI images
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
@@ -1268,6 +1271,7 @@
 - [freeman-jiang/beatsync](https://github.com/freeman-jiang/beatsync) - 🔊 High-precision web player for multi-device audio playback and spatial audio.
 - [adaline/gateway](https://github.com/adaline/gateway) - The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs.
 - [ymichael/open-codex](https://github.com/ymichael/open-codex) - Lightweight coding agent that runs in your terminal
+- [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator) - Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, translations, and edits with Agents in one place.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [iliane5/meridian](https://github.com/iliane5/meridian) - Meridian cuts through news noise by scraping hundreds of sources, analyzing stories with AI, and delivering concise, personalized daily briefs.
 - [getomni-ai/benchmark](https://github.com/getomni-ai/benchmark) - OCR Benchmark
