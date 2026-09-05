@@ -476,6 +476,7 @@
 
 ## archlinux 
 
+- [aorumbayev/awesome-omarchy](https://github.com/aorumbayev/awesome-omarchy) - ⚡A curated list of awesome omarchy resources
 - [omacom/try-omarchy](https://github.com/omacom/try-omarchy) - Run Omarchy on MacOS without any setup.
 - [omarchy-mac/omarchy-mac](https://github.com/omarchy-mac/omarchy-mac) - Opinionated Arch/Hyprland Setup for Apple Silicon Macs M1/M2
 
@@ -517,6 +518,7 @@
 
 ## awesome 
 
+- [aorumbayev/awesome-omarchy](https://github.com/aorumbayev/awesome-omarchy) - ⚡A curated list of awesome omarchy resources
 - [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent.
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
@@ -539,6 +541,7 @@
 
 ## awesome-list 
 
+- [aorumbayev/awesome-omarchy](https://github.com/aorumbayev/awesome-omarchy) - ⚡A curated list of awesome omarchy resources
 - [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent.
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
@@ -1042,6 +1045,7 @@
 
 ## dotfiles 
 
+- [aorumbayev/awesome-omarchy](https://github.com/aorumbayev/awesome-omarchy) - ⚡A curated list of awesome omarchy resources
 - [paulsp94/omacosy](https://github.com/paulsp94/omacosy) - Pre-1.0. An omarchy-style desktop environment for macOS: tiling with a real Super key, dwindle layout, a themed status bar written for it, focus-follows-mouse, trackpad workspace swipes and a live wor
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 
@@ -1522,7 +1526,7 @@
 
 ## localization 
 
-- [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - AI video translation & dubbing tool for humans and AI Agents, powered by LLMs. Full pipeline: download, transcribe, translate, TTS dub, reformat, cover generation. 100+ languages, optimized for YouTub
+- [krillinai/OpenCreator](https://github.com/krillinai/OpenCreator) - Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, translations, and edits with Agents in one place.
 
 ## low-code 
 
@@ -1535,6 +1539,7 @@
 
 ## lua 
 
+- [bjarneo/omarchy-workspace-layout](https://github.com/bjarneo/omarchy-workspace-layout) - Per-workspace tiling ratios for Hyprland, on Omarchy. Drag the dividers and your windows move — 25/50/25, master and stack, thirds, grid. Named layouts, per-workspace assignment, switchable profiles.
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
@@ -1945,6 +1950,8 @@
 
 ## others 
 
+- [csfh/atmos](https://github.com/csfh/atmos) - Atmos: standalone Quickshell preferences for Omarchy
+- [OpenMouse-Project/openmouse](https://github.com/OpenMouse-Project/openmouse) - 
 - [ForrestKnight/omarchy-forest-night-theme](https://github.com/ForrestKnight/omarchy-forest-night-theme) - A mystical, nature-inspired Omarchy theme blending ethereal magic with moonlit forest ambiance.
 - [DanielLemky/omalaunch](https://github.com/DanielLemky/omalaunch) - Extensible command launcher for Omarchy
 - [OldJobobo/omarchy-firmitas-utilitas-venustas-theme](https://github.com/OldJobobo/omarchy-firmitas-utilitas-venustas-theme) - A Strong, Useful, & Beautiful Theme for Omarchy
@@ -2066,7 +2073,7 @@
 - [different-ai/opencode-scheduler](https://github.com/different-ai/opencode-scheduler) - OpenCode plugin for scheduling recurring jobs using launchd (Mac) or systemd (Linux)
 - [firecrawl/opencode-firecrawl](https://github.com/firecrawl/opencode-firecrawl) - 
 - [Cluster444/agentic](https://github.com/Cluster444/agentic) - An agentic workflow tool that provides context engineering support for opencode
-- [llmmanorg/llmman](https://github.com/llmmanorg/llmman) - llmman manages OCI models
+- [llmmanorg/llmman](https://github.com/llmmanorg/llmman) - Run any agent on any model, models stored as OCI images
 - [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [cgcardona/muse](https://github.com/cgcardona/muse) - A domain-agnostic version control system for multidimensional state.
