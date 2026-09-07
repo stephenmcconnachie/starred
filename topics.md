@@ -1073,7 +1073,6 @@
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [SocialGouv/archifiltre-docs](https://github.com/SocialGouv/archifiltre-docs) - Visualisez et améliorez vos arborescences de fichiers !
 
 ## embedded 
@@ -1958,6 +1957,7 @@
 
 ## others 
 
+- [blampe/rreading-glasses](https://github.com/blampe/rreading-glasses) - Corrective lenses for curmudgeonly readars in your life
 - [wbso-ai/omarchy-plugin-security-skill](https://github.com/wbso-ai/omarchy-plugin-security-skill) - Agent skill and field guide: the security pitfalls that block Omarchy plugins on the marketplace, from 5,000+ maintainer reviews
 - [gfhdhytghd/hymission](https://github.com/gfhdhytghd/hymission) - Mission control style workspace&windows overview plugin for Hyprland
 - [jondkinney/omapop](https://github.com/jondkinney/omapop) - Select text and act on it: an Omarchy popup with PopClip-compatible extensions.
