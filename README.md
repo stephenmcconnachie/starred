@@ -161,7 +161,7 @@
 - [brexhq/CrabTrap](https://github.com/brexhq/CrabTrap) - An LLM-as-a-judge HTTP proxy to secure agents in production
 - [simonw/rodney](https://github.com/simonw/rodney) - CLI tool for interacting with the web
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-- [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) - Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code review
+- [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) - Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.
 - [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.
 - [paradigmxyz/iron-proxy](https://github.com/paradigmxyz/iron-proxy) - An egress firewall for untrusted workloads.
@@ -281,6 +281,7 @@
 
 - [csfh/atmos](https://github.com/csfh/atmos) - Atmos: standalone Quickshell preferences for Omarchy
 - [bjarneo/omarchy-workspace-layout](https://github.com/bjarneo/omarchy-workspace-layout) - Per-workspace tiling ratios for Hyprland, on Omarchy. Drag the dividers and your windows move — 25/50/25, master and stack, thirds, grid. Named layouts, per-workspace assignment, switchable profiles.
+- [DanielLemky/omalaunch](https://github.com/DanielLemky/omalaunch) - Extensible command launcher for Omarchy
 - [scottjones/omarchy-webapp-theme](https://github.com/scottjones/omarchy-webapp-theme) - Sync the Slack web app's Light/Dark mode and main-pane background with your Omarchy theme.
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 - [abundantbeing/hermes-browser-extension](https://github.com/abundantbeing/hermes-browser-extension) - Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.
@@ -547,6 +548,7 @@
 
 ## Python 
 
+- [jondkinney/omapop](https://github.com/jondkinney/omapop) - Select text and act on it: an Omarchy popup with PopClip-compatible extensions.
 - [bpozdena/OneDriveGUI](https://github.com/bpozdena/OneDriveGUI) - A simple GUI for OneDrive Linux client with multi-account support.
 - [xhluca/session-migrate](https://github.com/xhluca/session-migrate) - Migrate coding agent sessions across 18 harnesses (Claude Code, Codex, Pi, OpenCode, Copilot, Antigravity, Vibe, Muse, Qwen, Kimi, Cursor, etc.)
 - [Kometa-Team/Kometa](https://github.com/Kometa-Team/Kometa) - Python script to update metadata information for items in plex as well as automatically build collections and playlists. The Wiki Documentation is linked below.
@@ -1028,8 +1030,6 @@
 
 ## QML 
 
-- [jondkinney/omapop](https://github.com/jondkinney/omapop) - Select text and act on it: an Omarchy popup with PopClip-compatible extensions.
-- [DanielLemky/omalaunch](https://github.com/DanielLemky/omalaunch) - Extensible command launcher for Omarchy
 - [ETroll/omarchy-airplay](https://github.com/ETroll/omarchy-airplay) - Omarchy Airplay Plugin
 - [jankeesvw/omarchy-downloads](https://github.com/jankeesvw/omarchy-downloads) - Recent downloads in the Omarchy bar, in a window you can drag files out of
 - [jankeesvw/omarchy-text-transform](https://github.com/jankeesvw/omarchy-text-transform) - Rewrite, translate or fix text with the coding agent Omarchy already runs.
@@ -1158,7 +1158,7 @@
 - [Tahul/space-rabbit](https://github.com/Tahul/space-rabbit) - Space Rabbit removes animations when switching macOS Spaces. Reclaim hours of your time every month!
 - [digimata/parrot](https://github.com/digimata/parrot) - Ultra-minimalist macOS dictation.
 - [digimata/quill](https://github.com/digimata/quill) - Ultra-minimalist macOS recording + transcription.
-- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+- [supertone-oss-archive/supertonic](https://github.com/supertone-oss-archive/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [uzairansaruzi/hermex](https://github.com/uzairansaruzi/hermex) - Native iPhone app for your Hermes agent
 - [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X exclusive model access! 😉 - htt
 - [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
@@ -1188,7 +1188,7 @@
 - [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) - 
 - [afar1/fieldtheory-cli](https://github.com/afar1/fieldtheory-cli) - Field Theory CLI for bookmarks, Library, commands, and agent workflows
 - [trakt/trakt-api](https://github.com/trakt/trakt-api) - The Trakt API is a RESTful API that allows developers to integrate TV show and movie tracking features into their applications. It enables access to Trakt's extensive media database and lets apps sync
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cli
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference server for Apple silicon. Profiles your Mac, recommends the best models for it, then downloads, tunes, and runs them. Plugs into Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Cod
 - [liustack/modlens](https://github.com/liustack/modlens) - The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视
 - [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) - Free, open-source alternative to Microsoft Office with built-in AI agents — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing for macOS, Windows & Linux.
 - [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent) - Atomic Agent is a local-first AI agent. Runs open-weight models on your own machine via llama.cpp.
@@ -1217,7 +1217,7 @@
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes.
 - [cortexkit/magic-context](https://github.com/cortexkit/magic-context) - Unbounded context. Memory that manages itself. One session, for life. The hippocampus for coding agents, part of CortexKit.
-- [mnfst/manifest](https://github.com/mnfst/manifest) - Connect Your Agents And Harnesses With Any Provider 🦚
+- [mnfst/llm-gateway](https://github.com/mnfst/llm-gateway) - Connect Your Agents And Harnesses With Any Provider 🦚
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
