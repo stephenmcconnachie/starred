@@ -281,7 +281,6 @@
 
 - [csfh/atmos](https://github.com/csfh/atmos) - Atmos: standalone Quickshell preferences for Omarchy
 - [bjarneo/omarchy-workspace-layout](https://github.com/bjarneo/omarchy-workspace-layout) - Per-workspace tiling ratios for Hyprland, on Omarchy. Drag the dividers and your windows move — 25/50/25, master and stack, thirds, grid. Named layouts, per-workspace assignment, switchable profiles.
-- [DanielLemky/omalaunch](https://github.com/DanielLemky/omalaunch) - Extensible command launcher for Omarchy
 - [scottjones/omarchy-webapp-theme](https://github.com/scottjones/omarchy-webapp-theme) - Sync the Slack web app's Light/Dark mode and main-pane background with your Omarchy theme.
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 - [abundantbeing/hermes-browser-extension](https://github.com/abundantbeing/hermes-browser-extension) - Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.
@@ -402,7 +401,7 @@
 - [AI4LAM/fastai4GLAMS](https://github.com/AI4LAM/fastai4GLAMS) - A study group for v4 of the fastai introduction to deep learning course with a focus on applications in GLAM settings
 - [huggingface/smol-course](https://github.com/huggingface/smol-course) - A course on aligning smol models.
 - [INESCTEC/yake](https://github.com/INESCTEC/yake) - Single-document unsupervised keyword extraction
-- [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
+- [metainternal/llama-cookbook](https://github.com/metainternal/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
 - [merveenoyan/siglip](https://github.com/merveenoyan/siglip) - Projects based on SigLIP (Zhai et. al, 2023) and Hugging Face transformers integration 🤗
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [DataTalksClub/llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) - LLM Zoomcamp - a free online course about real-life applications of LLMs. In 10 weeks you will learn how to build an AI system that answers questions about your knowledge base. Register here 👇🏼
@@ -1030,6 +1029,7 @@
 
 ## QML 
 
+- [DanielLemky/omalaunch](https://github.com/DanielLemky/omalaunch) - Extensible command launcher for Omarchy
 - [ETroll/omarchy-airplay](https://github.com/ETroll/omarchy-airplay) - Omarchy Airplay Plugin
 - [jankeesvw/omarchy-downloads](https://github.com/jankeesvw/omarchy-downloads) - Recent downloads in the Omarchy bar, in a window you can drag files out of
 - [jankeesvw/omarchy-text-transform](https://github.com/jankeesvw/omarchy-text-transform) - Rewrite, translate or fix text with the coding agent Omarchy already runs.
@@ -1188,9 +1188,9 @@
 - [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) - 
 - [afar1/fieldtheory-cli](https://github.com/afar1/fieldtheory-cli) - Field Theory CLI for bookmarks, Library, commands, and agent workflows
 - [trakt/trakt-api](https://github.com/trakt/trakt-api) - The Trakt API is a RESTful API that allows developers to integrate TV show and movie tracking features into their applications. It enables access to Trakt's extensive media database and lets apps sync
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference server for Apple silicon. Profiles your Mac, recommends the best models for it, then downloads, tunes, and runs them. Plugs into Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Cod
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference server for the hardware you already have. It profiles your machine, recommends the right models for it, then downloads, tunes, and runs them. Plug it into Pi, OpenCode, Hermes, O
 - [liustack/modlens](https://github.com/liustack/modlens) - The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视
-- [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) - Free, open-source alternative to Microsoft Office with built-in AI agents — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing for macOS, Windows & Linux.
+- [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) - Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent. Edits real .docx/.xlsx/.pptx files, converts PDF to Word on-device, bring your own key
 - [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent) - Atomic Agent is a local-first AI agent. Runs open-weight models on your own machine via llama.cpp.
 - [sandst1/opencode-loop](https://github.com/sandst1/opencode-loop) - Deterministically work through tasks with a clean context in OpenCode
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
@@ -1248,7 +1248,7 @@
 - [Cluster444/agentic](https://github.com/Cluster444/agentic) - An agentic workflow tool that provides context engineering support for opencode
 - [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) - AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built f
 - [campfirein/byterover-cli](https://github.com/campfirein/byterover-cli) - ByteRover CLI (brv) - The portable memory layer for  autonomous coding agents (formerly Cipher)
-- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local)
+- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine
 - [cabinetai/cabinet](https://github.com/cabinetai/cabinet) - AI-first knowledge base and startup OS
 - [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) - Desktop Companion for Hermes Agent
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
