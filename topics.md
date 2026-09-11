@@ -1983,7 +1983,7 @@
 - [libratbag/piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
 - [TheLinuxITGuy/Toolbox](https://github.com/TheLinuxITGuy/Toolbox) - Add and Remove software on Linux with the click of a button
 - [trakt/trakt-api](https://github.com/trakt/trakt-api) - The Trakt API is a RESTful API that allows developers to integrate TV show and movie tracking features into their applications. It enables access to Trakt's extensive media database and lets apps sync
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference server for the hardware you already have. It profiles your machine, recommends the right models for it, then downloads, tunes, and runs them. Plug it into Pi, OpenCode, Hermes, O
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source local inference engine. It runs models on the hardware you already have, whether that's a Mac, an NVIDIA or AMD GPU, or just a CPU. Plug it into Pi, OpenCode, Hermes, OpenClaw, Codex, Clau
 - [moltenbits/spaceballs](https://github.com/moltenbits/spaceballs) - Task switching focused around macOS Spaces.
 - [Tahul/space-rabbit](https://github.com/Tahul/space-rabbit) - Space Rabbit removes animations when switching macOS Spaces. Reclaim hours of your time every month!
 - [grokability/snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system
