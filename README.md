@@ -828,7 +828,7 @@
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [datasette/datasette-extract](https://github.com/datasette/datasette-extract) - Import unstructured data (text and images) into structured tables
-- [apple/ml-mobileclip](https://github.com/apple/ml-mobileclip) - This repository contains the official implementation of the research papers, "MobileCLIP" CVPR 2024 and "MobileCLIP2" TMLR August 2025
+- [apple-aiml-research/ml-mobileclip](https://github.com/apple-aiml-research/ml-mobileclip) - This repository contains the official implementation of the research papers, "MobileCLIP" CVPR 2024 and "MobileCLIP2" TMLR August 2025
 - [simonw/click-app](https://github.com/simonw/click-app) - Cookiecutter template for creating new Click command-line tools
 - [simonw/files-to-prompt](https://github.com/simonw/files-to-prompt) - Concatenate a directory full of files into a single prompt for use with LLMs
 - [yoheinakajima/mindgraph](https://github.com/yoheinakajima/mindgraph) - proof of concept prototype for generating and querying against an ever-expanding knowledge graph with ai
@@ -1136,7 +1136,6 @@
 - [dericed/dpxderiver](https://github.com/dericed/dpxderiver) - shell script for converting DPX+wav input to specific outputs of DNxHD, lossless h264 at 4:2:2 YUV 10 bit, and a streamable h264
 - [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
 - [kfrn/rainbow-video](https://github.com/kfrn/rainbow-video) - A script that takes a video and creates a hue-ordered mosaic of frame captures.
-- [bfidatadigipres/bfi-iiif-load-balancer](https://github.com/bfidatadigipres/bfi-iiif-load-balancer) - BFI's IIIF NGINX based load balancer application, to proxy user facing requests to backend applications.
 - [danielgrant/server-scripts](https://github.com/danielgrant/server-scripts) - A collection of scripts for server management, health checking and reporting
 - [dericed/framemd5cmp](https://github.com/dericed/framemd5cmp) - Present a comparison between framemd5 output of two video files.
 - [eddycolloton/INPT](https://github.com/eddycolloton/INPT) - These shell scripts are intended to automate several steps frequently performed by media conservators at the Hirshhorn Museum and Sculpture Garden (HMSG).
@@ -1198,7 +1197,7 @@
 - [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform
 - [sybil-solutions/local-studio](https://github.com/sybil-solutions/local-studio) - Control panel for VLLM, Sglang, llama.cpp, exllamav3
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
-- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1400+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
+- [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [tlehman/litprog-skill](https://github.com/tlehman/litprog-skill) - Literate programming skill for agent harnesses like Claude Code, OpenCode and Hermes Agent
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The context API to search, scrape, and interact with the web at scale. 🔥
