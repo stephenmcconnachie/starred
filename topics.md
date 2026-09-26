@@ -2025,9 +2025,9 @@
 - [moltenbits/spaceballs](https://github.com/moltenbits/spaceballs) - Task switching focused around macOS Spaces.
 - [Tahul/space-rabbit](https://github.com/Tahul/space-rabbit) - Space Rabbit removes animations when switching macOS Spaces. Reclaim hours of your time every month!
 - [grokability/snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system
-- [digimata/parrot](https://github.com/digimata/parrot) - Ultra-minimalist macOS dictation.
+- [humanitas-labs/parrot](https://github.com/humanitas-labs/parrot) - Ultra-minimalist macOS dictation.
 - [microsoft/Mage](https://github.com/microsoft/Mage) - 
-- [digimata/quill](https://github.com/digimata/quill) - Ultra-minimalist macOS recording + transcription.
+- [humanitas-labs/quill](https://github.com/humanitas-labs/quill) - Ultra-minimalist macOS recording + transcription.
 - [erenciracioglu-dotcom/hermes-self-evolution](https://github.com/erenciracioglu-dotcom/hermes-self-evolution) - A self-evolving harness framework for Hermes Agent. Evolution + Critic + Verifier + Gardener cooperate to make your Hermes instance measurably more useful over time. Generic, MIT-licensed, ships empty
 - [visa/visa-vulnerability-agentic-harness](https://github.com/visa/visa-vulnerability-agentic-harness) - Visa Vulnerability Agentic Harness
 - [andrewyng/openworker](https://github.com/andrewyng/openworker) - 
