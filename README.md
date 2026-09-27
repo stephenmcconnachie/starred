@@ -1031,6 +1031,7 @@
 
 ## QML 
 
+- [nixfred/omarchy-server-status](https://github.com/nixfred/omarchy-server-status) - Agentless server & Docker monitoring for the Omarchy bar — one read-only SSH round trip, nothing installed on your servers
 - [GreyforgeLabs/omarchy-hotbar](https://github.com/GreyforgeLabs/omarchy-hotbar) - Omarchy 4 bar plugin for Hyprland/Quickshell: fixed app slots, filesystem Places, one bounded Running drawer
 - [DanielLemky/omalaunch](https://github.com/DanielLemky/omalaunch) - Extensible command launcher for Omarchy
 - [ETroll/omarchy-airplay](https://github.com/ETroll/omarchy-airplay) - Omarchy Airplay Plugin
@@ -1061,7 +1062,7 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
-- [TheLinuxITGuy/Toolbox](https://github.com/TheLinuxITGuy/Toolbox) - Add and Remove software on Linux with the click of a button
+- [TheLinuxITGuy/Toolbox](https://github.com/TheLinuxITGuy/Toolbox) - Add/Remove software and change your mouse cursor on Linux with the click of a button
 - [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
 - [run-llama/liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
