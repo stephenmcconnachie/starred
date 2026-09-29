@@ -2091,7 +2091,7 @@
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper.
 - [freecodewu/hn-brand-monitoring](https://github.com/freecodewu/hn-brand-monitoring) - HN brand monitoring skill for Claude Code
-- [adrida/tracer](https://github.com/adrida/tracer) - TRACER: replace 90%+ of your LLM classification calls with a traditional ML model. Formal parity guarantees. Self-improving.
+- [adrida/tracer](https://github.com/adrida/tracer) - Turn LLM traces into fast ML System 1 models. Classical ML for repetitive decisions, your teacher for the rest.
 - [simonw/rodney](https://github.com/simonw/rodney) - CLI tool for interacting with the web
 - [poteto/how](https://github.com/poteto/how) - skill for explaining architecture
 - [zarazhangrui/tab-out](https://github.com/zarazhangrui/tab-out) - Keep tabs on your tabs. Turn your "New tabs" page into a mission control, so you can close them easily. Built for people who open too many tabs and never close them.
