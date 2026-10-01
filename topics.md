@@ -312,7 +312,7 @@
 - [sybil-solutions/local-studio](https://github.com/sybil-solutions/local-studio) - Control panel for VLLM, Sglang, llama.cpp, exllamav3
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X exclusive model access! 😉 - htt
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
 - [VigoZhao/AI-Visual-Prompt-Cookbook](https://github.com/VigoZhao/AI-Visual-Prompt-Cookbook) - 150+ plug-and-play JSON style prompts for Nano Banana Pro, GPT Image & Midjourney. Copy one style.json, get a consistent look. Updated daily.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [tinyfish-io/tinyfish-cookbook](https://github.com/tinyfish-io/tinyfish-cookbook) - A collection of sample apps and recipes built with the TinyFish web agent. Open-source examples for you to learn & build!
@@ -371,7 +371,7 @@
 - [AI4LAM/TeachingAndLearning](https://github.com/AI4LAM/TeachingAndLearning) - A repository to organize materials from the AI4LAM Teach and Learning Working Group
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and videos for any GitHub repository
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [INESCTEC/yake](https://github.com/INESCTEC/yake) - Single-document unsupervised keyword extraction
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -430,7 +430,7 @@
 - [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [EveryInc/hands-on-deck](https://github.com/EveryInc/hands-on-deck) - Agent-native PowerPoint manipulation — one CLI lets AI agents inspect, edit, create, and verify .pptx files through atomic JSON patches. Packaged as an Agent Skill.
 - [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
 - [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound
 - [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.
 - [Osmantic/ODS](https://github.com/Osmantic/ODS) - ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn your PC, Mac, or Linux box into a private AI server.
@@ -810,7 +810,7 @@
 
 ## code 
 
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and videos for any GitHub repository
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.
 
 ## code-quality 
 
@@ -866,7 +866,7 @@
 
 ## crawler 
 
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
 - [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tri
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
@@ -1014,6 +1014,7 @@
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [stacklok/codegate](https://github.com/stacklok/codegate) - CodeGate: Security, Workspaces and Multiplexing for AI Agentic Frameworks
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
@@ -1207,7 +1208,7 @@
 
 ## github 
 
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and videos for any GitHub repository
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.
 
 ## go 
 
@@ -1465,7 +1466,7 @@
 - [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent) - Atomic Agent is a local-first AI agent. Runs open-weight models on your own machine via llama.cpp.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [uzairansaruzi/hermex](https://github.com/uzairansaruzi/hermex) - Native iPhone app for your Hermes agent
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [Osmantic/ODS](https://github.com/Osmantic/ODS) - ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn your PC, Mac, or Linux box into a private AI server.
@@ -1515,6 +1516,7 @@
 - [ggml-org/llama.vscode](https://github.com/ggml-org/llama.vscode) - VS Code extension for LLM-assisted code/text completion
 - [intuitem/ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community) - CISO Assistant is a one-stop-shop GRC platform for Risk Management, AppSec, Compliance & Audit, TPRM, BIA, Privacy, and Reporting. It supports 200+ global frameworks with automatic control mapping, in
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.
 - [katanaml/sparrow](https://github.com/katanaml/sparrow) - Structured data extraction, instruction calling and agentic workflows with ML, LLM and Vision LLM
 - [JohnSnowLabs/spark-nlp](https://github.com/JohnSnowLabs/spark-nlp) - State of the Art Natural Language Processing
 - [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) - Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model f
@@ -1681,7 +1683,7 @@
 - [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
 - [beiyuii/personal-api-skill](https://github.com/beiyuii/personal-api-skill) - Turn your Obsidian vault into a personal identity layer — any AI agent knows who you are in 30 seconds.
 - [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
 - [afar1/fieldtheory](https://github.com/afar1/fieldtheory) - Mac app to create context for agents: writing, reading, voice, terminal, bookmarks, and clipboard.
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -1825,6 +1827,7 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.
 - [ai-ng/2txt](https://github.com/ai-ng/2txt) - Image to text, fast.
 
 ## nlp 
@@ -2015,7 +2018,7 @@
 - [soyeb-jim285/hyprfm](https://github.com/soyeb-jim285/hyprfm) - A lightweight Qt6/QML file manager for Hyprland
 - [scottjones/omarchy-webapp-theme](https://github.com/scottjones/omarchy-webapp-theme) - Sync the Slack web app's Light/Dark mode and main-pane background with your Omarchy theme.
 - [newx/omabook](https://github.com/newx/omabook) - Native ebook library and reader for Omarchy
-- [diffusionstudio/editor](https://github.com/diffusionstudio/editor) - An open-source video editor built for agents. Edits become code, code becomes video.
+- [diffusionstudio/editor](https://github.com/diffusionstudio/editor) - The VS Code of video editing, built for agents.
 - [autonomous-ai/autonomous-computer](https://github.com/autonomous-ai/autonomous-computer) - Own your compute, own your intelligence. Time to build your Personal AI Data Center.
 - [patcastle/omarchy-battery-health](https://github.com/patcastle/omarchy-battery-health) - Omarchy power widget with battery charge protection
 - [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) - 
@@ -2025,7 +2028,7 @@
 - [libratbag/piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
 - [TheLinuxITGuy/Toolbox](https://github.com/TheLinuxITGuy/Toolbox) - Add/Remove software and change your mouse cursor on Linux with the click of a button
 - [trakt/trakt-api](https://github.com/trakt/trakt-api) - The Trakt API is a RESTful API that allows developers to integrate TV show and movie tracking features into their applications. It enables access to Trakt's extensive media database and lets apps sync
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AM
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple 
 - [moltenbits/spaceballs](https://github.com/moltenbits/spaceballs) - Task switching focused around macOS Spaces.
 - [Tahul/space-rabbit](https://github.com/Tahul/space-rabbit) - Space Rabbit removes animations when switching macOS Spaces. Reclaim hours of your time every month!
 - [grokability/snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system
@@ -2091,7 +2094,7 @@
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper.
 - [freecodewu/hn-brand-monitoring](https://github.com/freecodewu/hn-brand-monitoring) - HN brand monitoring skill for Claude Code
-- [adrida/tracer](https://github.com/adrida/tracer) - Turn LLM traces into fast ML System 1 models. Classical ML for repetitive decisions, your teacher for the rest.
+- [adrida/tracer](https://github.com/adrida/tracer) - Distill your LLM traces into a fast hybrid System 1 models. Open-source ML + LLM inference with calibrated deferral.
 - [simonw/rodney](https://github.com/simonw/rodney) - CLI tool for interacting with the web
 - [poteto/how](https://github.com/poteto/how) - skill for explaining architecture
 - [zarazhangrui/tab-out](https://github.com/zarazhangrui/tab-out) - Keep tabs on your tabs. Turn your "New tabs" page into a mission control, so you can close them easily. Built for people who open too many tabs and never close them.
@@ -2111,7 +2114,7 @@
 - [JosXa/opencode-snippets](https://github.com/JosXa/opencode-snippets) - Hashtag-based snippet expansion plugin for OpenCode - instant inline text shortcuts
 - [Tarquinen/opencode-dynamic-context-pruning](https://github.com/Tarquinen/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage
 - [ariane-emory/MUST-have-plugin](https://github.com/ariane-emory/MUST-have-plugin) - A MUST-have plugin for OpenCode performing arbitrary text substitutions in props
-- [antongulin/opencode-skill-creator](https://github.com/antongulin/opencode-skill-creator) - OpenCode skill for creating, testing, and optimizing other OpenCode skills. Adapted from Anthropic's skill-creator for Claude Code.
+- [antongulin/opencode-skill-creator](https://github.com/antongulin/opencode-skill-creator) - Create, test, and optimize OpenCode skills. Supports OpenCode V2 and V1 ≥ 1.18.29. Adapted from Anthropic's skill-creator.
 - [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
 - [imbue-ai/bouncer](https://github.com/imbue-ai/bouncer) - Heal your social media feeds
 - [joeynyc/hermes-hudui](https://github.com/joeynyc/hermes-hudui) - Web UI consciousness monitor for Hermes — the AI agent with persistent memory
@@ -2193,7 +2196,7 @@
 - [numindai/NuMarkdown](https://github.com/numindai/NuMarkdown) - 
 - [modal-labs/open-batch-transcription](https://github.com/modal-labs/open-batch-transcription) - Transcribing audio files on Modal with open source ASR models is fast, cheap, and easy!
 - [opendatalab/OmniDocBench](https://github.com/opendatalab/OmniDocBench) - [CVPR 2025] A Comprehensive Benchmark for Document Parsing and Evaluation
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno is a security framework. Detect cyberfraud, account takeovers, and business logic abuse inside your product.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno is an open-source framework for building sovereign security, compliance and fraud prevention applications. Detect account takeovers, cyberfraud and business logic abuse inside your product.
 - [andrewjohngilbert/DANTE-AD](https://github.com/andrewjohngilbert/DANTE-AD) - 
 - [lacojim/FreeFactoryQT](https://github.com/lacojim/FreeFactoryQT) - Updated version of FreeFactory by James Hines (Lexridge) and Karl Swisher now rewritten in Python3 with Qt6..
 - [HelloCSV/HelloCSV](https://github.com/HelloCSV/HelloCSV) - https://hellocsv.github.io/HelloCSV/
@@ -2582,7 +2585,6 @@
 - [atduskgreg/opencv-processing](https://github.com/atduskgreg/opencv-processing) - OpenCV for Processing. A creative coding computer vision library based on the official OpenCV Java API
 - [cpietsch/vikus-viewer-script](https://github.com/cpietsch/vikus-viewer-script) - Scripts to generate sprite sheets and textures for VIKUS Viewer
 - [cpietsch/vikus-viewer](https://github.com/cpietsch/vikus-viewer) - Explore cultural collections along time, texture and themes
-- [rwhscott/uv-hello-world](https://github.com/rwhscott/uv-hello-world) - Fork of UniversalViewer/uv-hello-world that incorporates the manifest selection functionality from UniversalViewer/examples.
 - [c0decracker/video-splitter](https://github.com/c0decracker/video-splitter) - Simple Python script to split video into equal length chunks or chunks of equal size, duration, etc.
 - [dericed/framemd5cmp](https://github.com/dericed/framemd5cmp) - Present a comparison between framemd5 output of two video files.
 - [mkrufky/node-dvbtee](https://github.com/mkrufky/node-dvbtee) - MPEG2 transport stream parser for Node.js with support for television broadcast PSIP tables and descriptors
@@ -2811,6 +2813,7 @@
 
 ## python3 
 
+- [llnl/slapi](https://github.com/llnl/slapi) - This is a tool that talks to the Spectra Logic tape libraries using their LumOS REST API.
 - [superkabuki/threefive_is_scte35](https://github.com/superkabuki/threefive_is_scte35) - threefive decodes and encodes SCTE-35 in ALL SCTE-35 formats . If you need to encode SCTE-35 to HLS use x9k3.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [EdyVision/pii-codex](https://github.com/EdyVision/pii-codex) - A research python package for detecting, categorizing, and assessing the severity of personal identifiable information (PII)
@@ -3306,7 +3309,7 @@
 - [deepbeepmeep/Wan2GP](https://github.com/deepbeepmeep/Wan2GP) - A fast AI Video Generator for the GPU Poor. Supports Wan 2.1/2.2, LTX-2, Qwen Image, Hunyuan Video, LTX  Video and Flux.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [ictnlp/LLaVA-Mini](https://github.com/ictnlp/LLaVA-Mini) - LLaVA-Mini is a unified large multimodal model (LMM) that can support the understanding of images, high-resolution images, and videos in an efficient manner.
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and videos for any GitHub repository
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.
 - [X-PLUG/mPLUG-Owl](https://github.com/X-PLUG/mPLUG-Owl) - mPLUG-Owl: The Powerful Multi-modal Large Language Model  Family
 - [MME-Benchmarks/Video-MME](https://github.com/MME-Benchmarks/Video-MME) - ✨✨[CVPR 2025] Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis
 - [OpenGVLab/Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) - [CVPR2024 Highlight][VideoChatGPT] ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS.
