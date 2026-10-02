@@ -82,6 +82,7 @@
 
 ## C++ 
 
+- [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 - [gfhdhytghd/hymission](https://github.com/gfhdhytghd/hymission) - Mission control style workspace&windows overview plugin for Hyprland
 - [btsouth/omaroll](https://github.com/btsouth/omaroll) - A fast, beautiful image and video viewer that turns your media folders into a library.
 - [soyeb-jim285/hyprfm](https://github.com/soyeb-jim285/hyprfm) - A lightweight Qt6/QML file manager for Hyprland
@@ -217,7 +218,6 @@
 - [VigoZhao/AI-Visual-Prompt-Cookbook](https://github.com/VigoZhao/AI-Visual-Prompt-Cookbook) - 150+ plug-and-play JSON style prompts for Nano Banana Pro, GPT Image & Midjourney. Copy one style.json, get a consistent look. Updated daily.
 - [plannotator/effective-html](https://github.com/plannotator/effective-html) - Agent skills for useful HTML artifacts, wireframes, interactive prototypes, plans, and diagrams.
 - [zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates) - A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically.
-- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper.
 - [Cocoon-AI/architecture-diagram-generator](https://github.com/Cocoon-AI/architecture-diagram-generator) - Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Works as a Claude AI skill.
 - [TristanH/wikiwise](https://github.com/TristanH/wikiwise) - 
@@ -354,7 +354,6 @@
 - [greenstick/interactor](https://github.com/greenstick/interactor) - Front-End Code for Tracking Interactions and Conversions on Websites.
 - [phivk/nonlinearvideo](https://github.com/phivk/nonlinearvideo) - Non-Linear Video in HTML5 Workshop
 - [cpietsch/vikus-viewer](https://github.com/cpietsch/vikus-viewer) - Explore cultural collections along time, texture and themes
-- [rwhscott/uv-hello-world](https://github.com/rwhscott/uv-hello-world) - Fork of UniversalViewer/uv-hello-world that incorporates the manifest selection functionality from UniversalViewer/examples.
 - [SatadruBhattacharjee/react-tv-epg](https://github.com/SatadruBhattacharjee/react-tv-epg) - A HTML5 Canvas based EPG(TV Guide) React Component for TV and Set-top box
 - [TheScienceMuseum/entities-search-engine](https://github.com/TheScienceMuseum/entities-search-engine) - Scripts and microservice to feed an ElasticSearch with Wikidata and Inventaire entities, and keep those up-to-date
 - [europeana/media-player](https://github.com/europeana/media-player) - Media player developed under the Europeana Media Generic Services Project
@@ -369,7 +368,7 @@
 ## Jupyter Notebook 
 
 - [Deep-unlearning/smol-audio](https://github.com/Deep-unlearning/smol-audio) - Practical, Colab-friendly notebooks for fine-tuning and running audio AI models
-- [adrida/tracer](https://github.com/adrida/tracer) - Turn LLM traces into fast ML System 1 models. Classical ML for repetitive decisions, your teacher for the rest.
+- [adrida/tracer](https://github.com/adrida/tracer) - Distill your LLM traces into a fast hybrid System 1 models. Open-source ML + LLM inference with calibrated deferral.
 - [Digital-Scholarship-Oxford/crowdsourced-data-tools](https://github.com/Digital-Scholarship-Oxford/crowdsourced-data-tools) - Crowdsourced data tools
 - [Chaouabti/TiamaT](https://github.com/Chaouabti/TiamaT) - 
 - [kingsdigitallab/issa](https://github.com/kingsdigitallab/issa) - Intelligent Systems for Screen Archives
@@ -535,7 +534,7 @@
 
 - [grokability/snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system
 - [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno is a security framework. Detect cyberfraud, account takeovers, and business logic abuse inside your product.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno is an open-source framework for building sovereign security, compliance and fraud prevention applications. Detect account takeovers, cyberfraud and business logic abuse inside your product.
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
@@ -551,6 +550,7 @@
 
 ## Python 
 
+- [llnl/slapi](https://github.com/llnl/slapi) - This is a tool that talks to the Spectra Logic tape libraries using their LumOS REST API.
 - [kshetrajna12/reflex](https://github.com/kshetrajna12/reflex) - A small open decision model: state + typed questions -&gt; calibrated probabilities. A Jev / System One re-creation on Qwen3.5.
 - [jondkinney/omapop](https://github.com/jondkinney/omapop) - Select text and act on it: an Omarchy popup with PopClip-compatible extensions.
 - [bpozdena/OneDriveGUI](https://github.com/bpozdena/OneDriveGUI) - A simple GUI for OneDrive Linux client with multi-account support.
@@ -1063,7 +1063,7 @@
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 - [TheLinuxITGuy/Toolbox](https://github.com/TheLinuxITGuy/Toolbox) - Add/Remove software and change your mouse cursor on Linux with the click of a button
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AM
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple 
 - [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
 - [run-llama/liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
@@ -1072,6 +1072,7 @@
 - [anomalyco/terminal-control](https://github.com/anomalyco/terminal-control) - 
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [morganlinton/Albatross](https://github.com/morganlinton/Albatross) - Open source, terminal-first AI coding agent with fully transparent multi-model routing. Local (Ollama, LM Studio, MLX, llama.cpp) or cloud, your keys, one TUI. No black box.
+- [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
@@ -1192,7 +1193,7 @@
 - [Tarquinen/opencode-vim](https://github.com/Tarquinen/opencode-vim) - Vim-style editing and conversation navigation for OpenCode. Edit prompts, select and copy text, and browse your chats—all from the keyboard.
 - [OpenMouse-Project/openmouse](https://github.com/OpenMouse-Project/openmouse) - Browser-based control panel for supported gaming mice — change DPI, polling rate, and sensor settings without installing a driver.
 - [Leon-Drq/openagentskill](https://github.com/Leon-Drq/openagentskill) - The skill layer for AI agents: npm for AI Agent Skills.
-- [diffusionstudio/editor](https://github.com/diffusionstudio/editor) - An open-source video editor built for agents. Edits become code, code becomes video.
+- [diffusionstudio/editor](https://github.com/diffusionstudio/editor) - The VS Code of video editing, built for agents.
 - [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) - 
 - [afar1/fieldtheory-cli](https://github.com/afar1/fieldtheory-cli) - Field Theory CLI for bookmarks, Library, commands, and agent workflows
 - [trakt/trakt-api](https://github.com/trakt/trakt-api) - The Trakt API is a RESTful API that allows developers to integrate TV show and movie tracking features into their applications. It enables access to Trakt's extensive media database and lets apps sync
@@ -1208,7 +1209,7 @@
 - [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) - Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [tlehman/litprog-skill](https://github.com/tlehman/litprog-skill) - Literate programming skill for agent harnesses like Claude Code, OpenCode and Hermes Agent
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - Your definitive source for dashboard icons.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
 - [afar1/fieldtheory](https://github.com/afar1/fieldtheory) - Mac app to create context for agents: writing, reading, voice, terminal, bookmarks, and clipboard.
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny) - Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
@@ -1238,7 +1239,7 @@
 - [Tarquinen/opencode-dynamic-context-pruning](https://github.com/Tarquinen/opencode-dynamic-context-pruning) - Dynamic context pruning plugin for OpenCode - intelligently manages conversation context to optimize token usage
 - [openchamber/openchamber](https://github.com/openchamber/openchamber) - Agentic Development Environment based on OpenCode AI agent
 - [ariane-emory/MUST-have-plugin](https://github.com/ariane-emory/MUST-have-plugin) - A MUST-have plugin for OpenCode performing arbitrary text substitutions in props
-- [antongulin/opencode-skill-creator](https://github.com/antongulin/opencode-skill-creator) - OpenCode skill for creating, testing, and optimizing other OpenCode skills. Adapted from Anthropic's skill-creator for Claude Code.
+- [antongulin/opencode-skill-creator](https://github.com/antongulin/opencode-skill-creator) - Create, test, and optimize OpenCode skills. Supports OpenCode V2 and V1 ≥ 1.18.29. Adapted from Anthropic's skill-creator.
 - [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
 - [proxysoul/Empryo](https://github.com/proxysoul/Empryo) - Empryo's engine, v2 (soulforge) and issue tracker!! Empryo is the graph-powered AI coding agent that edits symbols, not strings: AST surgery, full LSP, a live code genome. Get it at https://empryo.com
 - [imbue-ai/bouncer](https://github.com/imbue-ai/bouncer) - Heal your social media feeds
@@ -1306,7 +1307,7 @@
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and videos for any GitHub repository
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
