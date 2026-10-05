@@ -87,7 +87,7 @@
 - [btsouth/omaroll](https://github.com/btsouth/omaroll) - A fast, beautiful image and video viewer that turns your media folders into a library.
 - [soyeb-jim285/hyprfm](https://github.com/soyeb-jim285/hyprfm) - A lightweight Qt6/QML file manager for Hyprland
 - [newx/omabook](https://github.com/newx/omabook) - Native ebook library and reader for Omarchy
-- [mudler/parakeet.cpp](https://github.com/mudler/parakeet.cpp) - Parakeet implementation in C++ with ggml
+- [mudler/parakeet.cpp](https://github.com/mudler/parakeet.cpp) - Fast and portable Parakeet implementation in C++ with ggml
 - [Luce-Org/lucebox](https://github.com/Luce-Org/lucebox) - LLM speculative inference server for heterogeneous hardware & consumer GPUs
 - [octobanana/peaclock](https://github.com/octobanana/peaclock) - A responsive and customizable clock, timer, and stopwatch for the terminal.
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
@@ -163,7 +163,7 @@
 - [brexhq/CrabTrap](https://github.com/brexhq/CrabTrap) - An LLM-as-a-judge HTTP proxy to secure agents in production
 - [simonw/rodney](https://github.com/simonw/rodney) - CLI tool for interacting with the web
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
-- [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) - Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.
+- [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) - Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.
 - [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.
 - [paradigmxyz/iron-proxy](https://github.com/paradigmxyz/iron-proxy) - An egress firewall for untrusted workloads.
@@ -262,7 +262,6 @@
 ## Java 
 
 - [OCR4all/OCR4all](https://github.com/OCR4all/OCR4all) - Provides OCR (Optical Character Recognition) services through web applications
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 - [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 - [kermitt2/grisp](https://github.com/kermitt2/grisp) - Knowledge Base stuff
@@ -630,7 +629,7 @@
 - [kcl-ddh/django-kiln](https://github.com/kcl-ddh/django-kiln) - Django application to integrate Django and Kiln
 - [billwuhao/ComfyUI_ACE-Step](https://github.com/billwuhao/ComfyUI_ACE-Step) - ACE-Step: A Step Towards Music Generation Foundation Model
 - [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5) - The most powerful local music generation model that outperforms almost all commercial alternatives, supporting Mac, AMD, Intel, and CUDA devices.
-- [superkabuki/threefive_is_scte35](https://github.com/superkabuki/threefive_is_scte35) - threefive decodes and encodes SCTE-35 in ALL SCTE-35 formats . If you need to encode SCTE-35 to HLS use x9k3.
+- [superkabuki/threefive_is_scte35](https://github.com/superkabuki/threefive_is_scte35) - The #1 SCTE-35 parser for five years. threefive decodes and encodes SCTE-35 in ALL SCTE-35 formats .
 - [Hui-design/TSPO](https://github.com/Hui-design/TSPO) - [AAAI 2026] ✨ TSPO: Temporal Sampling Policy Optimization for Long-form Video Language Understanding
 - [bevaya/GutenOCR](https://github.com/bevaya/GutenOCR) - Open-source tools for training and evaluating Vision Language Models for OCR
 - [ppannuto/python-titlecase](https://github.com/ppannuto/python-titlecase) - Python library to capitalize strings as specified by the New York Times Manual of Style
@@ -1315,6 +1314,7 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - OCR & Document Extraction using vision models
