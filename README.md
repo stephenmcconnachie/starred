@@ -11,6 +11,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Cython](#cython)
+- [D](#d)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Fluent](#fluent)
@@ -83,7 +84,7 @@
 
 - [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 - [gfhdhytghd/hymission](https://github.com/gfhdhytghd/hymission) - Mission control style workspace&windows overview plugin for Hyprland
-- [btsouth/omaroll](https://github.com/btsouth/omaroll) - A fast, beautiful image and video viewer that turns your media folders into a library.
+- [btsouth/omaroll](https://github.com/btsouth/omaroll) - A photo and video viewer and library for Omarchy, as good-looking as the rest of your desktop.
 - [soyeb-jim285/hyprfm](https://github.com/soyeb-jim285/hyprfm) - A lightweight Qt6/QML file manager for Hyprland
 - [newx/omabook](https://github.com/newx/omabook) - Native ebook library and reader for Omarchy
 - [mudler/parakeet.cpp](https://github.com/mudler/parakeet.cpp) - Fast and portable Parakeet implementation in C++ with ggml
@@ -128,6 +129,10 @@
 ## Cython 
 
 - [explosion/thinc-apple-ops](https://github.com/explosion/thinc-apple-ops) - 🍏 Make Thinc faster on macOS by calling into Apple's native Accelerate library
+
+## D 
+
+- [abraunegg/onedrive](https://github.com/abraunegg/onedrive) - OneDrive Client for Linux
 
 ## Dart 
 
@@ -257,7 +262,7 @@
 ## Java 
 
 - [OCR4all/OCR4all](https://github.com/OCR4all/OCR4all) - Provides OCR (Optical Character Recognition) services through web applications
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-version
 - [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 - [kermitt2/grisp](https://github.com/kermitt2/grisp) - Knowledge Base stuff
 - [grobidOrg/grobid](https://github.com/grobidOrg/grobid) - A machine learning software for extracting information from scholarly documents
@@ -531,7 +536,7 @@
 
 - [grokability/snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system
 - [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno is an open-source framework for building sovereign security, compliance and fraud prevention applications. Detect account takeovers, cyberfraud and business logic abuse inside your product.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno is a framework for building sovereign security, compliance and fraud prevention applications. Detect account takeovers, cyberfraud and business logic abuse inside your product.
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
@@ -558,7 +563,7 @@
 - [christopherowen/dgx-spark-fan-control](https://github.com/christopherowen/dgx-spark-fan-control) - Userland fan control for NVIDIA DGX Spark, with additive RPM floors, a temperature-based curve, Secure Boot signing, and DKMS support.
 - [christopherowen/dgx-spark-memory-saver](https://github.com/christopherowen/dgx-spark-memory-saver) - Recover usable memory on DGX Spark with a 64 KiB kernel: an opt-in NVIDIA UVM page-table packing patch, build tools, and measured validation.
 - [christopherowen/dgx-spark-networking](https://github.com/christopherowen/dgx-spark-networking) - Switchless RoCE collectives, NCCL profiles and fabric tooling for DGX Spark inference recipes
-- [christopherowen/spark-ds41f](https://github.com/christopherowen/spark-ds41f) - Reproducible Docker/vLLM deployment, tuning, and benchmarks for DeepSeek V4.1 Flash on a switchless three-node DGX Spark fabric.
+- [christopherowen/spark-ds41f](https://github.com/christopherowen/spark-ds41f) - Reproducible Docker/vLLM deployment, tuning, and benchmarks for DeepSeek V4.1 Flash on a switchless three-node or four-node DGX Spark fabric.
 - [eugr/spark-vllm-docker](https://github.com/eugr/spark-vllm-docker) - Docker configuration for running VLLM on dual DGX Sparks
 - [0xBakeer/deepseek-v41-flash-spark](https://github.com/0xBakeer/deepseek-v41-flash-spark) - DeepSeek-V4.1-Flash on a single DGX Spark (GB10): resident hot experts + NVMe streaming, DSpark, OpenAI API. Work in progress.
 - [sudoingX/dgx-spark-deepseek-v41](https://github.com/sudoingX/dgx-spark-deepseek-v41) - DeepSeek-V4.1-Flash on two NVIDIA DGX Sparks: EXL3 weights from the official checkpoint, upstream vLLM with our patches and decode kernels
@@ -569,7 +574,6 @@
 - [kshetrajna12/reflex](https://github.com/kshetrajna12/reflex) - A small open decision model: state + typed questions -&gt; calibrated probabilities. A Jev / System One re-creation on Qwen3.5.
 - [jondkinney/omapop](https://github.com/jondkinney/omapop) - Select text and act on it: an Omarchy popup with PopClip-compatible extensions.
 - [bpozdena/OneDriveGUI](https://github.com/bpozdena/OneDriveGUI) - A simple GUI for OneDrive Linux client with multi-account support.
-- [abraunegg/onedrive](https://github.com/abraunegg/onedrive) - OneDrive Client for Linux
 - [xhluca/session-migrate](https://github.com/xhluca/session-migrate) - Migrate coding agent sessions across 18 harnesses (Claude Code, Codex, Pi, OpenCode, Copilot, Antigravity, Vibe, Muse, Qwen, Kimi, Cursor, etc.)
 - [Kometa-Team/Kometa](https://github.com/Kometa-Team/Kometa) - Python script to update metadata information for items in plex as well as automatically build collections and playlists. The Wiki Documentation is linked below.
 - [libratbag/piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
@@ -646,7 +650,7 @@
 - [kcl-ddh/django-kiln](https://github.com/kcl-ddh/django-kiln) - Django application to integrate Django and Kiln
 - [billwuhao/ComfyUI_ACE-Step](https://github.com/billwuhao/ComfyUI_ACE-Step) - ACE-Step: A Step Towards Music Generation Foundation Model
 - [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5) - The most powerful local music generation model that outperforms almost all commercial alternatives, supporting Mac, AMD, Intel, and CUDA devices.
-- [superkabuki/threefive_is_scte35](https://github.com/superkabuki/threefive_is_scte35) - The #1 SCTE-35 parser for five years. threefive decodes and encodes SCTE-35 in ALL SCTE-35 formats .
+- [superkabuki/threefive_is_scte35](https://github.com/superkabuki/threefive_is_scte35) - The #1 SCTE-35 parser for five years. threefive decodes and encodes all SCTE-35 formats ***.
 - [Hui-design/TSPO](https://github.com/Hui-design/TSPO) - [AAAI 2026] ✨ TSPO: Temporal Sampling Policy Optimization for Long-form Video Language Understanding
 - [bevaya/GutenOCR](https://github.com/bevaya/GutenOCR) - Open-source tools for training and evaluating Vision Language Models for OCR
 - [ppannuto/python-titlecase](https://github.com/ppannuto/python-titlecase) - Python library to capitalize strings as specified by the New York Times Manual of Style
@@ -1364,7 +1368,7 @@
 - [osmoscraft/osmosmemo](https://github.com/osmoscraft/osmosmemo) - Turn GitHub into a bookmark manager
 - [hrishioa/wishful-search](https://github.com/hrishioa/wishful-search) - Natural language search for complex JSON arrays, with AI Quickstart.
 - [fromsmash/smash-downloader-js](https://github.com/fromsmash/smash-downloader-js) - Official JavaScript library to download transfers using the Smash API & SDK 🚀
-- [karolkozer/planby](https://github.com/karolkozer/planby) - 
+- [karolkozer/planby](https://github.com/karolkozer/planby) - Planby is a component for a quick implementation of Schedules, Timelines, Electronic Program Guide, Calendar Planner, Music Events and many more ideas. It uses a custom virtual view which allows you t
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
 - [mifi/ezshare](https://github.com/mifi/ezshare) - Easily share files, folders and clipboard over LAN - Like Google Drive but without internet
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
