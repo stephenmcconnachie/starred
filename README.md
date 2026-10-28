@@ -553,7 +553,6 @@
 ## Python 
 
 - [superdesigndev/treg](https://github.com/superdesigndev/treg) - OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
-- [NVIDIA/local-inference](https://github.com/NVIDIA/local-inference) - 
 - [drowzeys/Imagination-Studio-by-keys-Wasserman](https://github.com/drowzeys/Imagination-Studio-by-keys-Wasserman) - Imagination Studio by keys+Wasserman powered by TensorFold: an AI film studio for Mac and NVIDIA DGX Spark. Plan a film like a crew (Slate workflow by Sam Wasserman), render Qwen-Image-2.1 / FLUX3-K p
 - [capitalone/VulnHunter](https://github.com/capitalone/VulnHunter) - Agentic AI security tool that applies proactive, attacker-first analysis directly to source code.
 - [nealbridges/VulnHunter](https://github.com/nealbridges/VulnHunter) - Agentic AI security scanner that hunts exploitable vulnerabilities like an adversary, proves them with executable PoCs, and fixes them test-first. A maintained fork of Capital One's VulnHunter, rebuil
@@ -1082,6 +1081,7 @@
 
 ## Rust 
 
+- [NVIDIA/spark-local-inference](https://github.com/NVIDIA/spark-local-inference) - 
 - [storytold/filmcraft](https://github.com/storytold/filmcraft) - FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust
 - [storytold/vectorcraft](https://github.com/storytold/vectorcraft) - VectorCraft: An open-source, vector art tool written by scratch in pure Rust
 - [lgse/strata](https://github.com/lgse/strata) - The best file manager on Linux
@@ -1106,7 +1106,7 @@
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [llmmanorg/llmman](https://github.com/llmmanorg/llmman) - Run any agent on any model, models stored as OCI images
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
