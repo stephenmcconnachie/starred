@@ -1083,13 +1083,13 @@
 
 - [anomalyco/hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
-- [storytold/wordcraft](https://github.com/storytold/wordcraft) - An open-source, clean-room reimplementation of Microsoft Word in pure Rust
-- [storytold/lightcraft](https://github.com/storytold/lightcraft) - LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust
-- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust
-- [storytold/gridcraft](https://github.com/storytold/gridcraft) - GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.
-- [NVIDIA/spark-local-inference](https://github.com/NVIDIA/spark-local-inference) - 
-- [storytold/filmcraft](https://github.com/storytold/filmcraft) - FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust
-- [storytold/vectorcraft](https://github.com/storytold/vectorcraft) - VectorCraft: An open-source, vector art tool written by scratch in pure Rust
+- [storytold/wordcraft](https://github.com/storytold/wordcraft) - WordCraft: an open-source, clean-room word processor in pure Rust
+- [storytold/lightcraft](https://github.com/storytold/lightcraft) - LightCraft: An open-source non-destructive photo editor written from scratch in pure Rust
+- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source photo editor written from scratch in pure Rust
+- [storytold/gridcraft](https://github.com/storytold/gridcraft) - GridCraft: an open-source, clean-room spreadsheet in pure Rust. By ArtCraft.
+- [NVIDIA/hyperflare-inference](https://github.com/NVIDIA/hyperflare-inference) - 
+- [storytold/filmcraft](https://github.com/storytold/filmcraft) - FilmCraft: An open-source, nonlinear video editor written from scratch in pure Rust
+- [storytold/vectorcraft](https://github.com/storytold/vectorcraft) - VectorCraft: An open-source vector art tool written from scratch in pure Rust
 - [lgse/strata](https://github.com/lgse/strata) - The best file manager on Linux
 - [csfh/atmos](https://github.com/csfh/atmos) - Atmos: standalone Quickshell preferences for Omarchy
 - [thisisgm/flea](https://github.com/thisisgm/flea) - The fastest GUI file manager on Omarchy.
@@ -1154,7 +1154,7 @@
 - [MaximilianHansen/learnomarchy](https://github.com/MaximilianHansen/learnomarchy) - Learn to fly Omarchy ✈ — a keybind trainer that runs in your real window manager
 - [joaofelipegalvao/omarchy-yazi](https://github.com/joaofelipegalvao/omarchy-yazi) - Yazi themes for Omarchy
 - [jankeesvw/omarchy-time-machine](https://github.com/jankeesvw/omarchy-time-machine) - Scheduled restic backups for Omarchy, with a snapshot browser in the bar
-- [omacom/omarchy-mac](https://github.com/omacom/omarchy-mac) - Opinionated Arch/Hyprland Setup for Apple Silicon Macs M1/M2
+- [omacom/omarchy-mac](https://github.com/omacom/omarchy-mac) - Omarchy for Apple Silicon is now an official Omacom solution, part of Omarchy itself. Install it from omarchy.org/manual/mac-support
 - [erenciracioglu-dotcom/hermes-self-evolution](https://github.com/erenciracioglu-dotcom/hermes-self-evolution) - A self-evolving harness framework for Hermes Agent. Evolution + Critic + Verifier + Gardener cooperate to make your Hermes instance measurably more useful over time. Generic, MIT-licensed, ships empty
 - [wassermanproductions/wassermans-filmmaker-suite](https://github.com/wassermanproductions/wassermans-filmmaker-suite) - Wasserman's Filmmaker Suite — ScriptBreak, Cork Board, Master Canvas, Blockout, Motion Previs Studio, Storyboard Reference Studio, Circle Take, Stem Studio, and the Unofficial DaVinci MCP: AI-native f
 - [davidondrej/skills](https://github.com/davidondrej/skills) - access to david ondrej's personal agent skills
