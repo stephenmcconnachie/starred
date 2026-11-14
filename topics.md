@@ -2114,6 +2114,7 @@
 
 ## others 
 
+- [MadejaJiri/omarchy-mac-xdr](https://github.com/MadejaJiri/omarchy-mac-xdr) - Full dynamic range (XDR brightness and HDR) for Apple Silicon MacBook Pro displays on Omarchy
 - [davanstrien/saturate](https://github.com/davanstrien/saturate) - Batch inference for datasets: rows in, any OpenAI-compatible endpoint, resumable parquet out. Congestion-aware concurrency — no tuning.
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [anomalyco/grim](https://github.com/anomalyco/grim) - Don't think for yourself
